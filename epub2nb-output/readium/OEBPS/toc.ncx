@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="81a07179-cb07-4493-ae10-c2d726b7740e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Červený a černý</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>DÍL PRVNÍ</text>
+      </navLabel>
+      <content src="Text/cerveny_a_cerny_005.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>1. Městečko</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>2. Starosta</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>3. Jmění chudých</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>4. Otec a syn</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>5. Vyjednávání</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>6. Nuda</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>7. Spříznění volbou</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>8. Drobné události</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>9. Večer na venkově</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>10. Velká odvaha a malé štěstí</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>11. Večer</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>12. Cesta</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>13. Prolamované punčochy</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>14. Anglické nůžky</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>15. Kuropění</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>16. Příští den</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>17. První náměstek</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>18. Král ve Verrières</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>19. Myšlení bolí</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>20. Anonymní dopisy</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>21. Rozmluva s pánem</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>22. Jak se jednalo roku 1830</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_027.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>23. Trampoty vysokého úředníka</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>24. Krajské město</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>25. Seminář</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>26. Svět čili co chybí boháči</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>27. První životní zkušenosti</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>28. Procesí</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>29. První povýšení</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_034.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>30. Ctižádostivec</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_035.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>DÍL DRUHÝ</text>
+      </navLabel>
+      <content src="Text/cerveny_a_cerny_036.html"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>1. Slasti venkova</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_037.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>2. Vstup do světa</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_038.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>3. První kroky</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_039.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>4. Palác markýze de la Mole</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_040.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>5. Citlivost a vznešená zbožná dáma</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_041.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>6. Konverzační umění</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_042.html"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>7. Záchvat dny</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_043.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>8. Které vyznamenání vyznamenává?</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_044.html"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>9. Ples</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_045.html"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>10. Královna Markéta</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_046.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>11. Vláda mladé dívky</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_047.html"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>12. Je to snad druhý Danton?</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_048.html"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>13. Spiknutí</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_049.html"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>14. Myšlenky mladé dívky</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_050.html"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>15. Je to spiknutí?</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_051.html"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>16. Jedna hodina v noci</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_052.html"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>17. Starý meč</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_053.html"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>18. Kruté chvíle</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_054.html"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>19. Komická opera</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_055.html"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>20. Japonská váza</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_056.html"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>21. Tajná nóta</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_057.html"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>22. Rokování</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_058.html"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>23. Kněžstvo, lesy, svoboda</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_059.html"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>24. Štrasburk</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_060.html"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>25. Ministerstvo ctnosti</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_061.html"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>26. Duchovní láska</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_062.html"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>27. Nejkrásnější prebendy</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_063.html"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>28. Manon Lescaut</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_064.html"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>29. Nuda</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_065.html"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>30. Lóže v komické opeře</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_066.html"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>31. Síla strachu</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_067.html"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>32. Tygr</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_068.html"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>33. Peklo nerozhodnosti</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_069.html"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>34. Moudrý muž</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_070.html"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>35. Bouře</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_071.html"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>36. Smutné podrobnosti</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_072.html"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>37. Hradní věž</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_073.html"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>38. Mocný člověk</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_074.html"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>39. Pletichy</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_075.html"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>40. Klid</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_076.html"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>41. Rozsudek</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_077.html"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>42.</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_078.html"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>43.</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_079.html"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>44.</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_080.html"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>45.</text>
+        </navLabel>
+        <content src="Text/cerveny_a_cerny_081.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/cerveny_a_cerny_082.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
