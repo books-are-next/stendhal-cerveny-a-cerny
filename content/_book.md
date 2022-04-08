@@ -1,36 +1,108 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Červený a černý
+  identifier: 81a07179-cb07-4493-ae10-c2d726b7740e
+  author: Stendhal
+  publisher: Městská knihovna v Praze
+  modified: '2017-09-15T00:00:00.000Z'
+readingOrder:
+  - cerveny_a_cerny_001.html
+  - cerveny_a_cerny_002.html
+  - cerveny_a_cerny_003.html
+  - cerveny_a_cerny_004.html
+  - cerveny_a_cerny_005.html
+  - cerveny_a_cerny_006.html
+  - cerveny_a_cerny_007.html
+  - cerveny_a_cerny_008.html
+  - cerveny_a_cerny_009.html
+  - cerveny_a_cerny_010.html
+  - cerveny_a_cerny_011.html
+  - cerveny_a_cerny_012.html
+  - cerveny_a_cerny_013.html
+  - cerveny_a_cerny_014.html
+  - cerveny_a_cerny_015.html
+  - cerveny_a_cerny_016.html
+  - cerveny_a_cerny_017.html
+  - cerveny_a_cerny_018.html
+  - cerveny_a_cerny_019.html
+  - cerveny_a_cerny_020.html
+  - cerveny_a_cerny_021.html
+  - cerveny_a_cerny_022.html
+  - cerveny_a_cerny_023.html
+  - cerveny_a_cerny_024.html
+  - cerveny_a_cerny_025.html
+  - cerveny_a_cerny_026.html
+  - cerveny_a_cerny_027.html
+  - cerveny_a_cerny_028.html
+  - cerveny_a_cerny_029.html
+  - cerveny_a_cerny_030.html
+  - cerveny_a_cerny_031.html
+  - cerveny_a_cerny_032.html
+  - cerveny_a_cerny_033.html
+  - cerveny_a_cerny_034.html
+  - cerveny_a_cerny_035.html
+  - cerveny_a_cerny_036.html
+  - cerveny_a_cerny_037.html
+  - cerveny_a_cerny_038.html
+  - cerveny_a_cerny_039.html
+  - cerveny_a_cerny_040.html
+  - cerveny_a_cerny_041.html
+  - cerveny_a_cerny_042.html
+  - cerveny_a_cerny_043.html
+  - cerveny_a_cerny_044.html
+  - cerveny_a_cerny_045.html
+  - cerveny_a_cerny_046.html
+  - cerveny_a_cerny_047.html
+  - cerveny_a_cerny_048.html
+  - cerveny_a_cerny_049.html
+  - cerveny_a_cerny_050.html
+  - cerveny_a_cerny_051.html
+  - cerveny_a_cerny_052.html
+  - cerveny_a_cerny_053.html
+  - cerveny_a_cerny_054.html
+  - cerveny_a_cerny_055.html
+  - cerveny_a_cerny_056.html
+  - cerveny_a_cerny_057.html
+  - cerveny_a_cerny_058.html
+  - cerveny_a_cerny_059.html
+  - cerveny_a_cerny_060.html
+  - cerveny_a_cerny_061.html
+  - cerveny_a_cerny_062.html
+  - cerveny_a_cerny_063.html
+  - cerveny_a_cerny_064.html
+  - cerveny_a_cerny_065.html
+  - cerveny_a_cerny_066.html
+  - cerveny_a_cerny_067.html
+  - cerveny_a_cerny_068.html
+  - cerveny_a_cerny_069.html
+  - cerveny_a_cerny_070.html
+  - cerveny_a_cerny_071.html
+  - cerveny_a_cerny_072.html
+  - cerveny_a_cerny_073.html
+  - cerveny_a_cerny_074.html
+  - cerveny_a_cerny_075.html
+  - cerveny_a_cerny_076.html
+  - cerveny_a_cerny_077.html
+  - cerveny_a_cerny_078.html
+  - cerveny_a_cerny_079.html
+  - cerveny_a_cerny_080.html
+  - cerveny_a_cerny_081.html
+  - cerveny_a_cerny_082.html
+  - cerveny_a_cerny_083.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
