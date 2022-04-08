@@ -22,7 +22,7 @@
       "hrAfter": "",
       "br": "",
       "brBefore": "e-bookodsazeniodstavcepred\ne-bookodsazeniodstavcepredaza",
-      "brAfter": "e-bookodsazeniodstavcepredaza",
+      "brAfter": "e-bookodsazeniodstavcepredaza\ne-bookodsazeniodstavceza",
       "blockquote": "",
       "figure": "",
       "em": "e-bookvenovani\ne-bookdopiskurziva \ne-bookdopiskurziva1 \ne-bookdopiskurzivabezpredsazeni \ne-bookdopiskurzivadoprava \ne-bookdopiskurzivaodstredu \ne-bookdopiskurzivaodstredu1 \ne-bookversebezpredsazeni12bzakurziva\ne-bookprozatextkurziva\ne-bookprozatextuprostredkurziva\ne-bookdopiskurzvaodstedu",
@@ -94,7 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "DÍL PRVNÍ"
           },
           {
             "filename": "cerveny_a_cerny_006.md",
@@ -106,7 +107,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "1. Městečko"
           },
           {
             "filename": "cerveny_a_cerny_007.md",
@@ -118,7 +120,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "2. Starosta"
           },
           {
             "filename": "cerveny_a_cerny_008.md",
@@ -130,7 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "3. Jmění chudých"
           },
           {
             "filename": "cerveny_a_cerny_009.md",
@@ -142,7 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "4. Otec a syn"
           },
           {
             "filename": "cerveny_a_cerny_010.md",
@@ -154,7 +159,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "5. Vyjednávání"
           },
           {
             "filename": "cerveny_a_cerny_011.md",
@@ -166,7 +172,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "6. Nuda"
           },
           {
             "filename": "cerveny_a_cerny_012.md",
@@ -178,7 +185,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "7. Spříznění volbou"
           },
           {
             "filename": "cerveny_a_cerny_013.md",
@@ -190,7 +198,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "8. Drobné události"
           },
           {
             "filename": "cerveny_a_cerny_014.md",
@@ -202,7 +211,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "9. Večer na venkově"
           },
           {
             "filename": "cerveny_a_cerny_015.md",
@@ -214,7 +224,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "10. Velká odvaha a malé štěstí"
           },
           {
             "filename": "cerveny_a_cerny_016.md",
@@ -226,7 +237,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "11. Večer"
           },
           {
             "filename": "cerveny_a_cerny_017.md",
@@ -238,7 +250,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "12. Cesta"
           },
           {
             "filename": "cerveny_a_cerny_018.md",
@@ -250,7 +263,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "13. Prolamované punčochy"
           },
           {
             "filename": "cerveny_a_cerny_019.md",
@@ -262,7 +276,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "14. Anglické nůžky"
           },
           {
             "filename": "cerveny_a_cerny_020.md",
@@ -274,7 +289,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "15. Kuropění"
           },
           {
             "filename": "cerveny_a_cerny_021.md",
@@ -286,7 +302,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "16. Příští den"
           },
           {
             "filename": "cerveny_a_cerny_022.md",
@@ -298,7 +315,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "17. První náměstek"
           },
           {
             "filename": "cerveny_a_cerny_023.md",
@@ -310,7 +328,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "18. Král ve Verrières"
           },
           {
             "filename": "cerveny_a_cerny_024.md",
@@ -322,7 +341,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "19. Myšlení bolí"
           },
           {
             "filename": "cerveny_a_cerny_025.md",
@@ -334,7 +354,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "20. Anonymní dopisy"
           },
           {
             "filename": "cerveny_a_cerny_026.md",
@@ -346,7 +367,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "21. Rozmluva s pánem"
           },
           {
             "filename": "cerveny_a_cerny_027.md",
@@ -358,7 +380,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "22. Jak se jednalo roku 1830"
           },
           {
             "filename": "cerveny_a_cerny_028.md",
@@ -370,7 +393,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "23. Trampoty vysokého úředníka"
           },
           {
             "filename": "cerveny_a_cerny_029.md",
@@ -382,7 +406,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "24. Krajské město"
           },
           {
             "filename": "cerveny_a_cerny_030.md",
@@ -394,7 +419,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "25. Seminář"
           },
           {
             "filename": "cerveny_a_cerny_031.md",
@@ -406,7 +432,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "26. Svět čili co chybí boháči"
           },
           {
             "filename": "cerveny_a_cerny_032.md",
@@ -418,7 +445,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "27. První životní zkušenosti"
           },
           {
             "filename": "cerveny_a_cerny_033.md",
@@ -430,7 +458,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "28. Procesí"
           },
           {
             "filename": "cerveny_a_cerny_034.md",
@@ -442,7 +471,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "29. První povýšení"
           },
           {
             "filename": "cerveny_a_cerny_035.md",
@@ -454,7 +484,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "30. Ctižádostivec"
           },
           {
             "filename": "cerveny_a_cerny_036.md",
@@ -466,7 +497,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "DÍL DRUHÝ"
           },
           {
             "filename": "cerveny_a_cerny_037.md",
@@ -478,7 +510,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "1. Slasti venkova"
           },
           {
             "filename": "cerveny_a_cerny_038.md",
@@ -490,7 +523,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "2. Vstup do světa"
           },
           {
             "filename": "cerveny_a_cerny_039.md",
@@ -502,7 +536,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "3. První kroky"
           },
           {
             "filename": "cerveny_a_cerny_040.md",
@@ -514,7 +549,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "4. Palác markýze de la Mole"
           },
           {
             "filename": "cerveny_a_cerny_041.md",
@@ -526,7 +562,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "5. Citlivost a vznešená zbožná dáma"
           },
           {
             "filename": "cerveny_a_cerny_042.md",
@@ -538,7 +575,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "6. Konverzační umění"
           },
           {
             "filename": "cerveny_a_cerny_043.md",
@@ -550,7 +588,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "7. Záchvat dny"
           },
           {
             "filename": "cerveny_a_cerny_044.md",
@@ -562,7 +601,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "8. Které vyznamenání vyznamenává?"
           },
           {
             "filename": "cerveny_a_cerny_045.md",
@@ -574,7 +614,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "9. Ples"
           },
           {
             "filename": "cerveny_a_cerny_046.md",
@@ -586,7 +627,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "10. Královna Markéta"
           },
           {
             "filename": "cerveny_a_cerny_047.md",
@@ -598,7 +640,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "11. Vláda mladé dívky"
           },
           {
             "filename": "cerveny_a_cerny_048.md",
@@ -610,7 +653,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "12. Je to snad druhý Danton?"
           },
           {
             "filename": "cerveny_a_cerny_049.md",
@@ -622,7 +666,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "13. Spiknutí"
           },
           {
             "filename": "cerveny_a_cerny_050.md",
@@ -634,7 +679,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "14. Myšlenky mladé dívky"
           },
           {
             "filename": "cerveny_a_cerny_051.md",
@@ -646,7 +692,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "15. Je to spiknutí?"
           },
           {
             "filename": "cerveny_a_cerny_052.md",
@@ -658,7 +705,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "16. Jedna hodina v noci"
           },
           {
             "filename": "cerveny_a_cerny_053.md",
@@ -670,7 +718,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "17. Starý meč"
           },
           {
             "filename": "cerveny_a_cerny_054.md",
@@ -682,7 +731,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "18. Kruté chvíle"
           },
           {
             "filename": "cerveny_a_cerny_055.md",
@@ -694,7 +744,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "19. Komická opera"
           },
           {
             "filename": "cerveny_a_cerny_056.md",
@@ -706,7 +757,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "20. Japonská váza"
           },
           {
             "filename": "cerveny_a_cerny_057.md",
@@ -718,7 +770,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "21. Tajná nóta"
           },
           {
             "filename": "cerveny_a_cerny_058.md",
@@ -730,7 +783,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "22. Rokování"
           },
           {
             "filename": "cerveny_a_cerny_059.md",
@@ -742,7 +796,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "23. Kněžstvo, lesy, svoboda"
           },
           {
             "filename": "cerveny_a_cerny_060.md",
@@ -754,7 +809,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "24. Štrasburk"
           },
           {
             "filename": "cerveny_a_cerny_061.md",
@@ -766,7 +822,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "25. Ministerstvo ctnosti"
           },
           {
             "filename": "cerveny_a_cerny_062.md",
@@ -778,7 +835,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "26. Duchovní láska"
           },
           {
             "filename": "cerveny_a_cerny_063.md",
@@ -790,7 +848,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "27. Nejkrásnější prebendy"
           },
           {
             "filename": "cerveny_a_cerny_064.md",
@@ -802,7 +861,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "28. Manon Lescaut"
           },
           {
             "filename": "cerveny_a_cerny_065.md",
@@ -814,7 +874,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "29. Nuda"
           },
           {
             "filename": "cerveny_a_cerny_066.md",
@@ -826,7 +887,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "30. Lóže v komické opeře"
           },
           {
             "filename": "cerveny_a_cerny_067.md",
@@ -838,7 +900,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "31. Síla strachu"
           },
           {
             "filename": "cerveny_a_cerny_068.md",
@@ -850,7 +913,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "32. Tygr"
           },
           {
             "filename": "cerveny_a_cerny_069.md",
@@ -862,7 +926,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "33. Peklo nerozhodnosti"
           },
           {
             "filename": "cerveny_a_cerny_070.md",
@@ -874,7 +939,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "34. Moudrý muž"
           },
           {
             "filename": "cerveny_a_cerny_071.md",
@@ -886,7 +952,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "35. Bouře"
           },
           {
             "filename": "cerveny_a_cerny_072.md",
@@ -898,7 +965,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "36. Smutné podrobnosti"
           },
           {
             "filename": "cerveny_a_cerny_073.md",
@@ -910,7 +978,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "37. Hradní věž"
           },
           {
             "filename": "cerveny_a_cerny_074.md",
@@ -922,7 +991,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "38. Mocný člověk"
           },
           {
             "filename": "cerveny_a_cerny_075.md",
@@ -934,7 +1004,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "39. Pletichy"
           },
           {
             "filename": "cerveny_a_cerny_076.md",
@@ -946,7 +1017,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "40. Klid"
           },
           {
             "filename": "cerveny_a_cerny_077.md",
@@ -958,7 +1030,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "41. Rozsudek"
           },
           {
             "filename": "cerveny_a_cerny_078.md",
@@ -970,7 +1043,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "42."
           },
           {
             "filename": "cerveny_a_cerny_079.md",
@@ -982,7 +1056,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "43."
           },
           {
             "filename": "cerveny_a_cerny_080.md",
@@ -994,7 +1069,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "44."
           },
           {
             "filename": "cerveny_a_cerny_081.md",
@@ -1006,7 +1082,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "45."
           },
           {
             "filename": "cerveny_a_cerny_082.md",
@@ -1018,13 +1095,14 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "cerveny_a_cerny_083.md",
             "xhtml": "cerveny_a_cerny_083.html",
             "id": 82,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -1669,6 +1747,6 @@
       "user": "books-are-next",
       "repo": "stendhal-cerveny-a-cerny"
     },
-    "generatedAt": 1649412990047
+    "generatedAt": 1649413505502
   }
 }

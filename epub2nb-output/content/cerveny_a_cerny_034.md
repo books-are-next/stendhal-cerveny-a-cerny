@@ -107,6 +107,8 @@ Jednoho dne dostal abbé Pirard lístek, aby se v nutné věci dostavil bez odkl
 
 Dopis byl krátký:
 
+  
+
 _Vyprosťte se, drahý abbé, ze všech venkovských mrzutostí a přijeďte si oddechnout do Paříže. Posílám Vám svůj vůz, který má nařízeno čekat čtyři dny na Vaše rozhodnutí. Budu Vás sám až do úterka v Paříži očekávat. Stačí mi jen vaše svolení, abych přijal Vaším jménem jednu z nejbohatších far v okolí Paříže. Nejbohatší z Vašich budoucích farníků Vás sice ještě nikdy neviděl, ale je Vám oddán více, než si můžete pomyslit; je to Váš_
 
 _markýz de la Mole._

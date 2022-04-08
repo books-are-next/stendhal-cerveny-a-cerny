@@ -2,16 +2,16 @@
   "author": "Stendhal",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "stendhal-cerveny-a-cerny-e7b5669",
+  "identifier": "stendhal-cerveny-a-cerny-1abcf42",
   "languagecode": "cs",
   "modified": "2017-09-15T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Červený a černý",
-  "revision": "e7b5669",
+  "revision": "1abcf42",
   "generatedAt": {
-    "date": "Fri Apr 08 2022 10:17:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649413044013
+    "date": "Fri Apr 08 2022 10:25:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649413559597
   },
   "documents": [
     {
@@ -1583,7 +1583,7 @@
       "role": "chapter",
       "order": 78,
       "prev": "cerveny_a_cerny_081.html",
-      "next": "cerveny_a_cerny_083.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -1595,34 +1595,14 @@
       ]
     },
     {
-      "title": "Červený a černý",
-      "file": "cerveny_a_cerny_083.html",
-      "words": 46,
-      "chars": 294,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 79,
-      "prev": "cerveny_a_cerny_082.html",
-      "next": "colophon.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž • Červený a černý",
       "file": "colophon.html",
-      "words": 86,
-      "chars": 555,
-      "ideas": 11,
+      "words": 132,
+      "chars": 849,
+      "ideas": 24,
       "role": "colophon",
       "order": null,
-      "prev": "cerveny_a_cerny_083.html",
+      "prev": "cerveny_a_cerny_082.html",
       "next": null,
       "toc": [
         {
@@ -1642,9 +1622,9 @@
       "ideas": 3866
     },
     "chapters": {
-      "words": 143627,
-      "chars": 876299,
-      "ideas": 3851
+      "words": 143581,
+      "chars": 876005,
+      "ideas": 3838
     }
   }
 }

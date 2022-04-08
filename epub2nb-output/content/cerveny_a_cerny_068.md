@@ -77,6 +77,8 @@ Matylda byla velmi šťastna. Julián hrál svou úlohu tak dobře, že se mu po
 
 Osudný úterek nastal. Když se markýz o půlnoci vrátil domů, našel dopis, na němž bylo napsáno, že jej má otevřít sám a beze svědků.
 
+  
+
 _Milý otče,_
 
 _všechny společenské svazky mezi námi jsou přetrhány, zůstávají jen svazky přírody. Po mém manželovi jste a budete mi vždy nejdražší bytostí. Oči se mi plní slzami, vím, jaký zármutek Vám působím. Ale aby se má hanba neprozradila a abych Vám poskytla dosti času všechno uvážit a podle toho jednat, nemohla jsem déle odkládat přiznání, jímž jsem Vám povinna. Poskytne-li mi Vaše dobrota, již, jak vím, jste mi vždy prokazoval v nejvyšší míře, malý roční důchod, usadím se se svým manželem, kde si budete přát, například ve Švýcarsku. Jeho jméno je tak málo známé, že v paní Sorelové, snaše verrièreského tesaře, nikdo nepozná Vaši dceru. To tedy je to jméno, ale píši je s velkým přemáháním. Obávám se, že vzplanete k Juliánovi hněvem, který je zdánlivě spravedlivý. Nebudu vévodkyní, otče; ale to jsem věděla, když jsem ho začala milovat; neboť já jsem ho první milovala, já jsem ho svedla. Mám po Vás příliš hrdou duši, abych mohla věnovat pozornost lidem, kteří jsou anebo se mi zdají všední. Marně jsem se podle Vašeho přání snažila myslit na pana de Croisenois. Proč jste mě sám upozornil na Juliánovy přednosti? Po mém návratu z Hyères  jste mi řekl: „Ten mladý Sorel je jediný člověk, který mě zajímá.“ Ten ubohý hoch je, možno-li, právě tak zoufalý jako já z toho, že Vám tento dopis způsobí tak velkou bolest. Nemohu zabránit tomu, abyste jako otec nebyl na mne rozhořčen; ale milujte mě aspoň jako přítel._
