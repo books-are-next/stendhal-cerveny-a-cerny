@@ -25,6 +25,8 @@ Tedy budiž, příteli, ano, za tři dny budu sťat,“ odpověděl hlasu, kter�
 
 Vzpomněl si na toto místo z Rotrouova Václava**_:_**
 
+  
+
 LADISLAV:
 
 _… Má duše přichystána jest._

@@ -19,6 +19,8 @@ Paní de la Mole a ostatní obyvatelé domu se domnívali, že Julián cestuje p
 
 „Nechci vědět, kde je ten člověk,“ řekl jí jednoho dne markýz. „Pošlete mu tento dopis.“ Matylda četla:
 
+  
+
 _Mé statky v Languedoku vynášejí 20.600 franků. Dávám z nich 10.600 franků své dceři a 10.000 franků Juliánu Sorelovi. Samozřejmě dávám jim i ty statky. Řekněte notáři, aby vyhotovil dvě darovací listiny, každou zvlášť, a aby mi je zítra přinesl. Pak přestanou mezi námi všechny další styky. Ach, pane Soreli, toho bych se nebyl nadál!_
 
 _Markýz DE LA MOLE_
@@ -64,6 +66,8 @@ Matylda tvrdí, že to není pravda… Ne, pane Juliáne, zde si nenechám nic n
 Mohla se dívka tak hrdé povahy zapomenout tak, aby mu zřejmě nadcházela?… Stisknout mu večer v zahradě ruku! Jak je to sprosté! Jako kdyby nebyla měla spoustu méně neslušných prostředků, aby mu dala najevo svou přízeň.
 
 Kdo se omlouvá, obviňuje se_;_ nedůvěřuji Matyldě…“ Toho dne docházel markýz ve svých úvahách k určitějším závěrům než obyčejně. Ale zvyk zvítězil a rozhodl se, že musí získat čas a dceři napsat. Neboť v paláci de la Mole si z jednoho konce domu do druhého dopisovali. Pan de la Mole se neodvažoval s dcerou diskutovat a odporovat jí. Bál se, že by celou záležitost ukončil náhlou ústupností.
+
+  
 
 DOPIS
 
