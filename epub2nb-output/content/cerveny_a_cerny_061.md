@@ -1,11 +1,11 @@
 ---
+title: |-
+  25.
+  Ministerstvo ctnosti
 contentType: prose
 ---
 
-## 25.  
-Ministerstvo ctnosti
-
-Ale budu-li té rozkoše užívat tak rozumně a opatrně, nebude to pro mne už rozkoš.
+_Ale budu-li té rozkoše užívat tak rozumně a opatrně, nebude to pro mne už rozkoš._
 
 — LOPE DE VEGA
 
@@ -29,14 +29,14 @@ Julián pozbýval trpělivosti nad rozvláčností a neochvějnou netečností �
 
 „Maršálová de Fervaques je tedy plná nenávisti; pronásleduje nemilosrdně lidi, jež nikdy neviděla, advokáty, ubohé literáty, kteří skládají písničky, jako například Collé; znáte to?
 
-Nesmíte mi zazlívat,  
-že mám Máňu velmi rád atd.“
+_Nesmíte mi zazlívat,  
+že mám Máňu velmi rád atd.“_
 
 A Julián ji musel celou vyslechnout. Španěl měl velkou radost, že může zpívat francouzsky.
 
 Julián se nemohl dočkat, až tu božskou píseň dozpívá. Když s ní byl u konce, don Diego Bustos řekl: „Maršálová připravila o místo skladatele písně:
 
-Když v krčmě milenec…“
+_Když v krčmě milenec…“_
 
 Julián se chvěl strachem, aby mu ji snad nechtěl zazpívat. Španěl se spokojil tím, že podal její rozbor. Byla opravdu rouhavá a neslušná.
 

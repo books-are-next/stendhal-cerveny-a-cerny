@@ -1,11 +1,11 @@
 ---
+title: |-
+  7.
+  Záchvat dny
 contentType: prose
 ---
 
-## 7.  
-Záchvat dny
-
-A byl jsem povýšen, ne pro svou zásluhu, ale proto, že můj pán měl dnu.
+_A byl jsem povýšen, ne pro svou zásluhu, ale proto, že můj pán měl dnu._
 
 — BERTOLOTTI
 

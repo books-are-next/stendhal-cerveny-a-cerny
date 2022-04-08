@@ -1,11 +1,11 @@
 ---
+title: |-
+  2.
+  Starosta
 contentType: prose
 ---
 
-## 2.  
-Starosta
-
-Důležitost! Pane, to není nic? Úcta hlupáků, podiv dětí, závist boháčů, opovržení moudrého člověka.
+_Důležitost! Pane, to není nic? Úcta hlupáků, podiv dětí, závist boháčů, opovržení moudrého člověka._
 
 — BARNAVE
 

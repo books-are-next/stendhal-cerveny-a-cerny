@@ -1,11 +1,11 @@
 ---
+title: |-
+  2.
+  Vstup do světa
 contentType: prose
 ---
 
-## 2.  
-Vstup do světa
-
-Směšná a dojemná vzpomínka: první salón, v němž jsem se v osmnácti letech objevil sám a bez opory! Pohled ženy stačil, aby mě postrašil. Čím více jsem se chtěl líbit, tím neobratnějším jsem se stával. Měl jsem o všem docela nesprávné představy; buď jsem byl bezdůvodně důvěřivý, anebo jsem viděl v někom nepřítele jen proto, že na mne vážně pohlédl. Ale přes mou nešťastnou nesmělost, jak krásný byl každý krásný den!
+_Směšná a dojemná vzpomínka: první salón, v němž jsem se v osmnácti letech objevil sám a bez opory! Pohled ženy stačil, aby mě postrašil. Čím více jsem se chtěl líbit, tím neobratnějším jsem se stával. Měl jsem o všem docela nesprávné představy; buď jsem byl bezdůvodně důvěřivý, anebo jsem viděl v někom nepřítele jen proto, že na mne vážně pohlédl. Ale přes mou nešťastnou nesmělost, jak krásný byl každý krásný den!_
 
 — KANT
 

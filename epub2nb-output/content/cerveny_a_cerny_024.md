@@ -1,11 +1,11 @@
 ---
+title: |-
+  19.
+  Myšlení bolí
 contentType: prose
 ---
 
-## 19.  
-Myšlení bolí
-
-Grotesknost každodenních událostí zakrývá pravé neštěstí vášní.
+_Grotesknost každodenních událostí zakrývá pravé neštěstí vášní._
 
 — BARNAVE
 
@@ -15,15 +15,21 @@ Když do pokoje, v němž bydlel pan de la Mole, stavěli opět dřívější n�
 
 Byla to žádost psaná hrubým písmem, jakým píší kuchařky.
 
-Pane markýzi,
+_Pane markýzi,_
 
-po celý život jsem se řídil náboženskými zásadami. Roku třiadevadesátého neblahé paměti byl jsem při obléhání Lyonu vystaven granátům. Chodím ke sv. přijímání a každou neděli do farního kostela na mši. Neopominul jsem nikdy velikonočních povinností, ani roku třiadevadesátého neblahé paměti. Má kuchařka – před revolucí jsem měl služebnictvo – vaří každý pátek postní jídla. Požívám ve Verrières všeobecné a smím říci zasloužené vážnosti. Při průvodech kráčím pod nebesy vedle pana faráře a pana starosty. Při slavnostních příležitostech nosím velkou svíci, kterou kupuji na vlastní útraty. Úřední osvědčení o tom všem jsou uložena v Paříži u ministerstva financí. Prosím pana markýze o verrièreskou loterní kancelář, která se ať tím nebo oním způsobem rozhodně v nejbližší době uprázdní, protože její nynější majitel je velmi nemocen a mimoto špatně hlasuje při volbách atd.
+_po celý život jsem se řídil náboženskými zásadami. Roku třiadevadesátého neblahé paměti byl jsem při obléhání Lyonu vystaven granátům. Chodím ke sv. přijímání a každou neděli do farního kostela na mši. Neopominul jsem nikdy velikonočních povinností, ani roku třiadevadesátého neblahé paměti. Má kuchařka – před revolucí jsem měl služebnictvo – vaří každý pátek postní jídla. Požívám ve Verrières všeobecné a smím říci zasloužené vážnosti. Při průvodech kráčím pod nebesy vedle pana faráře a pana starosty. Při slavnostních příležitostech nosím velkou svíci, kterou kupuji na vlastní útraty. Úřední osvědčení o tom všem jsou uložena v Paříži u ministerstva financí. Prosím pana markýze o verrièreskou loterní kancelář, která se ať tím nebo oním způsobem rozhodně v nejbližší době uprázdní, protože její nynější majitel je velmi nemocen a mimoto špatně hlasuje při volbách atd._
 
-De Cholin
+_De Cholin_
+
+  
 
 Na okraj této žádosti bylo panem de Moirod připsáno doporučení, které začínalo takto:
 
-Měl jsem včera čest mluvit s vámi o tom hodném člověku, který předkládá tuto žádost.
+  
+
+_Měl jsem včera čest mluvit s vámi o tom hodném člověku, který předkládá tuto žádost._
+
+  
 
 „Tedy i takový hlupák jako Cholin mi ukazuje cestu, kterou se mám dát,“ řekl si Julián.
 

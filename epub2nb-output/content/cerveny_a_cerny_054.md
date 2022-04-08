@@ -1,11 +1,11 @@
 ---
+title: |-
+  18.
+  Kruté chvíle
 contentType: prose
 ---
 
-## 18.  
-Kruté chvíle
-
-A ona se mi přiznává! Líčí všechno do nejmenších podrobností! Její krásné oči, jež upírá na mne, vyjadřují lásku, kterou cítila k jinému.
+_A ona se mi přiznává! Líčí všechno do nejmenších podrobností! Její krásné oči, jež upírá na mne, vyjadřují lásku, kterou cítila k jinému._
 
 — SCHILLER
 

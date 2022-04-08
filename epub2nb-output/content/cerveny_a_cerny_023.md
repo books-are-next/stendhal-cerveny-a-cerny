@@ -1,11 +1,11 @@
 ---
+title: |-
+  18.
+  Král ve Verrières
 contentType: prose
 ---
 
-## 18.  
-Král ve Verrières
-
-Což se hodíte jen k tomu, abyste byli odhozeni jako bezduchá mrtvola národa, v jehož žilách není již krve?
+_Což se hodíte jen k tomu, abyste byli odhozeni jako bezduchá mrtvola národa, v jehož žilách není již krve?_
 
 — KÁZÁNÍ BISKUPOVA  
  v kapli sv. Klementa

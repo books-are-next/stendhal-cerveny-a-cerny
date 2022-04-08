@@ -1,11 +1,11 @@
 ---
+title: |-
+  32.
+  Tygr
 contentType: prose
 ---
 
-## 32.  
-Tygr
-
-Běda! Proč to, a ne něco jiného?
+_Běda! Proč to, a ne něco jiného?_
 
 — BEAUMARCHAIS
 
@@ -77,13 +77,15 @@ Matylda byla velmi šťastna. Julián hrál svou úlohu tak dobře, že se mu po
 
 Osudný úterek nastal. Když se markýz o půlnoci vrátil domů, našel dopis, na němž bylo napsáno, že jej má otevřít sám a beze svědků.
 
-Milý otče,
+_Milý otče,_
 
-všechny společenské svazky mezi námi jsou přetrhány, zůstávají jen svazky přírody. Po mém manželovi jste a budete mi vždy nejdražší bytostí. Oči se mi plní slzami, vím, jaký zármutek Vám působím. Ale aby se má hanba neprozradila a abych Vám poskytla dosti času všechno uvážit a podle toho jednat, nemohla jsem déle odkládat přiznání, jímž jsem Vám povinna. Poskytne-li mi Vaše dobrota, již, jak vím, jste mi vždy prokazoval v nejvyšší míře, malý roční důchod, usadím se se svým manželem, kde si budete přát, například ve Švýcarsku. Jeho jméno je tak málo známé, že v paní Sorelové, snaše verrièreského tesaře, nikdo nepozná Vaši dceru. To tedy je to jméno, ale píši je s velkým přemáháním. Obávám se, že vzplanete k Juliánovi hněvem, který je zdánlivě spravedlivý. Nebudu vévodkyní, otče; ale to jsem věděla, když jsem ho začala milovat; neboť já jsem ho první milovala, já jsem ho svedla. Mám po Vás příliš hrdou duši, abych mohla věnovat pozornost lidem, kteří jsou anebo se mi zdají všední. Marně jsem se podle Vašeho přání snažila myslit na pana de Croisenois. Proč jste mě sám upozornil na Juliánovy přednosti? Po mém návratu z Hyères  jste mi řekl: „Ten mladý Sorel je jediný člověk, který mě zajímá.“ Ten ubohý hoch je, možno-li, právě tak zoufalý jako já z toho, že Vám tento dopis způsobí tak velkou bolest. Nemohu zabránit tomu, abyste jako otec nebyl na mne rozhořčen; ale milujte mě aspoň jako přítel.
+_všechny společenské svazky mezi námi jsou přetrhány, zůstávají jen svazky přírody. Po mém manželovi jste a budete mi vždy nejdražší bytostí. Oči se mi plní slzami, vím, jaký zármutek Vám působím. Ale aby se má hanba neprozradila a abych Vám poskytla dosti času všechno uvážit a podle toho jednat, nemohla jsem déle odkládat přiznání, jímž jsem Vám povinna. Poskytne-li mi Vaše dobrota, již, jak vím, jste mi vždy prokazoval v nejvyšší míře, malý roční důchod, usadím se se svým manželem, kde si budete přát, například ve Švýcarsku. Jeho jméno je tak málo známé, že v paní Sorelové, snaše verrièreského tesaře, nikdo nepozná Vaši dceru. To tedy je to jméno, ale píši je s velkým přemáháním. Obávám se, že vzplanete k Juliánovi hněvem, který je zdánlivě spravedlivý. Nebudu vévodkyní, otče; ale to jsem věděla, když jsem ho začala milovat; neboť já jsem ho první milovala, já jsem ho svedla. Mám po Vás příliš hrdou duši, abych mohla věnovat pozornost lidem, kteří jsou anebo se mi zdají všední. Marně jsem se podle Vašeho přání snažila myslit na pana de Croisenois. Proč jste mě sám upozornil na Juliánovy přednosti? Po mém návratu z Hyères  jste mi řekl: „Ten mladý Sorel je jediný člověk, který mě zajímá.“ Ten ubohý hoch je, možno-li, právě tak zoufalý jako já z toho, že Vám tento dopis způsobí tak velkou bolest. Nemohu zabránit tomu, abyste jako otec nebyl na mne rozhořčen; ale milujte mě aspoň jako přítel._
 
-Julián se ke mně vždy choval s úctou. Mluvil-li se mnou, činil tak někdy jedině z hluboké vděčnosti k Vám: neboť pro přirozenou hrdost povahy zachovává vždy náležitý odstup ke všem, kdo stojí nad ním. Má jemný a vrozený cit pro společenské rozdíly. Plna studu se přiznávám Vám, svému nejlepšímu příteli, k něčemu, k čemu bych se nikdy nepřiznala jinému – já jsem to byla, která jsem mu jednou v zahradě stiskla ruku.
+_Julián se ke mně vždy choval s úctou. Mluvil-li se mnou, činil tak někdy jedině z hluboké vděčnosti k Vám: neboť pro přirozenou hrdost povahy zachovává vždy náležitý odstup ke všem, kdo stojí nad ním. Má jemný a vrozený cit pro společenské rozdíly. Plna studu se přiznávám Vám, svému nejlepšímu příteli, k něčemu, k čemu bych se nikdy nepřiznala jinému – já jsem to byla, která jsem mu jednou v zahradě stiskla ruku._
 
-Proč byste se na něho měl ještě zítra hněvat? Můj poklesek se nedá napravit. Přejete-li si, dá Vám mým prostřednictvím ujištění o své hluboké úctě a o své nevýslovné lítosti, že Vám připravil zármutek. Neuvidíte ho už; ale já půjdu za ním, kam bude chtít. Je to jeho právo a má povinnost. Je otcem mého dítěte. Budete-li tak dobrý a poskytnete-li nám ročně šest tisíc franků na živobytí, přijmu je vděčně. V záporném případě hodlá se Julián usadit v Besançonu jako učitel latiny a literatury. Ať počne na sebenižším stupni, jsem jista, že brzy vynikne. S ním se nebojím žít v nízkém postavení. Dojde-li k revoluci, bude mít jistě jednu z nejdůležitějších úloh. Mohl byste říci totéž o některém z těch, kdo se ucházejí o mou ruku? Jsou bohatí! Tato okolnost není pro mne žádným důvodem k obdivu. Můj Julián by dosáhl vysokého postavení i za nynější vlády, kdyby měl milión a přízeň mého otce…“
+_Proč byste se na něho měl ještě zítra hněvat? Můj poklesek se nedá napravit. Přejete-li si, dá Vám mým prostřednictvím ujištění o své hluboké úctě a o své nevýslovné lítosti, že Vám připravil zármutek. Neuvidíte ho už; ale já půjdu za ním, kam bude chtít. Je to jeho právo a má povinnost. Je otcem mého dítěte. Budete-li tak dobrý a poskytnete-li nám ročně šest tisíc franků na živobytí, přijmu je vděčně. V záporném případě hodlá se Julián usadit v Besançonu jako učitel latiny a literatury. Ať počne na sebenižším stupni, jsem jista, že brzy vynikne. S ním se nebojím žít v nízkém postavení. Dojde-li k revoluci, bude mít jistě jednu z nejdůležitějších úloh. Mohl byste říci totéž o některém z těch, kdo se ucházejí o mou ruku? Jsou bohatí! Tato okolnost není pro mne žádným důvodem k obdivu. Můj Julián by dosáhl vysokého postavení i za nynější vlády, kdyby měl milión a přízeň mého otce…“_
+
+  
 
 Matylda věděla, že její otec je člověk velmi impulzívní, a proto napsala osm stránek.
 

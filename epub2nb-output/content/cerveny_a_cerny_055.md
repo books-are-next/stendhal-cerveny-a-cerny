@@ -1,14 +1,14 @@
 ---
+title: |-
+  19.
+  Komická opera
 contentType: prose
 ---
 
-## 19.  
-Komická opera
-
-Ó, jak se jaro lásky podobá  
+_Ó, jak se jaro lásky podobá  
 dne dubnového nejistotné kráse!  
 kde slunce září v plné nádheře  
-a náhle pod oblaky zatmívá se.
+a náhle pod oblaky zatmívá se._
 
 — SCHILLER
 
@@ -38,8 +38,8 @@ Od chvíle, kdy slyšela tu nádhernou árii, zmizel pro Matyldu celý svět. Kd
 
 Po návratu domů, ať si paní de la Mole říkala co chtěla, tvrdila Matylda, že má horečku, a strávila část noci tím, že stále přehrávala na pianě a zpívala proslulou árii, která ji tak okouzlila:
 
-Devo punirmi, devo punirmi,  
-Se troppo amai atd.[**\[20\]**](./resources/undefined)
+_Devo punirmi, devo punirmi,  
+Se troppo amai atd.[**\[20\]**](./resources/undefined)_
 
 Ta bláznivá noc měla za následek, že si Matylda namluvila, že se jí konečně podařilo zvítězit nad svou láskou. (Tato stránka nešťastnému spisovateli v mnohém uškodí. Lidé s chladným rozumem ho budou vinit z neslušnosti. Nechce ukřivdit mladým ženám, které oslňují pařížské salóny, tím, že by tvrdil, že třeba jen jediná z nich je schopna pošetilostí, jež snižují Matyldinu povahu. Ta postava je jen výplod obraznosti, a dokonce je smyšlena tak, že se úplně vymyká společenským obyčejům, jež civilizaci XIX. století zajistí tak významné místo mezi všemi věky.
 

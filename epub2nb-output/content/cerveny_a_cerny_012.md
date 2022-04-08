@@ -1,11 +1,11 @@
 ---
+title: |-
+  7.
+  Spříznění volbou
 contentType: prose
 ---
 
-## 7.  
-Spříznění volbou
-
-Umějí se dotknout srdce jen urážkou.
+_Umějí se dotknout srdce jen urážkou._
 
 — JEDEN Z MODERNÍCH
 

@@ -2,18 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Červený a černý
   identifier: 81a07179-cb07-4493-ae10-c2d726b7740e
   author: Stendhal
   publisher: Městská knihovna v Praze
   modified: '2017-09-15T00:00:00.000Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - cerveny_a_cerny_001.html
   - cerveny_a_cerny_002.html
-  - cerveny_a_cerny_003.html
-  - cerveny_a_cerny_004.html
   - cerveny_a_cerny_005.html
   - cerveny_a_cerny_006.html
   - cerveny_a_cerny_007.html
@@ -93,10 +94,12 @@ readingOrder:
   - cerveny_a_cerny_081.html
   - cerveny_a_cerny_082.html
   - cerveny_a_cerny_083.html
+  - colophon.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

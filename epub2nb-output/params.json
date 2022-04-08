@@ -1,28 +1,32 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Červený a černý",
       "identifier": "81a07179-cb07-4493-ae10-c2d726b7740e",
       "author": "Stendhal",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2017-09-15T00:00:00.000Z"
+      "modified": "2017-09-15T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "e-booknadpis\ne-booknadpis1samostatnastranka\n",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "brBefore": "e-bookodsazeniodstavcepred\ne-bookodsazeniodstavcepredaza",
+      "brAfter": "e-bookodsazeniodstavcepredaza",
+      "blockquote": "",
+      "figure": "",
+      "em": "e-bookvenovani\ne-bookdopiskurziva \ne-bookdopiskurziva1 \ne-bookdopiskurzivabezpredsazeni \ne-bookdopiskurzivadoprava \ne-bookdopiskurzivaodstredu \ne-bookdopiskurzivaodstredu1 \ne-bookversebezpredsazeni12bzakurziva\ne-bookprozatextkurziva\ne-bookprozatextuprostredkurziva\ne-bookdopiskurzvaodstedu",
+      "strong": "e-booktiraztexttucnechar",
       "remove": "",
       "ignore": ""
     },
@@ -30,17 +34,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "cerveny_a_cerny_001.md",
             "xhtml": "cerveny_a_cerny_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_002.md",
@@ -48,32 +54,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_003.md",
             "xhtml": "cerveny_a_cerny_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_004.md",
             "xhtml": "cerveny_a_cerny_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_005.md",
@@ -84,7 +93,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_006.md",
@@ -95,7 +105,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_007.md",
@@ -106,7 +117,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_008.md",
@@ -117,7 +129,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_009.md",
@@ -128,7 +141,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_010.md",
@@ -139,7 +153,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_011.md",
@@ -150,7 +165,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_012.md",
@@ -161,7 +177,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_013.md",
@@ -172,7 +189,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_014.md",
@@ -183,7 +201,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_015.md",
@@ -194,7 +213,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_016.md",
@@ -205,7 +225,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_017.md",
@@ -216,7 +237,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_018.md",
@@ -227,7 +249,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_019.md",
@@ -238,7 +261,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_020.md",
@@ -249,7 +273,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_021.md",
@@ -260,7 +285,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_022.md",
@@ -271,7 +297,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_023.md",
@@ -282,7 +309,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_024.md",
@@ -293,7 +321,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_025.md",
@@ -304,7 +333,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_026.md",
@@ -315,7 +345,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_027.md",
@@ -326,7 +357,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_028.md",
@@ -337,7 +369,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_029.md",
@@ -348,7 +381,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_030.md",
@@ -359,7 +393,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_031.md",
@@ -370,7 +405,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_032.md",
@@ -381,7 +417,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_033.md",
@@ -392,7 +429,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_034.md",
@@ -403,7 +441,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_035.md",
@@ -414,7 +453,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_036.md",
@@ -425,7 +465,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_037.md",
@@ -436,7 +477,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_038.md",
@@ -447,7 +489,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_039.md",
@@ -458,7 +501,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_040.md",
@@ -469,7 +513,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_041.md",
@@ -480,7 +525,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_042.md",
@@ -491,7 +537,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_043.md",
@@ -502,7 +549,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_044.md",
@@ -513,7 +561,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_045.md",
@@ -524,7 +573,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_046.md",
@@ -535,7 +585,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_047.md",
@@ -546,7 +597,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_048.md",
@@ -557,7 +609,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_049.md",
@@ -568,7 +621,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_050.md",
@@ -579,7 +633,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_051.md",
@@ -590,7 +645,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_052.md",
@@ -601,7 +657,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_053.md",
@@ -612,7 +669,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_054.md",
@@ -623,7 +681,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_055.md",
@@ -634,7 +693,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_056.md",
@@ -645,7 +705,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_057.md",
@@ -656,7 +717,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_058.md",
@@ -667,7 +729,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_059.md",
@@ -678,7 +741,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_060.md",
@@ -689,7 +753,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_061.md",
@@ -700,7 +765,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_062.md",
@@ -711,7 +777,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_063.md",
@@ -722,7 +789,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_064.md",
@@ -733,7 +801,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_065.md",
@@ -744,7 +813,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_066.md",
@@ -755,7 +825,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_067.md",
@@ -766,7 +837,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_068.md",
@@ -777,7 +849,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_069.md",
@@ -788,7 +861,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_070.md",
@@ -799,7 +873,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_071.md",
@@ -810,7 +885,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_072.md",
@@ -821,7 +897,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_073.md",
@@ -832,7 +909,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_074.md",
@@ -843,7 +921,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_075.md",
@@ -854,7 +933,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_076.md",
@@ -865,7 +945,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_077.md",
@@ -876,7 +957,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_078.md",
@@ -887,7 +969,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_079.md",
@@ -898,7 +981,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_080.md",
@@ -909,7 +993,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_081.md",
@@ -920,7 +1005,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_082.md",
@@ -931,7 +1017,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cerveny_a_cerny_083.md",
@@ -942,7 +1029,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -982,469 +1070,469 @@
         "xhtml": "cerveny_a_cerny_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DÍL PRVNÍ",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_005.md",
         "xhtml": "cerveny_a_cerny_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "1.\nMěstečko",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_006.md",
         "xhtml": "cerveny_a_cerny_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2.\nStarosta",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_007.md",
         "xhtml": "cerveny_a_cerny_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3.\nJmění chudých",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_008.md",
         "xhtml": "cerveny_a_cerny_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "4.\nOtec a syn",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_009.md",
         "xhtml": "cerveny_a_cerny_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "5.\nVyjednávání",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_010.md",
         "xhtml": "cerveny_a_cerny_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "6.\nNuda",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_011.md",
         "xhtml": "cerveny_a_cerny_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "7.\nSpříznění volbou",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_012.md",
         "xhtml": "cerveny_a_cerny_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "8.\nDrobné události",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_013.md",
         "xhtml": "cerveny_a_cerny_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "9.\nVečer na venkově",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_014.md",
         "xhtml": "cerveny_a_cerny_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "10.\nVelká odvaha a malé štěstí",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_015.md",
         "xhtml": "cerveny_a_cerny_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "11.\nVečer",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_016.md",
         "xhtml": "cerveny_a_cerny_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "12.\nCesta",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_017.md",
         "xhtml": "cerveny_a_cerny_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "13.\nProlamované punčochy",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_018.md",
         "xhtml": "cerveny_a_cerny_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "14.\nAnglické nůžky",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_019.md",
         "xhtml": "cerveny_a_cerny_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "15.\nKuropění",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_020.md",
         "xhtml": "cerveny_a_cerny_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "16.\nPříští den",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_021.md",
         "xhtml": "cerveny_a_cerny_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "17.\nPrvní náměstek",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_022.md",
         "xhtml": "cerveny_a_cerny_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "18.\nKrál ve Verrières",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_023.md",
         "xhtml": "cerveny_a_cerny_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "19.\nMyšlení bolí",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_024.md",
         "xhtml": "cerveny_a_cerny_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "20.\nAnonymní dopisy",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_025.md",
         "xhtml": "cerveny_a_cerny_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "21.\nRozmluva s pánem",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_026.md",
         "xhtml": "cerveny_a_cerny_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "22.\nJak se jednalo roku 1830",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_027.md",
         "xhtml": "cerveny_a_cerny_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "23.\nTrampoty vysokého úředníka",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_028.md",
         "xhtml": "cerveny_a_cerny_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "24.\nKrajské město",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_029.md",
         "xhtml": "cerveny_a_cerny_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "25.\nSeminář",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_030.md",
         "xhtml": "cerveny_a_cerny_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "26.\nSvět čili co chybí boháči",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_031.md",
         "xhtml": "cerveny_a_cerny_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "27.\nPrvní životní zkušenosti",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_032.md",
         "xhtml": "cerveny_a_cerny_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "28.\nProcesí",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_033.md",
         "xhtml": "cerveny_a_cerny_033.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "29.\nPrvní povýšení",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_034.md",
         "xhtml": "cerveny_a_cerny_034.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "30.\nCtižádostivec",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_035.md",
         "xhtml": "cerveny_a_cerny_035.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DÍL DRUHÝ",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_036.md",
         "xhtml": "cerveny_a_cerny_036.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "1.\nSlasti venkova",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_037.md",
         "xhtml": "cerveny_a_cerny_037.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2.\nVstup do světa",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_038.md",
         "xhtml": "cerveny_a_cerny_038.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3.\nPrvní kroky",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_039.md",
         "xhtml": "cerveny_a_cerny_039.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "4.\nPalác markýze de la Mole",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_040.md",
         "xhtml": "cerveny_a_cerny_040.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "5.\nCitlivost a vznešená zbožná dáma",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_041.md",
         "xhtml": "cerveny_a_cerny_041.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "6.\nKonverzační umění",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_042.md",
         "xhtml": "cerveny_a_cerny_042.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "7.\nZáchvat dny",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_043.md",
         "xhtml": "cerveny_a_cerny_043.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "8.\nKteré vyznamenání vyznamenává?",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_044.md",
         "xhtml": "cerveny_a_cerny_044.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "9.\nPles",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_045.md",
         "xhtml": "cerveny_a_cerny_045.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "10.\nKrálovna Markéta",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_046.md",
         "xhtml": "cerveny_a_cerny_046.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "11.\nVláda mladé dívky",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_047.md",
         "xhtml": "cerveny_a_cerny_047.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "12.\nJe to snad druhý Danton?",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_048.md",
         "xhtml": "cerveny_a_cerny_048.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "13.\nSpiknutí",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_049.md",
         "xhtml": "cerveny_a_cerny_049.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "14.\nMyšlenky mladé dívky",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_050.md",
         "xhtml": "cerveny_a_cerny_050.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "15.\nJe to spiknutí?",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_051.md",
         "xhtml": "cerveny_a_cerny_051.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "16.\nJedna hodina v noci",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_052.md",
         "xhtml": "cerveny_a_cerny_052.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "17.\nStarý meč",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_053.md",
         "xhtml": "cerveny_a_cerny_053.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "18.\nKruté chvíle",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_054.md",
         "xhtml": "cerveny_a_cerny_054.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "19.\nKomická opera",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_055.md",
         "xhtml": "cerveny_a_cerny_055.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "20.\nJaponská váza",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_056.md",
         "xhtml": "cerveny_a_cerny_056.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "21.\nTajná nóta",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_057.md",
         "xhtml": "cerveny_a_cerny_057.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "22.\nRokování",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_058.md",
         "xhtml": "cerveny_a_cerny_058.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "23.\nKněžstvo, lesy, svoboda",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_059.md",
         "xhtml": "cerveny_a_cerny_059.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "24.\nŠtrasburk",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_060.md",
         "xhtml": "cerveny_a_cerny_060.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "25.\nMinisterstvo ctnosti",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_061.md",
         "xhtml": "cerveny_a_cerny_061.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "26.\nDuchovní láska",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_062.md",
         "xhtml": "cerveny_a_cerny_062.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "27.\nNejkrásnější prebendy",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_063.md",
         "xhtml": "cerveny_a_cerny_063.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "28.\nManon Lescaut",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_064.md",
         "xhtml": "cerveny_a_cerny_064.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "29.\nNuda",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_065.md",
         "xhtml": "cerveny_a_cerny_065.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "30.\nLóže v komické opeře",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_066.md",
         "xhtml": "cerveny_a_cerny_066.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "31.\nSíla strachu",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_067.md",
         "xhtml": "cerveny_a_cerny_067.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "32.\nTygr",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_068.md",
         "xhtml": "cerveny_a_cerny_068.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "33.\nPeklo nerozhodnosti",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_069.md",
         "xhtml": "cerveny_a_cerny_069.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "34.\nMoudrý muž",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_070.md",
         "xhtml": "cerveny_a_cerny_070.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "35.\nBouře",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_071.md",
         "xhtml": "cerveny_a_cerny_071.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "36.\nSmutné podrobnosti",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_072.md",
         "xhtml": "cerveny_a_cerny_072.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "37.\nHradní věž",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_073.md",
         "xhtml": "cerveny_a_cerny_073.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "38.\nMocný člověk",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_074.md",
         "xhtml": "cerveny_a_cerny_074.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "39.\nPletichy",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_075.md",
         "xhtml": "cerveny_a_cerny_075.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "40.\nKlid",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_076.md",
         "xhtml": "cerveny_a_cerny_076.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "41.\nRozsudek",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_077.md",
         "xhtml": "cerveny_a_cerny_077.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "42.",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_078.md",
         "xhtml": "cerveny_a_cerny_078.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "43.",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_079.md",
         "xhtml": "cerveny_a_cerny_079.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "44.",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_080.md",
         "xhtml": "cerveny_a_cerny_080.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "45.",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_081.md",
         "xhtml": "cerveny_a_cerny_081.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "cerveny_a_cerny_082.md",
         "xhtml": "cerveny_a_cerny_082.html"
@@ -1581,6 +1669,6 @@
       "user": "books-are-next",
       "repo": "stendhal-cerveny-a-cerny"
     },
-    "generatedAt": 1649412294344
+    "generatedAt": 1649412990047
   }
 }

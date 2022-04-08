@@ -1,11 +1,11 @@
 ---
+title: |-
+  13.
+  Prolamované punčochy
 contentType: prose
 ---
 
-## 13.  
-Prolamované punčochy
-
-Román: toť zrcadlo, jež neseme po cestě.  
+_Román: toť zrcadlo, jež neseme po cestě._  
 
 — SAINT-RÉAL
 

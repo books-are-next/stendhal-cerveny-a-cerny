@@ -1,14 +1,14 @@
 ---
+title: |-
+  20.
+  Anonymní dopisy
 contentType: prose
 ---
 
-## 20.  
-Anonymní dopisy
-
-… přílišně  
+_… přílišně  
 ať laškování uzdu nepouštíš;  
 neb nejmocnější přísahy jak sláma  
-jsou ohni krve.
+jsou ohni krve._
 
 — BOUŘE
 
@@ -46,9 +46,11 @@ Druhý anonymní dopis mi musíš opatřit Ty. Ozbroj se trpělivostí a nůžka
 
 Anonymní dopis
 
-Milostivá paní!
+_Milostivá paní!_
 
-Znám všechny Vaše pletichy; osoby, v jejichž zájmu je, abyste v nich ustala, jsou o nich již zpraveny. Pro zbytek přátelství, jež pro vás ještě cítím, vyzývám Vás, abyste zanechala úplně styků s tím selským synkem. Budete-li dosti rozumná, váš manžel bude myslet, že se zpráva, kterou obdržel, nezakládá na pravdě a necháme ho v jeho klamu. Uvažte, že znám Vaše tajemství, třeste se, nešťastnice; musíte se nyní chovat ke mně co nejlépe.
+_Znám všechny Vaše pletichy; osoby, v jejichž zájmu je, abyste v nich ustala, jsou o nich již zpraveny. Pro zbytek přátelství, jež pro vás ještě cítím, vyzývám Vás, abyste zanechala úplně styků s tím selským synkem. Budete-li dosti rozumná, váš manžel bude myslet, že se zpráva, kterou obdržel, nezakládá na pravdě a necháme ho v jeho klamu. Uvažte, že znám Vaše tajemství, třeste se, nešťastnice; musíte se nyní chovat ke mně co nejlépe._
+
+  
 
 Až budeš hotov s nalepováním slov, z nichž se skládá tento dopis (poznals v něm ředitelův způsob mluvení?), vyjdi z domu, setkám se s Tebou.
 

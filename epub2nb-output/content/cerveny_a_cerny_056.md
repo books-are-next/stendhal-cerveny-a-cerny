@@ -1,11 +1,11 @@
 ---
+title: |-
+  20.
+  Japonská váza
 contentType: prose
 ---
 
-## 20.  
-Japonská váza
-
-Jeho srdce nechápe zprvu celý dosah jeho neštěstí; je spíše zmaten než dojat. Ale tou měrou, jak se rozum vrací, cítí hloubku svého neštěstí. Není už pro něho na světě radosti, je schopen cítit pouze ostré ostny zoufalství drásající jeho nitro. Ale nač mluvit o fyzické bolesti? Která tělesná bolest se dá přirovnat k této bolesti?
+_Jeho srdce nechápe zprvu celý dosah jeho neštěstí; je spíše zmaten než dojat. Ale tou měrou, jak se rozum vrací, cítí hloubku svého neštěstí. Není už pro něho na světě radosti, je schopen cítit pouze ostré ostny zoufalství drásající jeho nitro. Ale nač mluvit o fyzické bolesti? Která tělesná bolest se dá přirovnat k této bolesti?_
 
 — JEAN-PAUL
 

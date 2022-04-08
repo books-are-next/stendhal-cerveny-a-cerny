@@ -1,11 +1,11 @@
 ---
+title: |-
+  31.
+  Síla strachu
 contentType: prose
 ---
 
-## 31.  
-Síla strachu
-
-To je tedy ten zázrak vaší civilizace! Z lásky jste učinili obyčejnou obchodní záležitost.
+_To je tedy ten zázrak vaší civilizace! Z lásky jste učinili obyčejnou obchodní záležitost._
 
 — BARNAVE
 

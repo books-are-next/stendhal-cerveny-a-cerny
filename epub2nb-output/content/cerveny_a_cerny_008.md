@@ -1,11 +1,11 @@
 ---
+title: |-
+  3.
+  Jmění chudých
 contentType: prose
 ---
 
-## 3.  
-Jmění chudých
-
-Ctnostný farář, jenž neintrikuje, je pro vesnici prozřetelností.
+_Ctnostný farář, jenž neintrikuje, je pro vesnici prozřetelností._
 
 — FLEURY
 

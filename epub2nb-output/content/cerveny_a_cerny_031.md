@@ -1,11 +1,11 @@
 ---
+title: |-
+  26.
+  Svět čili co chybí boháči
 contentType: prose
 ---
 
-## 26.  
-Svět čili co chybí boháči
-
-Jsem samoten na zemi, nikomu nestojím za vzpomínku. Všichni, jimž se dobře daří, mají nestoudné a zatvrzelé srdce a to já nemám. Nenávidí mne pro mou dobrotu. Ach, zemřu brzy buď hladem, nebo žalem z toho, že lidé jsou tak bezcitní.
+_Jsem samoten na zemi, nikomu nestojím za vzpomínku. Všichni, jimž se dobře daří, mají nestoudné a zatvrzelé srdce a to já nemám. Nenávidí mne pro mou dobrotu. Ach, zemřu brzy buď hladem, nebo žalem z toho, že lidé jsou tak bezcitní._
 
 — YOUNG
 

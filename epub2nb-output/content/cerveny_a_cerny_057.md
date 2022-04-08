@@ -1,11 +1,11 @@
 ---
+title: |-
+  21.
+  Tajná nóta
 contentType: prose
 ---
 
-## 21.  
-Tajná nóta
-
-Neboť vše, co vypravuji, jsem viděl; a mohl-li jsem se snad mýlit, když jsem to viděl, rozhodně vám nelžu, když vám to vypravuji.
+_Neboť vše, co vypravuji, jsem viděl; a mohl-li jsem se snad mýlit, když jsem to viděl, rozhodně vám nelžu, když vám to vypravuji._
 
 — DOPIS SPISOVATELI
 

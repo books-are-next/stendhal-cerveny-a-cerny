@@ -1,14 +1,14 @@
 ---
+title: |-
+  17.
+  Starý meč
 contentType: prose
 ---
 
-## 17.  
-Starý meč
-
-Budu teď vážný; – už je věru čas,  
+_Budu teď vážný; – už je věru čas,  
 vždyť smích dnes mají za věc  
                                           povážlivou –  
-zlu směj se – ‚Lotře!‘ řekne ctnosti hlas.
+zlu směj se – ‚Lotře!‘ řekne ctnosti hlas._
 
 — DON JUAN, zpěv XIII
 

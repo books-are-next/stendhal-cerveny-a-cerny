@@ -1,14 +1,14 @@
 ---
+title: |-
+  17.
+  První náměstek
 contentType: prose
 ---
 
-## 17.  
-První náměstek
-
-Ó, jak se jaro lásky podobá  
+_Ó, jak se jaro lásky podobá  
 dne dubnového nejistotné kráse!  
 kde slunce září v plné nádheře  
-a náhle pod oblaky zatmívá se.[**\[4\]**](./resources/undefined)
+a náhle pod oblaky zatmívá se.[**\[4\]**](./resources/undefined)_
 
 — DVA ŠLECHTICI VERONŠTÍ
 

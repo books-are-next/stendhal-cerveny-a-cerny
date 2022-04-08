@@ -1,11 +1,11 @@
 ---
+title: |-
+  5.
+  Citlivost a vznešená zbožná dáma
 contentType: prose
 ---
 
-## 5.  
-Citlivost a vznešená zbožná dáma
-
-Trochu odvážnější myšlenka vypadá tam jako hrubost, tak jsou zvyklí na plané řeči. Běda tomu, kdo pronáší nějaké nové myšlenky!
+_Trochu odvážnější myšlenka vypadá tam jako hrubost, tak jsou zvyklí na plané řeči. Běda tomu, kdo pronáší nějaké nové myšlenky!_
 
 — FAUBLAS
 

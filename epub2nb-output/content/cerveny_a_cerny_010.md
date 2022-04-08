@@ -1,11 +1,11 @@
 ---
+title: |-
+  5.
+  Vyjednávání
 contentType: prose
 ---
 
-## 5.  
-Vyjednávání
-
-Váháním zachránil stát.
+_Váháním zachránil stát._
 
 — ENNIUS
 

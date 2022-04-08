@@ -1,12 +1,12 @@
 ---
+title: |-
+  30.
+  Lóže v komické opeře
 contentType: prose
 ---
 
-## 30.  
-Lóže v komické opeře
-
-… jak nejčernější mrak  
-nejtěžší hlásí bouř…
+_… jak nejčernější mrak  
+nejtěžší hlásí bouř…_
 
 — DON JUAN, zpěv I, strofa 73
 

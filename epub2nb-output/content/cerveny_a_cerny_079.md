@@ -1,8 +1,7 @@
 ---
+title: '43.'
 contentType: prose
 ---
-
-## 43.
 
 Za hodinu, když opět pevně spal, byl probuzen slzami, jež mu kanuly na ruku.
 

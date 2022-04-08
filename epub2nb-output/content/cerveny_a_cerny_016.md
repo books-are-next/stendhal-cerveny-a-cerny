@@ -1,16 +1,16 @@
 ---
+title: |-
+  11.
+  Večer
 contentType: prose
 ---
 
-## 11.  
-Večer
-
-Leč vlídný přec ten Juliin byl chlad  
+_Leč vlídný přec ten Juliin byl chlad  
      a s lehkým chvěním ruka její štíhlá  
 vyklouzla z jeho, ale byl ten chvat  
      lehounký stisk, tak hebounce se mihla,  
 jako by dech jen vál, že byl to snad  
-     jen sen…
+     jen sen…_
 
 — DON JUAN, zpěv I, strofa 71
 

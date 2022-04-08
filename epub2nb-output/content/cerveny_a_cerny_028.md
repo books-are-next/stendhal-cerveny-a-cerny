@@ -1,11 +1,11 @@
 ---
+title: |-
+  23.
+  Trampoty vysokého úředníka
 contentType: prose
 ---
 
-## 23.  
-Trampoty vysokého úředníka
-
-Potěšení chodit s hlavou vzhůru po celý rok je draze vykoupeno několika čtvrthodinkami, které je třeba přečkat.
+_Potěšení chodit s hlavou vzhůru po celý rok je draze vykoupeno několika čtvrthodinkami, které je třeba přečkat._
 
 — CASTI
 
@@ -17,8 +17,8 @@ Neuplynula ani hodina a Julián k velkému překvapení zjistil, že paní de R�
 
 Julián si všiml, že v těch rozmluvách, jež bývaly náhle přerušovány, kdykoliv se přiblížil, běželo často o velký, starý, ale rozsáhlý a pohodlný dům, který patřil verrièreské obci a který stál naproti kostelu na nejživějším místě města. „Co může mít nový milenec společného s tím domem?“ myslil si Julián. Byl mrzutý a připomínal si hezké verše Františka I., jež ho před necelým měsícem naučila paní de Rênal a které mu proto připadaly ještě neotřelé. Kolika přísahami, kolika něžnostmi byl tehdy každý verš usvědčován ze lži!
 
-Žena je pápěří,  
- jen bloud jí uvěří.
+_Žena je pápěří,  
+ jen bloud jí uvěří._
 
 Pan de Rênal odjel poštou do Besançonu. O cestě bylo rozhodnuto ve dvou hodinách. Zdálo se, že má velké starosti. Po návratu hodil na stůl velký balík zabalený do šedého papíru.
 

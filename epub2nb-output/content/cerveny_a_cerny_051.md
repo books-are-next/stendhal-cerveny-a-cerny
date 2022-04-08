@@ -1,11 +1,11 @@
 ---
+title: |-
+  15.
+  Je to spiknutí?
 contentType: prose
 ---
 
-## 15.  
-Je to spiknutí?
-
-Ach! Jak krutá je doba mezi velikým záměrem a jeho provedením! Kolik zbytečných úzkostí! Kolik nerozhodností! Jde o život. – Jde o mnohem více: o čest.
+_Ach! Jak krutá je doba mezi velikým záměrem a jeho provedením! Kolik zbytečných úzkostí! Kolik nerozhodností! Jde o život. – Jde o mnohem více: o čest._
 
 — SCHILLER
 
@@ -19,7 +19,7 @@ Ale to moudré rozhodnutí jeho srdci klidu nepřineslo. „Jestliže náhodou M
 
 Ta výčitka mě bude pronásledovat po celý život, ne pro Matyldu, vždyť je tolik milenek!
 
-… Však čest je jenom jedna!
+_… Však čest je jenom jedna!_
 
 řekl starý don Diego, a zde jasně a zřetelně couvám před prvním nebezpečím, které se mi naskytlo; neboť souboj s panem de Beauvoisis vypadal jako žert. Zde jde o něco jiného. Mohu být zastřelen nějakým sluhou, ale to je to nejmenší nebezpečí; avšak může být pošpiněna moje čest!
 

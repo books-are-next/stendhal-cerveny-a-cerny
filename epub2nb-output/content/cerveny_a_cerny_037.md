@@ -1,11 +1,11 @@
 ---
+title: |-
+  1.
+  Slasti venkova
 contentType: prose
 ---
 
-## 1.  
-Slasti venkova
-
-O rus quando ego te aspiciam![**\[13\]**](./resources/undefined)
+_O rus quando ego te aspiciam![**\[13\]**](./resources/undefined)_
 
 — VERGILIUS
 

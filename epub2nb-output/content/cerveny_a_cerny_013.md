@@ -1,13 +1,13 @@
 ---
+title: |-
+  8.
+  Drobné události
 contentType: prose
 ---
 
-## 8.  
-Drobné události
-
-Pak vzdechy hlubší jen, že potlačené,  
+_Pak vzdechy hlubší jen, že potlačené,  
           pohledy loupené, a tím jen dražší,  
-a nach, jenž bez příčiny v tvář se žene…
+a nach, jenž bez příčiny v tvář se žene…_
 
 — DON JUAN, zpěv I, strofa 74[\[2\]](./resources/undefined)
 

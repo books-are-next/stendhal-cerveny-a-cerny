@@ -1,8 +1,7 @@
 ---
+title: '42.'
 contentType: prose
 ---
-
-## 42.
 
 Když Juliána odvedli zpět do vězení, zavřeli ho do místnosti určené pro vězně odsouzené k smrti. On, jenž si obyčejně všímal i nejnepatrnějších okolností, si nevšiml, že ho nevedou zpět do jeho věže. Myslil na to, co by řekl paní de Rênal, kdyby před svou poslední hodinkou měl to štěstí, že by ji ještě uviděl. Představoval si, že by ho nenechala mluvit, a proto jí chtěl hned prvními slovy vylíčit, jak svého zločinu lituje. „Ale jak bych ji po tom, co jsem udělal, mohl přesvědčit, že miluji jedině ji? Vždyť jsem ji chtěl zabít ze ctižádosti nebo z lásky k Matyldě.“
 
@@ -28,11 +27,11 @@ Vzpomněl si na toto místo z Rotrouova Václava**_:_**
 
 LADISLAV:
 
-… Má duše přichystána jest.
+_… Má duše přichystána jest._
 
 KRÁL, otec Ladislavův:
 
-Též popraviště. Hlavu svou tam nes.
+_Též popraviště. Hlavu svou tam nes._
 
 „Dobrá odpověď!“ pomyslil si a usnul. Ráno ho někdo probudil prudkým objetím.
 
@@ -54,9 +53,9 @@ Vypráví se, že Dantona před popravištěm dojala vzpomínka na jeho ženu; a
 
 Kdyby místo Matyldy byla zde v mé cele paní de Rênal, kdoví, zda bych mohl za sebe ručit? Zoufalství a lítost byly by takovými Valenody a všemi těmi místními patriciji pokládány za strach před smrtí; ti slaboši, jež jejich finanční postavení povznáší nad každé pokušení, jsou tak pyšní! ‚Hleďte,‘ řekli by pánové de Noiroud a de Cholin, kteří mě právě odsoudili k smrti, ‚co to znamená narodit se jako syn tesaře!‘ Člověk si může osvojit všechno, učenost, obratnost, jenom ne statečnost… statečnosti se není možno naučit. Ani s mou ubohou Matyldou, která nyní pláče, či spíše která již nemůže plakat,“ řekl, pohlédl jí do zarudlých očí… a sevřel ji do náručí. Při pohledu na její upřímnou bolest zapomněl na své rozumování… „Plakala možná celou noc,“ řekl si, „ale jak se jednoho dne při vzpomínce na to bude stydět! Bude si vyčítat, že se dala v útlém mládí svést vulgárními názory plebejce… Croisenois je dosti slabý, vezme si ji za ženu. A na mou věru, udělá dobře. Matylda mu dopomůže k vynikajícímu postavení
 
-právem, jež neústupný duch, nezměrný v plánech svých,
+_právem, jež neústupný duch, nezměrný v plánech svých,_
 
-vždy má nad hrubým duchem všedních smrtelníků.
+_vždy má nad hrubým duchem všedních smrtelníků._
 
 Hleďme, to je zajímavé: od té doby, co vím, že musím zemřít, vracejí se mi na mysl všechny verše, jež jsem kdy znal nazpaměť. Je to asi znamení úpadku…“
 

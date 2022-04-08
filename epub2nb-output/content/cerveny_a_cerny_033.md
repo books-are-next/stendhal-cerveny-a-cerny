@@ -1,11 +1,11 @@
 ---
+title: |-
+  28.
+  Procesí
 contentType: prose
 ---
 
-## 28.  
-Procesí
-
-Srdce všech byla dojata. Zdálo se, že Bůh sestoupil do těch úzkých gotických ulic, jež věřící celé vyzdobili a vysypali pískem.
+_Srdce všech byla dojata. Zdálo se, že Bůh sestoupil do těch úzkých gotických ulic, jež věřící celé vyzdobili a vysypali pískem._
 
 — YOUNG
 

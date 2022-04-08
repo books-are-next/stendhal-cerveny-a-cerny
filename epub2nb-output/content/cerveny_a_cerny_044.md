@@ -1,11 +1,11 @@
 ---
+title: |-
+  8.
+  Které vyznamenání vyznamenává?
 contentType: prose
 ---
 
-## 8.  
-Které vyznamenání vyznamenává?
-
-„Tvá voda mne neobčerstvuje,“ řekl žíznící génius. A přece je to nejchladnější studna z celého Diar-Bekru.
+_„Tvá voda mne neobčerstvuje,“ řekl žíznící génius. A přece je to nejchladnější studna z celého Diar-Bekru._
 
 — PELLICO
 

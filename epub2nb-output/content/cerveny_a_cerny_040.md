@@ -1,11 +1,11 @@
 ---
+title: |-
+  4.
+  Palác markýze de la Mole
 contentType: prose
 ---
 
-## 4.  
-Palác markýze de la Mole
-
-Co zde dělá? Snad se mu zde líbí? Či chce se sám zalíbit?
+_Co zde dělá? Snad se mu zde líbí? Či chce se sám zalíbit?_
 
 — RONSARD
 

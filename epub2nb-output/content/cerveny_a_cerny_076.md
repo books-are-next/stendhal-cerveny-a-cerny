@@ -1,11 +1,11 @@
 ---
+title: |-
+  40.
+  Klid
 contentType: prose
 ---
 
-## 40.  
-Klid
-
-Tehdy jsem byl blázen, ale dnes jsem již moudřejší. Ó filosofe, jenž vidíš jen okamžité jevy, jak jsi krátkozraký! Tvůj zrak nedovede sledovat podzemní práci vášní.
+_Tehdy jsem byl blázen, ale dnes jsem již moudřejší. Ó filosofe, jenž vidíš jen okamžité jevy, jak jsi krátkozraký! Tvůj zrak nedovede sledovat podzemní práci vášní._
 
 — GOETHE
 
@@ -51,8 +51,8 @@ Paní de Rênal se podrobila bez námitek rozkazům svého muže. „Kdybych se 
 
 Přes všechny rozumné sliby, jimiž se zavázala svému zpovědníku a svému muži, hned po příjezdu do Besançonu napsala vlastnoručně každému ze šestatřiceti porotců:
 
-Nedostavím se k hlavnímu přelíčení, poněvadž by má přítomnost mohla působit nepříznivě na záležitost pana Sorela. Nemám vroucnějšího přání na světě, než aby byl zachráněn. Buďte přesvědčen, že hrozné pomyšlení, že pro mne byl nevinný člověk odsouzen k smrti, by mi otrávilo zbytek života a asi urychlilo mou smrt. Jak byste ho mohli odsoudit k smrti, když já žiji? Ne, nemáte právo vzít někomu život, a zejména ne takovému člověku, jako je Julián Sorel. Je přece ve Verrières všeobecně známo, že mívá občas chvíle nepříčetnosti. Ten ubohý mladík má mocné nepřátele; ale který z jeho nepřátel (a kolik jich má!) by mohl pochybovat o jeho podivuhodných vlohách a hlubokých vědomostech? Člověk, kterého budete soudit, není všední bytost. Půldruhého roku jsme ho všichni znali jako zbožného, moudrého a pilného člověka; ale dvakrát nebo třikrát do roka míval záchvaty velké zádumčivosti, jež hraničily se šílenstvím. Celé město Verrières, všichni naši sousedé ve Vergy, kde trávíváme léto, celá má rodina i pan podprefekt musí dosvědčit jeho příkladnou zbožnost; zná celou bibli nazpaměť. Byl by se neznaboh po celá léta učil Písmu svatému nazpaměť? Moji synové si dovolí přinést Vám tento dopis; jsou to děti. Račte se jich vyptávat. Dovíte se od nich o tom nešťastném mladíkovi všechny podrobnosti, kterých ještě budete potřebovat, abyste byl přesvědčen, jakou nelidskostí by bylo, kdyby byl odsouzen. Místo abyste mě pomstili, usmrtili byste mě.
+_Nedostavím se k hlavnímu přelíčení, poněvadž by má přítomnost mohla působit nepříznivě na záležitost pana Sorela. Nemám vroucnějšího přání na světě, než aby byl zachráněn. Buďte přesvědčen, že hrozné pomyšlení, že pro mne byl nevinný člověk odsouzen k smrti, by mi otrávilo zbytek života a asi urychlilo mou smrt. Jak byste ho mohli odsoudit k smrti, když já žiji? Ne, nemáte právo vzít někomu život, a zejména ne takovému člověku, jako je Julián Sorel. Je přece ve Verrières všeobecně známo, že mívá občas chvíle nepříčetnosti. Ten ubohý mladík má mocné nepřátele; ale který z jeho nepřátel (a kolik jich má!) by mohl pochybovat o jeho podivuhodných vlohách a hlubokých vědomostech? Člověk, kterého budete soudit, není všední bytost. Půldruhého roku jsme ho všichni znali jako zbožného, moudrého a pilného člověka; ale dvakrát nebo třikrát do roka míval záchvaty velké zádumčivosti, jež hraničily se šílenstvím. Celé město Verrières, všichni naši sousedé ve Vergy, kde trávíváme léto, celá má rodina i pan podprefekt musí dosvědčit jeho příkladnou zbožnost; zná celou bibli nazpaměť. Byl by se neznaboh po celá léta učil Písmu svatému nazpaměť? Moji synové si dovolí přinést Vám tento dopis; jsou to děti. Račte se jich vyptávat. Dovíte se od nich o tom nešťastném mladíkovi všechny podrobnosti, kterých ještě budete potřebovat, abyste byl přesvědčen, jakou nelidskostí by bylo, kdyby byl odsouzen. Místo abyste mě pomstili, usmrtili byste mě._
 
-Co mohou jeho nepřátelé proti tomu uvést? Zranění, které zavinila jedna z těch chvil nepříčetnosti, jež mé děti samy u svého vychovatele pozorovaly, je tak málo nebezpečné, že ani ne po dvou měsících mi dovolilo přijet poštou z Verrières do Besançonu. Dovím-li se, že jen sebeméně váháte zachránit člověka tak nevinného před nelidskostí zákonů, vstanu z lůžka, na němž mě zdržuje jedině příkaz mého muže, a přijdu se Vám vrhnout k nohám.
+_Co mohou jeho nepřátelé proti tomu uvést? Zranění, které zavinila jedna z těch chvil nepříčetnosti, jež mé děti samy u svého vychovatele pozorovaly, je tak málo nebezpečné, že ani ne po dvou měsících mi dovolilo přijet poštou z Verrières do Besançonu. Dovím-li se, že jen sebeméně váháte zachránit člověka tak nevinného před nelidskostí zákonů, vstanu z lůžka, na němž mě zdržuje jedině příkaz mého muže, a přijdu se Vám vrhnout k nohám._
 
-Prohlaste, prosím, že nejednal s rozvahou, a nebude si muset vyčítat krev nevinného atd. atd.
+_Prohlaste, prosím, že nejednal s rozvahou, a nebude si muset vyčítat krev nevinného atd. atd._

@@ -1,11 +1,11 @@
 ---
+title: |-
+  13.
+  Spiknutí
 contentType: prose
 ---
 
-## 13.  
-Spiknutí
-
-Úryvky řečí, náhodná setkání se mění v nejzřejmější důkazy v očích člověka nadaného obrazností, má-li vznětlivé srdce.
+_Úryvky řečí, náhodná setkání se mění v nejzřejmější důkazy v očích člověka nadaného obrazností, má-li vznětlivé srdce._
 
 — SCHILLER
 
@@ -99,11 +99,11 @@ Nuže!“ řekl si s mefistovským smíchem, „jsem chytřejší než oni! Dove
 
 Ponenáhlu se Juliánovo vzrušení uklidnilo; zvítězila opět rozvaha. Řekl si jako jeho učitel Tartuffe, jehož úlohu znal nazpaměť:
 
-Ta slova pokládat jen za lest smím,  
+_Ta slova pokládat jen za lest smím,  
 — — —  
 já uvěřím těm sladkým řečem,  
 až trochu přízně, po níž tolik toužím,  
-mě ujistí, že mluví pravdu.
+mě ujistí, že mluví pravdu._
 
 „Tartuffe byl také zničen ženou, a byl by zasluhoval lepší osud… Mohla by mou odpověď někomu ukázat… proti tomu máme prostředek,“ dodal pomalu s krutostí, kterou se snažil ovládnout; „začneme nejvřelejšími větami z dopisu vznešené Matyldy.
 

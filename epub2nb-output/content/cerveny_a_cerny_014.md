@@ -1,11 +1,11 @@
 ---
+title: |-
+  9.
+  Večer na venkově
 contentType: prose
 ---
 
-## 9.  
-Večer na venkově
-
-Dido mistra Guérina, rozkošný náčrtek!
+_Dido mistra Guérina, rozkošný náčrtek!_
 
 — STROMBECK
 

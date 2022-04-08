@@ -1,11 +1,11 @@
 ---
+title: |-
+  22.
+  Rokování
 contentType: prose
 ---
 
-## 22.  
-Rokování
-
-Republika! Na jednoho člověka, který by všechno obětoval obecnému dobru, jsou dnes tisíce a milióny těch, kdo znají pouze své požitky, svou marnivost. V Paříži si člověka váží pro jeho kočár, a ne pro jeho dobré vlastnosti.
+_Republika! Na jednoho člověka, který by všechno obětoval obecnému dobru, jsou dnes tisíce a milióny těch, kdo znají pouze své požitky, svou marnivost. V Paříži si člověka váží pro jeho kočár, a ne pro jeho dobré vlastnosti._
 
 — NAPOLEON: PAMĚTI
 
@@ -85,7 +85,7 @@ Zde byl přerušen ze tří nebo čtyř stran zároveň.
 
 „…Ano, pánové, obzvláště o tomto nešťastném národě lze říci:
 
-Bude Bohem, stolem nebo umyvadlem?
+_Bude Bohem, stolem nebo umyvadlem?_
 
 Bude Bohem! zvolá bajkář. Vám, pánové, zdá se, je určen ten vznešený a hluboký výrok. Jednejte vlastní silou a vznešená Francie bude zase taková, jaká byla za našich předků a jakou jsme ji my viděli ještě před smrtí Ludvíka XVI.
 

@@ -1,11 +1,11 @@
 ---
+title: |-
+  9.
+  Ples
 contentType: prose
 ---
 
-## 9.  
-Ples
-
-Přepych toalet, záře svíc, vůně; tolik hezkých paží, krásných ramenou; kytice, unášející árie Rossiniho, Ciceriho malby! Jsem celý bez sebe!
+_Přepych toalet, záře svíc, vůně; tolik hezkých paží, krásných ramenou; kytice, unášející árie Rossiniho, Ciceriho malby! Jsem celý bez sebe!_
 
 — CESTY UZERIHO
 

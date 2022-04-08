@@ -1,11 +1,11 @@
 ---
+title: |-
+  39.
+  Pletichy
 contentType: prose
 ---
 
-## 39.  
-Pletichy
-
-Castres, 1676. – Ve vedlejším domě právě bratr zavraždil sestru. Ten šlechtic spáchal už jednu vraždu. Jeho otec dal tajně rozdat pět set tolarů členům rady a zachránil mu život.
+_Castres, 1676. – Ve vedlejším domě právě bratr zavraždil sestru. Ten šlechtic spáchal už jednu vraždu. Jeho otec dal tajně rozdat pět set tolarů členům rady a zachránil mu život._
 
 — LOCKE, CESTA PO FRANCII
 

@@ -1,11 +1,11 @@
 ---
+title: |-
+  41.
+  Rozsudek
 contentType: prose
 ---
 
-## 41.  
-Rozsudek
-
-Na ten slavný proces bude dlouho celý kraj vzpomínat. Zájem o obžalovaného hraničil s rozčilením; to proto, že jeho zločin budil úžas, ale nebudil hrůzu. I kdyby byl jeho zločin býval hrozný, ten mladý muž byl přece tak krásný! Jeho šťastná, tak brzy ukončená životní dráha zvyšovala pohnutí. Bude odsouzen? ptaly se ženy svých známých a bylo vidět, s jakou úzkostí čekají odpověď.
+_Na ten slavný proces bude dlouho celý kraj vzpomínat. Zájem o obžalovaného hraničil s rozčilením; to proto, že jeho zločin budil úžas, ale nebudil hrůzu. I kdyby byl jeho zločin býval hrozný, ten mladý muž byl přece tak krásný! Jeho šťastná, tak brzy ukončená životní dráha zvyšovala pohnutí. Bude odsouzen? ptaly se ženy svých známých a bylo vidět, s jakou úzkostí čekají odpověď._
 
 — SAINTE-BEUVE
 

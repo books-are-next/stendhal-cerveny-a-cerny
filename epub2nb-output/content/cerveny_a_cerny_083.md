@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -12,7 +13,7 @@ Překlad Otakar Levý
 
 Redakce Slávka Járová
 
-Vydala Městská knihovna v Praze
+Vydala **Městská knihovna v Praze**
 
 Mariánské nám. 1, 115 72 Praha 1
 

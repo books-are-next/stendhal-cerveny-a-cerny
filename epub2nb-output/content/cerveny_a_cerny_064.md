@@ -1,11 +1,11 @@
 ---
+title: |-
+  28.
+  Manon Lescaut
 contentType: prose
 ---
 
-## 28.  
-Manon Lescaut
-
-Nuže, jakmile se přesvědčil, že převor je hlupák a osel, nazýval černým, co bylo bílé, a bílým, co bylo černé, a míval často úspěch.
+_Nuže, jakmile se přesvědčil, že převor je hlupák a osel, nazýval černým, co bylo bílé, a bílým, co bylo černé, a míval často úspěch._
 
 — LICHTENBERG
 

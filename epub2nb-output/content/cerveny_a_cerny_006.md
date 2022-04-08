@@ -1,11 +1,11 @@
 ---
+title: |-
+  1.
+  Městečko
 contentType: prose
 ---
 
-## 1.  
-Městečko
-
-Shromáždi tisíce lepších v méně pestré kleci.
+_Shromáždi tisíce lepších v méně pestré kleci._
 
 — HOBBES
 
