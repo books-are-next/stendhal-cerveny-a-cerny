@@ -1,8 +1,7 @@
 ---
+title: '44.'
 contentType: prose
 ---
-
-## 44.
 
 Po jeho odchodu Julián dlouho plakal. Plakal, že musí zemřít. Posléze si řekl, že kdyby byla paní de Rênal v Besançonu, svěřil by se jí se svou slabostí…
 

@@ -1,11 +1,11 @@
 ---
+title: |-
+  14.
+  Anglické nůžky
 contentType: prose
 ---
 
-## 14.  
-Anglické nůžky
-
-Šestnáctiletá dívka měla pleť jako růže a červenila si tváře.
+_Šestnáctiletá dívka měla pleť jako růže a červenila si tváře._
 
 — POLIDORI
 
@@ -49,9 +49,9 @@ Podprefekt se tím dal oklamat, ne však paní Dervillová. „Ten hezký chlape
 
 Julián uznával, že se choval nevhodně, mrzelo ho to. Dlouho uvažoval, má-li se zlobit pro slova: Poroučím vám to**_._** Byl tak hloupý, že si myslil: „Směla by mi říci poroučím to, kdyby šlo o něco, co by se týkalo výchovy dětí, ale poněvadž opětuje moji lásku, předpokládá, že jsme si rovni. Není lásky bez rovnosti…“ a usilovně si vzpomínal na známá rčení o rovnosti v lásce. Trpce si opakoval verš Corneillův, kterému ho paní Dervillová několik dní předtím naučila:
 
-… Láska
+_… Láska_
 
- rozdíly vyrovnává, neuhýbá jim.
+ _rozdíly vyrovnává, neuhýbá jim._
 
 Julián si vzal do hlavy, že bude hrát úlohu Dona Juana; a protože nikdy neměl milenku, choval se celý den hrozně hloupě. Měl jedinou jasnou myšlenku; byl rozmrzen na sebe i na paní de Rênal, viděl s hrůzou, jak se blíží večer, a představoval si, že bude sedět v zahradě potmě vedle ní. Řekl panu de Rênal, že jde do Verrières navštívit faráře; vydal se po večeři na cestu a vrátil se teprve v noci.
 

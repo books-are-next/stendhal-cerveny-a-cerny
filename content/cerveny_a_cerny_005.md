@@ -1,8 +1,7 @@
 ---
+title: DÍL PRVNÍ
 contentType: prose
 ---
 
-# DÍL PRVNÍ
-
-Pravda. Trpká pravda  
-**—** DANTON
+_Pravda. Trpká pravda  
+**—** DANTON_

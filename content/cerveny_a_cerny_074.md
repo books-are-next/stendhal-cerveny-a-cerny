@@ -1,11 +1,11 @@
 ---
+title: |-
+  38.
+  Mocný člověk
 contentType: prose
 ---
 
-## 38.  
-Mocný člověk
-
-Ale v jejím chování je tolik tajuplného, její postava je tak elegantní! Kdo to asi je?
+_Ale v jejím chování je tolik tajuplného, její postava je tak elegantní! Kdo to asi je?_
 
 — SCHILLER
 

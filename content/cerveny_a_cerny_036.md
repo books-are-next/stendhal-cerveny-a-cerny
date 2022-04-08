@@ -1,8 +1,7 @@
 ---
+title: DÍL DRUHÝ
 contentType: prose
 ---
 
-# DÍL DRUHÝ
-
-Není hezká**,** není nalíčená.  
-— SAINTE-BEUVE
+_Není hezká**,** není nalíčená.  
+— SAINTE-BEUVE_

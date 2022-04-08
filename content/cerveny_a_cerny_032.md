@@ -1,11 +1,11 @@
 ---
+title: |-
+  27.
+  První životní zkušenosti
 contentType: prose
 ---
 
-## 27.  
-První životní zkušenosti
-
-Nynější doba, můj Bože, toť archa Páně. Běda tomu, kdo se jí dotkne.
+_Nynější doba, můj Bože, toť archa Páně. Běda tomu, kdo se jí dotkne._
 
 —DIDEROT
 

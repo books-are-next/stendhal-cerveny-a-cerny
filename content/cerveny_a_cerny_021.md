@@ -1,11 +1,11 @@
 ---
+title: |-
+  16.
+  Příští den
 contentType: prose
 ---
 
-## 16.  
-Příští den
-
-Rty zvrátil k jejím rtům a ruka vrací v čelo jí příval vlasů poletavý…
+_Rty zvrátil k jejím rtům a ruka vrací v čelo jí příval vlasů poletavý…_
 
 — DON JUAN, zpěv I, strofa 170
 

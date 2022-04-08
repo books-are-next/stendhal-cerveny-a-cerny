@@ -1,11 +1,11 @@
 ---
+title: |-
+  3.
+  První kroky
 contentType: prose
 ---
 
-## 3.  
-První kroky
-
-To nesmírné údolí, plné skvoucích světel a tolika tisíc lidí, mě oslňuje. Nikdo mě nezná a všichni mě předčí. Ztrácím hlavu.
+_To nesmírné údolí, plné skvoucích světel a tolika tisíc lidí, mě oslňuje. Nikdo mě nezná a všichni mě předčí. Ztrácím hlavu._
 
 — REINA: BÁSNĚ
 

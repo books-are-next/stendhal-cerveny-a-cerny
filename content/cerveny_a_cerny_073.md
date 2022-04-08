@@ -1,11 +1,11 @@
 ---
+title: |-
+  37.
+  Hradní věž
 contentType: prose
 ---
 
-## 37.  
-Hradní věž
-
-Hrob přítele.
+_Hrob přítele._
 
 — STERNE
 

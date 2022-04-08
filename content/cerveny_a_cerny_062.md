@@ -1,17 +1,17 @@
 ---
+title: |-
+  26.
+  Duchovní láska
 contentType: prose
 ---
 
-## 26.  
-Duchovní láska
-
-Též měla, rozumí se, Adelina  
+_Též měla, rozumí se, Adelina  
 v chování patricijský hladký klid,  
 jenž nepřekročitelnou svorou spíná  
 vše, čím by hlásit chtěl se z hrudi cit:  
 tak jako neuslyšíš mandarina  
 cokoli teplým slůvkem pochválit,  
-buď sebevětší jeho zalíbení.
+buď sebevětší jeho zalíbení._
 
 — DON JUAN, zpěv XIII, strofa 84
 
@@ -35,7 +35,7 @@ Julián byl méně nešťasten, poněvadž začal jednat; jeho pohled padl náho
 
 Za několik hodin ho zastihlo slunce, jak spí opřený o stůl. Jedněmi z nejtrýznivějších chvil jeho života byly okamžiky, kdy si každé ráno při probuzení vždy znovu uvědomoval své neštěstí. Ale toho dne dokončil opisování dopisu skoro se smíchem. „Je to možné,“ myslil si, „že něco takového napsal mladý muž?“ Některé věty měly devět řádků. Na spodním okraji originálu uviděl poznámku tužkou:
 
-Dopisy je třeba donášet osobně; na koni, černá kravata, modrý kabát. Dopis budiž odevzdán vrátnému; při tom se tvářit zarmouceně a hluboce melancholicky. Je-li nablízku nějaká komorná, utírat si pokradmu oči. Promluvit s komornou.
+_Dopisy je třeba donášet osobně; na koni, černá kravata, modrý kabát. Dopis budiž odevzdán vrátnému; při tom se tvářit zarmouceně a hluboce melancholicky. Je-li nablízku nějaká komorná, utírat si pokradmu oči. Promluvit s komornou._
 
 Vykonal vše podle předpisu.
 

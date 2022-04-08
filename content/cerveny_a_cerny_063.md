@@ -1,11 +1,11 @@
 ---
+title: |-
+  27.
+  Nejkrásnější prebendy
 contentType: prose
 ---
 
-## 27.  
-Nejkrásnější prebendy
-
-Zásluhy? Nadání? Vlohy? To není k ničemu! Musíte náležet k některé mocné straně.
+_Zásluhy? Nadání? Vlohy? To není k ničemu! Musíte náležet k některé mocné straně._
 
 — LICHTENBERG
 

@@ -1,11 +1,11 @@
 ---
+title: |-
+  16.
+  Jedna hodina v noci
 contentType: prose
 ---
 
-## 16.  
-Jedna hodina v noci
-
-Zahrada byla velmi rozsáhlá, upravená před několika lety s dokonalým vkusem. Ale stromy byly přes sto let staré. Bylo v tom něco venkovského.
+_Zahrada byla velmi rozsáhlá, upravená před několika lety s dokonalým vkusem. Ale stromy byly přes sto let staré. Bylo v tom něco venkovského._
 
 — MASSINGER
 

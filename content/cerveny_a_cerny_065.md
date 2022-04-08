@@ -1,11 +1,11 @@
 ---
+title: |-
+  29.
+  Nuda
 contentType: prose
 ---
 
-## 29.  
-Nuda
-
-Obětovat se svým vášním, budiž; ale obětovat se vášním, jež člověk necítí? Ó smutné devatenácté století!
+_Obětovat se svým vášním, budiž; ale obětovat se vášním, jež člověk necítí? Ó smutné devatenácté století!_
 
 — GIRODET
 

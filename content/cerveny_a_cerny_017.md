@@ -1,11 +1,11 @@
 ---
+title: |-
+  12.
+  Cesta
 contentType: prose
 ---
 
-## 12.  
-Cesta
-
-V Paříži se setkáváme s lidmi uhlazenými, na venkově mohou být lidé charakterní.
+_V Paříži se setkáváme s lidmi uhlazenými, na venkově mohou být lidé charakterní._
 
 — SIEYÈS
 

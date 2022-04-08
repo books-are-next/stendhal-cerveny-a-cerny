@@ -1,11 +1,11 @@
 ---
+title: |-
+  11.
+  Vláda mladé dívky
 contentType: prose
 ---
 
-## 11.  
-Vláda mladé dívky
-
-Obdivuji se její kráse, ale bojím se jejího ducha.
+_Obdivuji se její kráse, ale bojím se jejího ducha._
 
 — MÉRIMÉE
 

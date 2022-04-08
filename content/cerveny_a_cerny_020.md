@@ -1,14 +1,14 @@
 ---
+title: |-
+  15.
+  Kuropění
 contentType: prose
 ---
 
-## 15.  
-Kuropění
-
-Láska, toť latinsky je amor  
+_Láska, toť latinsky je amor  
 a z lásky pochází též mor  
 a všechna starost, která moří,  
-smutek, pláč, zločin, lest, mord.
+smutek, pláč, zločin, lest, mord._
 
 — HESLO LÁSKY
 

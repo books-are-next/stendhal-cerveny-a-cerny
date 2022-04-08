@@ -1,11 +1,11 @@
 ---
+title: |-
+  14.
+  Myšlenky mladé dívky
 contentType: prose
 ---
 
-## 14.  
-Myšlenky mladé dívky
-
-Co zmatku! Kolik bezesných nocí! Pane Bože! Sama si zaviním, že mnou budou pohrdat? Dokonce i on mnou bude pohrdat. Ale on odjíždí, odchází ode mne.
+_Co zmatku! Kolik bezesných nocí! Pane Bože! Sama si zaviním, že mnou budou pohrdat? Dokonce i on mnou bude pohrdat. Ale on odjíždí, odchází ode mne._
 
 — ALFRED DE MUSSET
 

@@ -1,11 +1,11 @@
 ---
+title: |-
+  12.
+  Je to snad druhý Danton?
 contentType: prose
 ---
 
-## 12.  
-Je to snad druhý Danton?
-
-Potřeba úzkosti, taková byla povaha krásné Markéty de Valois, mé tety, která se brzy provdala za krále navarského, jenž vládne nyní ve Francii jako Jindřich IV. Potřeba dávat něco v sázku tvořila celé tajemství povahy té roztomilé princezny; odtud její roztržky a opětná usmiřování s jejími bratry již od šestnácti let. Nuže, co může dívka dávat v sázku? Co má nejdrahocennějšího: svou pověst, vážnost celého svého života.
+_Potřeba úzkosti, taková byla povaha krásné Markéty de Valois, mé tety, která se brzy provdala za krále navarského, jenž vládne nyní ve Francii jako Jindřich IV. Potřeba dávat něco v sázku tvořila celé tajemství povahy té roztomilé princezny; odtud její roztržky a opětná usmiřování s jejími bratry již od šestnácti let. Nuže, co může dívka dávat v sázku? Co má nejdrahocennějšího: svou pověst, vážnost celého svého života._
 
 — PAMĚTI VÉVODY ANGOULÊMSKÉHO,  
 LEVOBOČKA KARLA IX.

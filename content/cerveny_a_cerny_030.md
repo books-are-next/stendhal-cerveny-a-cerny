@@ -1,11 +1,11 @@
 ---
+title: |-
+  25.
+  Seminář
 contentType: prose
 ---
 
-## 25.  
-Seminář
-
-Tři sta třicet šest obědů po 83 centimech; tři sta třicet šest večeří po 38 centimech; čokoládu, kdo má na ni právo; kolik se tu dá vydělat na poslušnosti!
+_Tři sta třicet šest obědů po 83 centimech; tři sta třicet šest večeří po 38 centimech; čokoládu, kdo má na ni právo; kolik se tu dá vydělat na poslušnosti!_
 
 — VALENOD Z BESANÇONU
 

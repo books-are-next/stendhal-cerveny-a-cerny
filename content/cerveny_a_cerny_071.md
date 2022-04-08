@@ -1,11 +1,11 @@
 ---
+title: |-
+  35.
+  Bouře
 contentType: prose
 ---
 
-## 35.  
-Bouře
-
-Bože, dej ať ničím nevynikám!
+_Bože, dej ať ničím nevynikám!_
 
 — MIRABEAU
 
@@ -33,27 +33,27 @@ Jeho nepřístupnost, přísné a skoro zlé oči, bledost a neochvějná chladn
 
 Ze Štrasburku psal Julián panu Chélanovi, bývalému verrièreskému faráři, který byl v té době již velmi stár:
 
-Nepochybuji, že jste s radostí přijal zprávu o událostech, které přiměly mou rodinu učinit ze mne bohatého člověka. Přikládám pět set franků a prosím, abyste je nenápadně, aniž byste se o mně zmiňoval, rozdělil ubožákům, kteří jsou dnes tak chudí, jak jsem kdysi byl já, a jimž jistě stále pomáháte tak, jak jste kdysi pomáhal mně.
+_Nepochybuji, že jste s radostí přijal zprávu o událostech, které přiměly mou rodinu učinit ze mne bohatého člověka. Přikládám pět set franků a prosím, abyste je nenápadně, aniž byste se o mně zmiňoval, rozdělil ubožákům, kteří jsou dnes tak chudí, jak jsem kdysi byl já, a jimž jistě stále pomáháte tak, jak jste kdysi pomáhal mně._
 
 Julián byl opojen ctižádostí, ne však marnivostí. Přesto věnoval velkou péči svému zevnějšku. Jeho koně a stejnokroje i livreje jeho sluhů byly tak bezvadné, že by mohly dělat čest i pečlivosti vznešeného anglického šlechtice. Ačkoliv se teprve nedávno, a to ještě protekcí, stal nadporučíkem, vypočítal si již, že chce-li být jako všichni velcí vojevůdcové nejpozději ve třiceti letech vrchním velitelem, měl by ve třiadvaceti letech býti více než pouhým nadporučíkem. Myslil pouze na slávu a na svého syna.
 
 Z tohoto blouznění nespoutané ctižádosti byl vytržen mladým sluhou z domu markýze de la Mole, který mu přinesl dopis.
 
-Vše je ztraceno, psala mu Matylda, přijeďte co nejrychleji, obětujte všechno, zběhněte, je-li třeba. Po příjezdu čekejte na mne v drožce v ulici… u zahradních dvířek čísla… Přijdu za Vámi; snad Vás budu moci vzít s sebou do zahrady. Vše je ztraceno a bojím se, že není naděje na záchranu; spoléhejte na mne, zůstanu věrná a pevná i v neštěstí. Miluji Vás.
+_Vše je ztraceno, psala mu Matylda, přijeďte co nejrychleji, obětujte všechno, zběhněte, je-li třeba. Po příjezdu čekejte na mne v drožce v ulici… u zahradních dvířek čísla… Přijdu za Vámi; snad Vás budu moci vzít s sebou do zahrady. Vše je ztraceno a bojím se, že není naděje na záchranu; spoléhejte na mne, zůstanu věrná a pevná i v neštěstí. Miluji Vás._
 
 Za několik minut dostal Julián dovolenou od plukovníka a odjel tryskem ze Štrasburku. Ale hrozný neklid, který ho sžíral, mu nedovolil takto cestovat dále než k Metám. Vrhl se do poštovního vozu a dospěl skoro neuvěřitelnou rychlostí k označenému místu u zahradních dvířek paláce de la Mole. Dvířka se otevřela a v témž okamžiku se mu Matylda, zapomínajíc na jakoukoliv lidskou důstojnost, vrhla do náručí. Naštěstí bylo teprve pět hodin ráno a ulice byla ještě liduprázdná.
 
 „Vše je ztraceno. Otec, obávaje se mých slz, v noci na čtvrtek odjel. Kam? To nikdo neví. Zde je dopis od něho, čtěte.“ A vsedla k Juliánovi do drožky.
 
-Mohl bych odpustit všechno, jen to ne, že jste byla plánovitě svedena, poněvadž jste bohatá. To je ta hrozná pravda, má nešťastná dcero. Dávám Vám své čestné slovo, že nesvolím nikdy k sňatku s tím člověkem. Zajistím mu deset tisíc ročního důchodu, slíbí-li, že bude žít daleko odtud, mimo hranice Francie, nebo ještě lépe v Americe. Přečtěte si dopis, který jsem dostal jako odpověď na svůj dotaz. Ten nestoudník mě sám přiměl, abych napsal paní de Rênal. Nikdy nebudu číst ani jediný řádek od Vás, v němž bude řeč o tom člověku. Protiví se mi Paříž i Vy. Žádám Vás, abyste co nejpečlivěji tajila vše, co se má stát. Zřekněte se dobrovolně toho podlého člověka a najdete opět otce.
+_Mohl bych odpustit všechno, jen to ne, že jste byla plánovitě svedena, poněvadž jste bohatá. To je ta hrozná pravda, má nešťastná dcero. Dávám Vám své čestné slovo, že nesvolím nikdy k sňatku s tím člověkem. Zajistím mu deset tisíc ročního důchodu, slíbí-li, že bude žít daleko odtud, mimo hranice Francie, nebo ještě lépe v Americe. Přečtěte si dopis, který jsem dostal jako odpověď na svůj dotaz. Ten nestoudník mě sám přiměl, abych napsal paní de Rênal. Nikdy nebudu číst ani jediný řádek od Vás, v němž bude řeč o tom člověku. Protiví se mi Paříž i Vy. Žádám Vás, abyste co nejpečlivěji tajila vše, co se má stát. Zřekněte se dobrovolně toho podlého člověka a najdete opět otce._
 
 „Kde je dopis paní de Rênal?“ řekl Julián chladně.
 
 „Zde. Nechtěla jsem ti jej ukázat, dokud jsem tě nepřipravila.“
 
-DOPIS
+_DOPIS_
 
-Svatý zájem náboženství a mravnosti mne nutí, pane, k trapnému zakročení u Vás. Neomylný předpis mi nařizuje, abych uškodila v tuto chvíli bližnímu a zabránila tím ještě většímu pohoršení. Bolest, kterou cítím, musí ustoupit smyslu pro povinnost. Je až příliš pravda, že chování člověka, o němž si přejete vědět plnou pravdu, se mohlo zdát nevysvětlitelné nebo dokonce i počestné. Možná že pokládali za vhodné Vám zatajit anebo částečně zakrýt pravdu; vyžadovala toho opatrnost právě tak jako náboženství. Ve skutečnosti však chování toho člověka, na nějž se ptáte, bylo nutno naprosto odsoudit, bylo odsouzeníhodnější, než mohu říci. Poněvadž byl chudý a toužil po bohatství, snažil se nejhorším pokrytectvím a svedením slabé a nešťastné ženy vyšinout a něčím se stát. Je také mou smutnou povinností dodat, že se musím domnívat, že pan J. nemá žádné náboženské zásady. Ve svém svědomí jsem nucena si myslet, že jedním z jeho prostředků, jak dosáhnout význačného postavení v rodině, je svést ženu, která požívá největší úcty. Pod zdáním lhostejnosti a pomocí románových frází usiluje pouze o to, aby dostal do své moci pána domu a jeho jmění. Zanechává po sobě neštěstí a věčnou lítost atd. atd. atd.
+_Svatý zájem náboženství a mravnosti mne nutí, pane, k trapnému zakročení u Vás. Neomylný předpis mi nařizuje, abych uškodila v tuto chvíli bližnímu a zabránila tím ještě většímu pohoršení. Bolest, kterou cítím, musí ustoupit smyslu pro povinnost. Je až příliš pravda, že chování člověka, o němž si přejete vědět plnou pravdu, se mohlo zdát nevysvětlitelné nebo dokonce i počestné. Možná že pokládali za vhodné Vám zatajit anebo částečně zakrýt pravdu; vyžadovala toho opatrnost právě tak jako náboženství. Ve skutečnosti však chování toho člověka, na nějž se ptáte, bylo nutno naprosto odsoudit, bylo odsouzeníhodnější, než mohu říci. Poněvadž byl chudý a toužil po bohatství, snažil se nejhorším pokrytectvím a svedením slabé a nešťastné ženy vyšinout a něčím se stát. Je také mou smutnou povinností dodat, že se musím domnívat, že pan J. nemá žádné náboženské zásady. Ve svém svědomí jsem nucena si myslet, že jedním z jeho prostředků, jak dosáhnout význačného postavení v rodině, je svést ženu, která požívá největší úcty. Pod zdáním lhostejnosti a pomocí románových frází usiluje pouze o to, aby dostal do své moci pána domu a jeho jmění. Zanechává po sobě neštěstí a věčnou lítost atd. atd. atd._
 
 Tento nesmírně dlouhý dopis byl místy napolo rozmazán slzami a byl psán rukou paní de Rênal; bylo dokonce vidět, že mu věnovala zvláštní péči.
 

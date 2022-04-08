@@ -1,11 +1,11 @@
 ---
+title: |-
+  4.
+  Otec a syn
 contentType: prose
 ---
 
-## 4.  
-Otec a syn
-
-A bude to má vina, bude-li tomu tak?
+_A bude to má vina, bude-li tomu tak?_
 
 — MACHIAVELLI
 

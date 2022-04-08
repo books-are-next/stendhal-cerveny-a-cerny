@@ -1,11 +1,11 @@
 ---
+title: |-
+  22.
+  Jak se jednalo roku 1830
 contentType: prose
 ---
 
-## 22.  
-Jak se jednalo roku 1830
-
-Řeč byla dána člověku na to, aby skryl svou myšlenku.
+_Řeč byla dána člověku na to, aby skryl svou myšlenku._
 
 — R. P. MALAGRIDA
 

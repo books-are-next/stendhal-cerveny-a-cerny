@@ -1,11 +1,11 @@
 ---
+title: |-
+  29.
+  První povýšení
 contentType: prose
 ---
 
-## 29.  
-První povýšení
-
-Poznal své století, poznal svůj departement, a proto je bohatý.
+_Poznal své století, poznal svůj departement, a proto je bohatý._
 
 — LE PRÉCURSEUR
 
@@ -59,7 +59,7 @@ Procházel se sám seminární zahradou a zaslechl hovor zedníků, kteří stav
 
 Ta rozmluva Juliána trochu potěšila. Odcházeje povzdychl si:
 
-To je jediný král, jejž národ vzpomíná!
+_To je jediný král, jejž národ vzpomíná!_
 
 Nadešla doba zkoušek. Julián odpovídal skvěle. Viděl, že i Chazel se snaží ukázat, co ví.
 
@@ -107,9 +107,11 @@ Jednoho dne dostal abbé Pirard lístek, aby se v nutné věci dostavil bez odkl
 
 Dopis byl krátký:
 
-Vyprosťte se, drahý abbé, ze všech venkovských mrzutostí a přijeďte si oddechnout do Paříže. Posílám Vám svůj vůz, který má nařízeno čekat čtyři dny na Vaše rozhodnutí. Budu Vás sám až do úterka v Paříži očekávat. Stačí mi jen vaše svolení, abych přijal Vaším jménem jednu z nejbohatších far v okolí Paříže. Nejbohatší z Vašich budoucích farníků Vás sice ještě nikdy neviděl, ale je Vám oddán více, než si můžete pomyslit; je to Váš
+_Vyprosťte se, drahý abbé, ze všech venkovských mrzutostí a přijeďte si oddechnout do Paříže. Posílám Vám svůj vůz, který má nařízeno čekat čtyři dny na Vaše rozhodnutí. Budu Vás sám až do úterka v Paříži očekávat. Stačí mi jen vaše svolení, abych přijal Vaším jménem jednu z nejbohatších far v okolí Paříže. Nejbohatší z Vašich budoucích farníků Vás sice ještě nikdy neviděl, ale je Vám oddán více, než si můžete pomyslit; je to Váš_
 
-markýz de la Mole.
+_markýz de la Mole._
+
+  
 
 Přísný abbé Pirard, aniž si to uvědomoval, miloval svůj seminář, v němž měl tolik nepřátel a jemuž po patnáct let věnoval všechny své myšlenky. Dopis pana de la Mole působil na něho, jako by se mu zjevil lékař mající provést krutou a nezbytnou operaci. Jeho sesazení bylo jisté. Smluvil si s intendantem schůzku za tři dny.
 

@@ -1,11 +1,11 @@
 ---
+title: |-
+  30.
+  Ctižádostivec
 contentType: prose
 ---
 
-## 30.  
-Ctižádostivec
-
-Je pouze jediný vznešený titul: titul vévodský; markýz je směšný; při slově vévoda se lidé ještě ohlížejí.
+_Je pouze jediný vznešený titul: titul vévodský; markýz je směšný; při slově vévoda se lidé ještě ohlížejí._
 
 —EDINBURGH REVIEW
 

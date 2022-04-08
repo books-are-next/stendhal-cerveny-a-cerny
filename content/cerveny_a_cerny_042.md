@@ -1,11 +1,11 @@
 ---
+title: |-
+  6.
+  Konverzační umění
 contentType: prose
 ---
 
-## 6.  
-Konverzační umění
-
-Jejich velkým posláním je klidně posuzovat drobné denní příhody v životě národů. Svou rozvahou mají zabránit velkému hněvu nad malými příčinami nebo nad událostmi, které ústní podání překroutilo.
+_Jejich velkým posláním je klidně posuzovat drobné denní příhody v životě národů. Svou rozvahou mají zabránit velkému hněvu nad malými příčinami nebo nad událostmi, které ústní podání překroutilo._
 
 — GRATIUS
 

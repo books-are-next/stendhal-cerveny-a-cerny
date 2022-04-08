@@ -1,11 +1,11 @@
 ---
+title: |-
+  21.
+  Rozmluva s pánem
 contentType: prose
 ---
 
-## 21.  
-Rozmluva s pánem
-
-Ach, naše křehkost vinna tím, ne my; jsme takovými, jak jsme stvořeny.
+_Ach, naše křehkost vinna tím, ne my; jsme takovými, jak jsme stvořeny._
 
 — VEČER TŘÍKRÁLOVÝ
 

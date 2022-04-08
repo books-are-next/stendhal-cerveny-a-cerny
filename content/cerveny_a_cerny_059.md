@@ -1,11 +1,11 @@
 ---
+title: |-
+  23.
+  Kněžstvo, lesy, svoboda
 contentType: prose
 ---
 
-## 23.  
-Kněžstvo, lesy, svoboda
-
-Prvním zákonem všeho tvorstva je: zachovat se, žít. Sejete bolehlav a žádáte, aby vám uzrály klasy!
+_Prvním zákonem všeho tvorstva je: zachovat se, žít. Sejete bolehlav a žádáte, aby vám uzrály klasy!_
 
 — MACHIAVELLI
 

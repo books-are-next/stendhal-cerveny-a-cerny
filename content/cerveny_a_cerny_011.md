@@ -1,11 +1,11 @@
 ---
+title: |-
+  6.
+  Nuda
 contentType: prose
 ---
 
-## 6.  
-Nuda
-
-Nevím již ani, co jsem a co dělám.
+_Nevím již ani, co jsem a co dělám._
 
 — MOZART (FIGARO)
 

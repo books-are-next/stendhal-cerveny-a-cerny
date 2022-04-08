@@ -1,11 +1,11 @@
 ---
+title: |-
+  24.
+  Krajské město
 contentType: prose
 ---
 
-## 24.  
-Krajské město
-
-Kolik hluku, kolik uspěchaných lidí! Kolik plánů do budoucnosti v hlavě dvacetiletého mladíka! Jaké rozptýlení pro lásku!
+_Kolik hluku, kolik uspěchaných lidí! Kolik plánů do budoucnosti v hlavě dvacetiletého mladíka! Jaké rozptýlení pro lásku!_
 
 — BARNAVE
 

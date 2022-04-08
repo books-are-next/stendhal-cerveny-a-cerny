@@ -1,11 +1,11 @@
 ---
+title: |-
+  24.
+  Štrasburk
 contentType: prose
 ---
 
-## 24.  
-Štrasburk
-
-Okouzlení! Máš všechnu sílu lásky, všechnu její schopnost zakoušet neštěstí. Jedině její kouzelné rozkoše, její sladké požitky jsou mimo tvou oblast. Nemohl jsem říci, když jsem ji viděl spát: je celá moje se svou andělskou krásou i se svými sladkými slabostmi! Hle, je v mé moci tak, jak ji nebe ve svém milosrdenství stvořilo, aby okouzlovala lidské srdce.
+_Okouzlení! Máš všechnu sílu lásky, všechnu její schopnost zakoušet neštěstí. Jedině její kouzelné rozkoše, její sladké požitky jsou mimo tvou oblast. Nemohl jsem říci, když jsem ji viděl spát: je celá moje se svou andělskou krásou i se svými sladkými slabostmi! Hle, je v mé moci tak, jak ji nebe ve svém milosrdenství stvořilo, aby okouzlovala lidské srdce._
 
 — ÓDA SCHILLEROVA
 

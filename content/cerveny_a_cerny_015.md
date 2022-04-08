@@ -1,13 +1,13 @@
 ---
+title: |-
+  10.
+  Velká odvaha a malé štěstí
 contentType: prose
 ---
 
-## 10.  
-Velká odvaha a malé štěstí
-
-Přetváří vášeň se, však přec ji hlásí  
+_Přetváří vášeň se, však přec ji hlásí  
           i její tma; jak nejčernější mrak  
-nejtěžší hlásí bouř…
+nejtěžší hlásí bouř…_
 
 — DON JUAN, zpěv I, strofa 73
 

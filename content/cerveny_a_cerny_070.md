@@ -1,11 +1,11 @@
 ---
+title: |-
+  34.
+  Moudrý muž
 contentType: prose
 ---
 
-## 34.  
-Moudrý muž
-
-Prefekt si při projížďce na koni řekl: Proč bych nemohl být ministrem, předsedou státní rady, vévodou? Válku bych vedl takhle… Tak bych mohl pozavírat všechny novotáře…
+_Prefekt si při projížďce na koni řekl: Proč bych nemohl být ministrem, předsedou státní rady, vévodou? Válku bych vedl takhle… Tak bych mohl pozavírat všechny novotáře…_
 
 — Globe
 
@@ -19,9 +19,11 @@ Paní de la Mole a ostatní obyvatelé domu se domnívali, že Julián cestuje p
 
 „Nechci vědět, kde je ten člověk,“ řekl jí jednoho dne markýz. „Pošlete mu tento dopis.“ Matylda četla:
 
-Mé statky v Languedoku vynášejí 20.600 franků. Dávám z nich 10.600 franků své dceři a 10.000 franků Juliánu Sorelovi. Samozřejmě dávám jim i ty statky. Řekněte notáři, aby vyhotovil dvě darovací listiny, každou zvlášť, a aby mi je zítra přinesl. Pak přestanou mezi námi všechny další styky. Ach, pane Soreli, toho bych se nebyl nadál!
+_Mé statky v Languedoku vynášejí 20.600 franků. Dávám z nich 10.600 franků své dceři a 10.000 franků Juliánu Sorelovi. Samozřejmě dávám jim i ty statky. Řekněte notáři, aby vyhotovil dvě darovací listiny, každou zvlášť, a aby mi je zítra přinesl. Pak přestanou mezi námi všechny další styky. Ach, pane Soreli, toho bych se nebyl nadál!_
 
-Markýz DE LA MOLE
+_Markýz DE LA MOLE_
+
+  
 
 „Děkuji vám mnohokrát,“ řekla Matylda radostně. „Usadíme se v aiguillonském zámku, mezi Agenem a Marmandem. Je prý tam krásně jako v Itálii.“
 
@@ -33,7 +35,7 @@ Matylda konečně pozbyla trpělivosti, že se tak málo vidí s mužem, kteréh
 
 Jednou v mrzuté náladě napsala otci a začala svůj dopis jako Othello…
 
-Že jsem dala Juliánovi přednost před výhodami, jež společnost nabízí dceři pana markýze de la Mole, to má volba dokazuje dostatečně. Radosti, jaké poskytuje vysoké společenské postavení, a malicherná ješitnost pro mne nic neznamenají. Bude tomu brzy šest neděl, co žiji odloučena od svého manžela. Tím jsem dost prokázala svou úctu k Vám. Před příštím čtvrtkem odejdu z otcovského domu. Vaší štědrostí jsme získali jmění. Nikdo nezná mé tajemství kromě ctihodného abbé Pirarda. Půjdu k němu; oddá nás a za hodinu po obřadu budeme na cestě do Languedoku a ukážeme se v Paříži, jen když to nařídíte. Ale bolí mě, že z toho vzejdou zlomyslné vtipy, namířené proti mně a proti Vám. Nepřinutí nakonec vtipy hloupých lidí našeho milého Norberta, aby vyvolal spor s Juliánem? V tom případě bych neměla nad Juliánem žádnou moc; znám ho. Probudil by se v něm odbojný plebejec. Zapřísahám Vás na kolenou, otče, abyste se příští čtvrtek zúčastnil mé svatby v kostele abbé Pirarda! Tím zmírníte zlomyslnost klepů a zabezpečíte život svého jediného syna a život mého manžela atd. atd.
+_Že jsem dala Juliánovi přednost před výhodami, jež společnost nabízí dceři pana markýze de la Mole, to má volba dokazuje dostatečně. Radosti, jaké poskytuje vysoké společenské postavení, a malicherná ješitnost pro mne nic neznamenají. Bude tomu brzy šest neděl, co žiji odloučena od svého manžela. Tím jsem dost prokázala svou úctu k Vám. Před příštím čtvrtkem odejdu z otcovského domu. Vaší štědrostí jsme získali jmění. Nikdo nezná mé tajemství kromě ctihodného abbé Pirarda. Půjdu k němu; oddá nás a za hodinu po obřadu budeme na cestě do Languedoku a ukážeme se v Paříži, jen když to nařídíte. Ale bolí mě, že z toho vzejdou zlomyslné vtipy, namířené proti mně a proti Vám. Nepřinutí nakonec vtipy hloupých lidí našeho milého Norberta, aby vyvolal spor s Juliánem? V tom případě bych neměla nad Juliánem žádnou moc; znám ho. Probudil by se v něm odbojný plebejec. Zapřísahám Vás na kolenou, otče, abyste se příští čtvrtek zúčastnil mé svatby v kostele abbé Pirarda! Tím zmírníte zlomyslnost klepů a zabezpečíte život svého jediného syna a život mého manžela atd. atd._
 
 Tento list přivedl markýze do těžké situace. Musel se konečně rozhodnout_._ Všechny jeho drobné zvyky, všichni jeho obvyklí přátelé pozbyli svého vlivu.
 
@@ -65,19 +67,19 @@ Kdo se omlouvá, obviňuje se_;_ nedůvěřuji Matyldě…“ Toho dne docházel
 
 DOPIS
 
-Chraňte se dopustit nových ztřeštěností. Přikládám diplom husarského nadporučíka pro pana Juliána Sorela de la Vernaye. Vidíte, co všechno pro něho dělám. Neodporujte mi, nevyptávejte se mě. Ať odjede do čtyřiadvaceti hodin a přihlásí se ve Štrasburku u svého pluku. Přikládám poukázku splatnou u mého bankéře. Žádám, abyste mě poslechli.
+_Chraňte se dopustit nových ztřeštěností. Přikládám diplom husarského nadporučíka pro pana Juliána Sorela de la Vernaye. Vidíte, co všechno pro něho dělám. Neodporujte mi, nevyptávejte se mě. Ať odjede do čtyřiadvaceti hodin a přihlásí se ve Štrasburku u svého pluku. Přikládám poukázku splatnou u mého bankéře. Žádám, abyste mě poslechli._
 
 Láska a radost Matyldina neměla mezí. Chtěla užít svého vítězství, a proto odpověděla okamžitě:
 
-Pan de la Vernaye by se Vám vrhl z vděčnosti k nohám, kdyby věděl vše, co jste pro něho udělal. Ale při vší své velkodušnosti zapomněl můj otec na mne. Čest Vaší dcery je ohrožena. Nějaká indiskrétnost ji může navždy pošpinit, a to by nenapravilo ani dvacet tisíc tolarů ročního důchodu. Diplom pošlu panu de la Vernaye pouze pod tou podmínkou, že mi dáte slovo, že bude příští měsíc veřejně slaven sňatek ve Villequieru. Brzy po té době, a prosím snažně, abyste ji nepřekročil, bude se Vaše dcera moci objevit ve společnosti pouze s jménem paní de la Vernaye. Jak Vám děkuji, drahý otče, že jste mě zachránil před jménem Sorelová atd. atd.
+_Pan de la Vernaye by se Vám vrhl z vděčnosti k nohám, kdyby věděl vše, co jste pro něho udělal. Ale při vší své velkodušnosti zapomněl můj otec na mne. Čest Vaší dcery je ohrožena. Nějaká indiskrétnost ji může navždy pošpinit, a to by nenapravilo ani dvacet tisíc tolarů ročního důchodu. Diplom pošlu panu de la Vernaye pouze pod tou podmínkou, že mi dáte slovo, že bude příští měsíc veřejně slaven sňatek ve Villequieru. Brzy po té době, a prosím snažně, abyste ji nepřekročil, bude se Vaše dcera moci objevit ve společnosti pouze s jménem paní de la Vernaye. Jak Vám děkuji, drahý otče, že jste mě zachránil před jménem Sorelová atd. atd._
 
 Odpověď zněla proti všemu očekávání takto:
 
-Poslechněte, nebo všechno odvolám. Mějte se na pozoru, nerozumné děvče. Neznám ještě Vašeho Juliána a Vy sama ho znáte ještě méně než já. Nechť odjede do Štrasburku a snaží se tam pořádně chovat. Za čtrnáct dní se dovíte mé rozhodnutí.“
+_Poslechněte, nebo všechno odvolám. Mějte se na pozoru, nerozumné děvče. Neznám ještě Vašeho Juliána a Vy sama ho znáte ještě méně než já. Nechť odjede do Štrasburku a snaží se tam pořádně chovat. Za čtrnáct dní se dovíte mé rozhodnutí.“_
 
-Tato pevná odpověď Matyldu překvapila. „Neznám Juliána.“ Zamyslila se nad těmi slovy, ale brzy se oddala nejkouzelnějším iluzím; věřila, že jsou pravdivé. „Můj Julián se dosud nevžil do úzké, malicherné šablony salónů a otec nevěří v jeho převahu právě pro ty skutečnosti, které ji dokazují…
+_Tato pevná odpověď Matyldu překvapila. „Neznám Juliána.“ Zamyslila se nad těmi slovy, ale brzy se oddala nejkouzelnějším iluzím; věřila, že jsou pravdivé. „Můj Julián se dosud nevžil do úzké, malicherné šablony salónů a otec nevěří v jeho převahu právě pro ty skutečnosti, které ji dokazují…_
 
-Nepodrobím-li se však jeho chvilkové náladě, může dojít k veřejné roztržce. Skandál by snížil mé postavení ve společnosti a mohlo by se stát, že bych se Juliánovi méně líbila. Roztržka s otcem… to by znamenalo deset roků chudoby. Jen velké bohatství mě může uchránit před posměšky za to, že jsem si zvolila manžela jen pro jeho vynikající vlastnosti. Budu-li žít daleko od otce, může na mne v jeho věku zapomenout… Norbert se ožení s roztomilou a prohnanou ženou: Ludvíka XIV. ještě v jeho stáří okouzlila vévodkyně Burgundská.
+_Nepodrobím-li se však jeho chvilkové náladě, může dojít k veřejné roztržce. Skandál by snížil mé postavení ve společnosti a mohlo by se stát, že bych se Juliánovi méně líbila. Roztržka s otcem… to by znamenalo deset roků chudoby. Jen velké bohatství mě může uchránit před posměšky za to, že jsem si zvolila manžela jen pro jeho vynikající vlastnosti. Budu-li žít daleko od otce, může na mne v jeho věku zapomenout… Norbert se ožení s roztomilou a prohnanou ženou: Ludvíka XIV. ještě v jeho stáří okouzlila vévodkyně Burgundská._
 
 Rozhodla se, že poslechne, ale chránila se dát otcův dopis Juliánovi přečíst. Při své prudké povaze by se byl mohl dopustit nějaké hlouposti.
 

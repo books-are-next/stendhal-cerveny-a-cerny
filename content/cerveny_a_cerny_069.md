@@ -1,11 +1,11 @@
 ---
+title: |-
+  33.
+  Peklo nerozhodnosti
 contentType: prose
 ---
 
-## 33.  
-Peklo nerozhodnosti
-
-Neobratný brusič zničil při broušení tohoto diamantu část jeho nejkrásnějšího lesku. – Ve středověku, ba ještě za Richelieua, dokázali Francouzi projevit svou vůli.
+_Neobratný brusič zničil při broušení tohoto diamantu část jeho nejkrásnějšího lesku. – Ve středověku, ba ještě za Richelieua, dokázali Francouzi projevit svou vůli._
 
 — MIRABEAU
 
@@ -31,7 +31,7 @@ V jasných chvílích, kdy si markýz počínal na své neštěstí zvykat, děl
 
 Julián přistoupil ke stolu a napsal na lístek:
 
-Již dávno je mi život nesnesitelný. Udělám všemu konec. Ujišťuji pana markýze, že jsem mu bezmezně vděčen, prosím ho, aby mi prominul, jestliže má smrt způsobí v domě nějaké nepříjemnosti!
+_Již dávno je mi život nesnesitelný. Udělám všemu konec. Ujišťuji pana markýze, že jsem mu bezmezně vděčen, prosím ho, aby mi prominul, jestliže má smrt způsobí v domě nějaké nepříjemnosti!_
 
 „Račte si, pane markýzi, přečíst tento lístek… Zabijte mě, anebo mě dejte zabít svým komorníkem. Je jedna hodina v noci, budu se procházet v zahradě u zadní zdi.“
 

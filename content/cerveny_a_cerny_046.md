@@ -1,11 +1,11 @@
 ---
+title: |-
+  10.
+  Královna Markéta
 contentType: prose
 ---
 
-## 10.  
-Královna Markéta
-
-Lásko! V jakých ztřeštěnostech nacházíme kvůli tobě potěšení!
+_Lásko! V jakých ztřeštěnostech nacházíme kvůli tobě potěšení!_
 
 — LIST PORTUGALSKÉ JEPTIŠKY
 
