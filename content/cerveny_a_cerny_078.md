@@ -1,5 +1,5 @@
 ---
-title: '42.'
+title: 42\.
 contentType: prose
 ---
 

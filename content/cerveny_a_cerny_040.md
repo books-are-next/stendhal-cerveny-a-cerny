@@ -1,7 +1,5 @@
 ---
-title: |-
-  4.
-  Palác markýze de la Mole
+title: 4\. Palác markýze de la Mole
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  16.
-  Jedna hodina v noci
+title: 16\. Jedna hodina v noci
 contentType: prose
 ---
 

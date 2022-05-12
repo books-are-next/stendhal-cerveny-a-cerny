@@ -1,7 +1,5 @@
 ---
-title: |-
-  25.
-  Seminář
+title: 25\. Seminář
 contentType: prose
 ---
 

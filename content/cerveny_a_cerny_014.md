@@ -1,7 +1,5 @@
 ---
-title: |-
-  9.
-  Večer na venkově
+title: 9\. Večer na venkově
 contentType: prose
 ---
 

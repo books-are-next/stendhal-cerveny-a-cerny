@@ -1,7 +1,5 @@
 ---
-title: |-
-  26.
-  Duchovní láska
+title: 26\. Duchovní láska
 contentType: prose
 ---
 

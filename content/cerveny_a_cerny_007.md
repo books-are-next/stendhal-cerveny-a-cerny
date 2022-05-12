@@ -1,7 +1,5 @@
 ---
-title: |-
-  2.
-  Starosta
+title: 2\. Starosta
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  1.
-  Slasti venkova
+title: 1\. Slasti venkova
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  3.
-  Jmění chudých
+title: 3\. Jmění chudých
 contentType: prose
 ---
 

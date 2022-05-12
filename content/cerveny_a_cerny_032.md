@@ -1,7 +1,5 @@
 ---
-title: |-
-  27.
-  První životní zkušenosti
+title: 27\. První životní zkušenosti
 contentType: prose
 ---
 

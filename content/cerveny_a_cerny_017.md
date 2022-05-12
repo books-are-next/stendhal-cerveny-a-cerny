@@ -1,7 +1,5 @@
 ---
-title: |-
-  12.
-  Cesta
+title: 12\. Cesta
 contentType: prose
 ---
 

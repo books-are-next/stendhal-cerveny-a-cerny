@@ -1,7 +1,5 @@
 ---
-title: |-
-  14.
-  Anglické nůžky
+title: 14\. Anglické nůžky
 contentType: prose
 ---
 

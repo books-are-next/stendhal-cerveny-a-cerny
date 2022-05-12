@@ -1,7 +1,5 @@
 ---
-title: |-
-  24.
-  Štrasburk
+title: 24\. Štrasburk
 contentType: prose
 ---
 

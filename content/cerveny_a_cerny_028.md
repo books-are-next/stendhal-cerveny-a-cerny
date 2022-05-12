@@ -1,7 +1,5 @@
 ---
-title: |-
-  23.
-  Trampoty vysokého úředníka
+title: 23\. Trampoty vysokého úředníka
 contentType: prose
 ---
 

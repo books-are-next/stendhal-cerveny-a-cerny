@@ -1,7 +1,5 @@
 ---
-title: |-
-  11.
-  Večer
+title: 11\. Večer
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  21.
-  Rozmluva s pánem
+title: 21\. Rozmluva s pánem
 contentType: prose
 ---
 

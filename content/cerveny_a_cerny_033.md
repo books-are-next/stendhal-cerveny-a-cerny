@@ -1,7 +1,5 @@
 ---
-title: |-
-  28.
-  Procesí
+title: 28\. Procesí
 contentType: prose
 ---
 

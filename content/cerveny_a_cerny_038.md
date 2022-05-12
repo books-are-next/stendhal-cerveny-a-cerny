@@ -1,7 +1,5 @@
 ---
-title: |-
-  2.
-  Vstup do světa
+title: 2\. Vstup do světa
 contentType: prose
 ---
 

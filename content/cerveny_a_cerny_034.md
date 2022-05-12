@@ -1,7 +1,5 @@
 ---
-title: |-
-  29.
-  První povýšení
+title: 29\. První povýšení
 contentType: prose
 ---
 

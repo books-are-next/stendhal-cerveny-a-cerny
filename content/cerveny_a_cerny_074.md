@@ -1,7 +1,5 @@
 ---
-title: |-
-  38.
-  Mocný člověk
+title: 38\. Mocný člověk
 contentType: prose
 ---
 

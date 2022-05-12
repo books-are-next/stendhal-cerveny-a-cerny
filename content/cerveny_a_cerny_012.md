@@ -1,7 +1,5 @@
 ---
-title: |-
-  7.
-  Spříznění volbou
+title: 7\. Spříznění volbou
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  20.
-  Japonská váza
+title: 20\. Japonská váza
 contentType: prose
 ---
 

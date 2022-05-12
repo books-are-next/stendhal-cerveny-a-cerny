@@ -1,7 +1,5 @@
 ---
-title: |-
-  11.
-  Vláda mladé dívky
+title: 11\. Vláda mladé dívky
 contentType: prose
 ---
 

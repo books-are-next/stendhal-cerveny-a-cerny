@@ -1,7 +1,5 @@
 ---
-title: |-
-  33.
-  Peklo nerozhodnosti
+title: 33\. Peklo nerozhodnosti
 contentType: prose
 ---
 

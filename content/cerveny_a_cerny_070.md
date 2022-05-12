@@ -1,7 +1,5 @@
 ---
-title: |-
-  34.
-  Moudrý muž
+title: 34\. Moudrý muž
 contentType: prose
 ---
 

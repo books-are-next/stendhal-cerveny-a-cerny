@@ -1,7 +1,5 @@
 ---
-title: |-
-  29.
-  Nuda
+title: 29\. Nuda
 contentType: prose
 ---
 

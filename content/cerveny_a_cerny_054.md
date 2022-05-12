@@ -1,7 +1,5 @@
 ---
-title: |-
-  18.
-  Kruté chvíle
+title: 18\. Kruté chvíle
 contentType: prose
 ---
 

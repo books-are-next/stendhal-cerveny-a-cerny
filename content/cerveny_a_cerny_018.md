@@ -1,7 +1,5 @@
 ---
-title: |-
-  13.
-  Prolamované punčochy
+title: 13\. Prolamované punčochy
 contentType: prose
 ---
 

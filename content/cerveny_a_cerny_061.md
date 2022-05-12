@@ -1,7 +1,5 @@
 ---
-title: |-
-  25.
-  Ministerstvo ctnosti
+title: 25\. Ministerstvo ctnosti
 contentType: prose
 ---
 

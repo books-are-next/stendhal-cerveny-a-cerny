@@ -1,7 +1,5 @@
 ---
-title: |-
-  17.
-  První náměstek
+title: 17\. První náměstek
 contentType: prose
 ---
 

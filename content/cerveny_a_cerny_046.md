@@ -1,7 +1,5 @@
 ---
-title: |-
-  10.
-  Královna Markéta
+title: 10\. Královna Markéta
 contentType: prose
 ---
 

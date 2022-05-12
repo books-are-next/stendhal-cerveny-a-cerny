@@ -1,7 +1,5 @@
 ---
-title: |-
-  17.
-  Starý meč
+title: 17\. Starý meč
 contentType: prose
 ---
 

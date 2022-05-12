@@ -1,7 +1,5 @@
 ---
-title: |-
-  31.
-  Síla strachu
+title: 31\. Síla strachu
 contentType: prose
 ---
 

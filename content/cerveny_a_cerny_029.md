@@ -1,7 +1,5 @@
 ---
-title: |-
-  24.
-  Krajské město
+title: 24\. Krajské město
 contentType: prose
 ---
 

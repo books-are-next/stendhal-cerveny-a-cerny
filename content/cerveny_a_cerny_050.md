@@ -1,7 +1,5 @@
 ---
-title: |-
-  14.
-  Myšlenky mladé dívky
+title: 14\. Myšlenky mladé dívky
 contentType: prose
 ---
 
