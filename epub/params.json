@@ -1114,8 +1114,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -1746,10 +1745,7 @@
       "wordsection4",
       "wordsection5"
     ],
-    "github": {
-      "user": "books-are-next",
-      "repo": "stendhal-cerveny-a-cerny"
-    },
+    "github": null,
     "generatedAt": 1652345201364
   }
 }

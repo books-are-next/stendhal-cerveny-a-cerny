@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - cerveny_a_cerny_002.html
+  - promo.html
   - cerveny_a_cerny_005.html
   - cerveny_a_cerny_006.html
   - cerveny_a_cerny_007.html

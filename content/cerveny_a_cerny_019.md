@@ -49,7 +49,7 @@ Julián uznával, že se choval nevhodně, mrzelo ho to. Dlouho uvažoval, má-l
 
 _… Láska_
 
- _rozdíly vyrovnává, neuhýbá jim._
+ _rozdíly vyrovnává, neuhýbá jim._
 
 Julián si vzal do hlavy, že bude hrát úlohu Dona Juana; a protože nikdy neměl milenku, choval se celý den hrozně hloupě. Měl jedinou jasnou myšlenku; byl rozmrzen na sebe i na paní de Rênal, viděl s hrůzou, jak se blíží večer, a představoval si, že bude sedět v zahradě potmě vedle ní. Řekl panu de Rênal, že jde do Verrières navštívit faráře; vydal se po večeři na cestu a vrátil se teprve v noci.
 
