@@ -1,7 +1,5 @@
 ---
-title: |-
-  5.
-  Vyjednávání
+title: 5\. Vyjednávání
 contentType: prose
 ---
 

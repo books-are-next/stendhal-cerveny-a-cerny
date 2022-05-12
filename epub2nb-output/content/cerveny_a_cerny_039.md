@@ -1,7 +1,5 @@
 ---
-title: |-
-  3.
-  První kroky
+title: 3\. První kroky
 contentType: prose
 ---
 

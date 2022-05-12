@@ -1,7 +1,5 @@
 ---
-title: |-
-  8.
-  Drobné události
+title: 8\. Drobné události
 contentType: prose
 ---
 

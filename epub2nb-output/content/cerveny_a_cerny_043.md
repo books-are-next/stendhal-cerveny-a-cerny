@@ -1,7 +1,5 @@
 ---
-title: |-
-  7.
-  Záchvat dny
+title: 7\. Záchvat dny
 contentType: prose
 ---
 

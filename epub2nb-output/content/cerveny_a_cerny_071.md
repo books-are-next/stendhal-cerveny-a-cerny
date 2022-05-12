@@ -1,7 +1,5 @@
 ---
-title: |-
-  35.
-  Bouře
+title: 35\. Bouře
 contentType: prose
 ---
 

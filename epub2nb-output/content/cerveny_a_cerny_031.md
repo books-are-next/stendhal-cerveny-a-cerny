@@ -1,7 +1,5 @@
 ---
-title: |-
-  26.
-  Svět čili co chybí boháči
+title: 26\. Svět čili co chybí boháči
 contentType: prose
 ---
 

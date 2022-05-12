@@ -1,7 +1,5 @@
 ---
-title: |-
-  1.
-  Městečko
+title: 1\. Městečko
 contentType: prose
 ---
 

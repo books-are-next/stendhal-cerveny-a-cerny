@@ -1,7 +1,5 @@
 ---
-title: |-
-  18.
-  Král ve Verrières
+title: 18\. Král ve Verrières
 contentType: prose
 ---
 

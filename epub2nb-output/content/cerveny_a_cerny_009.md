@@ -1,7 +1,5 @@
 ---
-title: |-
-  4.
-  Otec a syn
+title: 4\. Otec a syn
 contentType: prose
 ---
 

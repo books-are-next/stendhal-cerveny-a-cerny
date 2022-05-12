@@ -1,7 +1,5 @@
 ---
-title: |-
-  30.
-  Lóže v komické opeře
+title: 30\. Lóže v komické opeře
 contentType: prose
 ---
 

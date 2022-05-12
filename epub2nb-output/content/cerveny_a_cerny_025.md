@@ -1,7 +1,5 @@
 ---
-title: |-
-  20.
-  Anonymní dopisy
+title: 20\. Anonymní dopisy
 contentType: prose
 ---
 

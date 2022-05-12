@@ -1,7 +1,5 @@
 ---
-title: |-
-  30.
-  Ctižádostivec
+title: 30\. Ctižádostivec
 contentType: prose
 ---
 

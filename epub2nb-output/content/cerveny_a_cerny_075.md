@@ -1,7 +1,5 @@
 ---
-title: |-
-  39.
-  Pletichy
+title: 39\. Pletichy
 contentType: prose
 ---
 

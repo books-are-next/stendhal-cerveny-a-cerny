@@ -1,7 +1,5 @@
 ---
-title: |-
-  28.
-  Manon Lescaut
+title: 28\. Manon Lescaut
 contentType: prose
 ---
 

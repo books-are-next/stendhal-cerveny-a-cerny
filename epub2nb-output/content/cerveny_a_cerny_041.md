@@ -1,7 +1,5 @@
 ---
-title: |-
-  5.
-  Citlivost a vznešená zbožná dáma
+title: 5\. Citlivost a vznešená zbožná dáma
 contentType: prose
 ---
 

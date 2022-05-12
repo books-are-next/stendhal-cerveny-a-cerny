@@ -1,7 +1,5 @@
 ---
-title: |-
-  10.
-  Velká odvaha a malé štěstí
+title: 10\. Velká odvaha a malé štěstí
 contentType: prose
 ---
 

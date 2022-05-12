@@ -1,7 +1,5 @@
 ---
-title: |-
-  6.
-  Konverzační umění
+title: 6\. Konverzační umění
 contentType: prose
 ---
 

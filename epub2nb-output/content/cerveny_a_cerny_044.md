@@ -1,7 +1,5 @@
 ---
-title: |-
-  8.
-  Které vyznamenání vyznamenává?
+title: 8\. Které vyznamenání vyznamenává?
 contentType: prose
 ---
 

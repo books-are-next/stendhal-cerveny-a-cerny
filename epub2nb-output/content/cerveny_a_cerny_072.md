@@ -1,7 +1,5 @@
 ---
-title: |-
-  36.
-  Smutné podrobnosti
+title: 36\. Smutné podrobnosti
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  15.
-  Kuropění
+title: 15\. Kuropění
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  22.
-  Jak se jednalo roku 1830
+title: 22\. Jak se jednalo roku 1830
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  40.
-  Klid
+title: 40\. Klid
 contentType: prose
 ---
 

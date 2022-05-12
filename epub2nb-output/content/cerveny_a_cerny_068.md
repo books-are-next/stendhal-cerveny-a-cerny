@@ -1,7 +1,5 @@
 ---
-title: |-
-  32.
-  Tygr
+title: 32\. Tygr
 contentType: prose
 ---
 

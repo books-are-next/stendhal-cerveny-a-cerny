@@ -1,7 +1,5 @@
 ---
-title: |-
-  13.
-  Spiknutí
+title: 13\. Spiknutí
 contentType: prose
 ---
 

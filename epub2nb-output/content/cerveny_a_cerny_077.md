@@ -1,7 +1,5 @@
 ---
-title: |-
-  41.
-  Rozsudek
+title: 41\. Rozsudek
 contentType: prose
 ---
 

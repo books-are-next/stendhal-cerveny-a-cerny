@@ -1,7 +1,5 @@
 ---
-title: |-
-  27.
-  Nejkrásnější prebendy
+title: 27\. Nejkrásnější prebendy
 contentType: prose
 ---
 

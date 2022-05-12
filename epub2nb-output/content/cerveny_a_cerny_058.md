@@ -1,7 +1,5 @@
 ---
-title: |-
-  22.
-  Rokování
+title: 22\. Rokování
 contentType: prose
 ---
 

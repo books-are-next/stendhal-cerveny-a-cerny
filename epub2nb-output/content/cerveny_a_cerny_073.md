@@ -1,7 +1,5 @@
 ---
-title: |-
-  37.
-  Hradní věž
+title: 37\. Hradní věž
 contentType: prose
 ---
 

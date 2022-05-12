@@ -1,7 +1,5 @@
 ---
-title: |-
-  12.
-  Je to snad druhý Danton?
+title: 12\. Je to snad druhý Danton?
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  19.
-  Myšlení bolí
+title: 19\. Myšlení bolí
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  19.
-  Komická opera
+title: 19\. Komická opera
 contentType: prose
 ---
 

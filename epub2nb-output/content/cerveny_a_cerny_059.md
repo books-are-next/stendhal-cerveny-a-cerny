@@ -1,7 +1,5 @@
 ---
-title: |-
-  23.
-  Kněžstvo, lesy, svoboda
+title: 23\. Kněžstvo, lesy, svoboda
 contentType: prose
 ---
 

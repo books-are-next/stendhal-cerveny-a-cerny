@@ -1,7 +1,5 @@
 ---
-title: |-
-  9.
-  Ples
+title: 9\. Ples
 contentType: prose
 ---
 

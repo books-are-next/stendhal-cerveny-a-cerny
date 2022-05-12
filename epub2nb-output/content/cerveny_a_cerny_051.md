@@ -1,7 +1,5 @@
 ---
-title: |-
-  15.
-  Je to spiknutí?
+title: 15\. Je to spiknutí?
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  21.
-  Tajná nóta
+title: 21\. Tajná nóta
 contentType: prose
 ---
 

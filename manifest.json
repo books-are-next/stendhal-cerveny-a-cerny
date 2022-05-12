@@ -1,22 +1,105 @@
 {
-  "author": "Stendhal",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "stendhal-cerveny-a-cerny-f19d5d8",
-  "languagecode": "cs",
-  "modified": "2017-09-15T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Červený a černý",
-  "revision": "f19d5d8",
+  "author": "Stendhal",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "stendhal-cerveny-a-cerny-986ea55",
+  "revision": "986ea55",
+  "readingOrder": [
+    "promo.html",
+    "cerveny_a_cerny_005.html",
+    "cerveny_a_cerny_006.html",
+    "cerveny_a_cerny_007.html",
+    "cerveny_a_cerny_008.html",
+    "cerveny_a_cerny_009.html",
+    "cerveny_a_cerny_010.html",
+    "cerveny_a_cerny_011.html",
+    "cerveny_a_cerny_012.html",
+    "cerveny_a_cerny_013.html",
+    "cerveny_a_cerny_014.html",
+    "cerveny_a_cerny_015.html",
+    "cerveny_a_cerny_016.html",
+    "cerveny_a_cerny_017.html",
+    "cerveny_a_cerny_018.html",
+    "cerveny_a_cerny_019.html",
+    "cerveny_a_cerny_020.html",
+    "cerveny_a_cerny_021.html",
+    "cerveny_a_cerny_022.html",
+    "cerveny_a_cerny_023.html",
+    "cerveny_a_cerny_024.html",
+    "cerveny_a_cerny_025.html",
+    "cerveny_a_cerny_026.html",
+    "cerveny_a_cerny_027.html",
+    "cerveny_a_cerny_028.html",
+    "cerveny_a_cerny_029.html",
+    "cerveny_a_cerny_030.html",
+    "cerveny_a_cerny_031.html",
+    "cerveny_a_cerny_032.html",
+    "cerveny_a_cerny_033.html",
+    "cerveny_a_cerny_034.html",
+    "cerveny_a_cerny_035.html",
+    "cerveny_a_cerny_036.html",
+    "cerveny_a_cerny_037.html",
+    "cerveny_a_cerny_038.html",
+    "cerveny_a_cerny_039.html",
+    "cerveny_a_cerny_040.html",
+    "cerveny_a_cerny_041.html",
+    "cerveny_a_cerny_042.html",
+    "cerveny_a_cerny_043.html",
+    "cerveny_a_cerny_044.html",
+    "cerveny_a_cerny_045.html",
+    "cerveny_a_cerny_046.html",
+    "cerveny_a_cerny_047.html",
+    "cerveny_a_cerny_048.html",
+    "cerveny_a_cerny_049.html",
+    "cerveny_a_cerny_050.html",
+    "cerveny_a_cerny_051.html",
+    "cerveny_a_cerny_052.html",
+    "cerveny_a_cerny_053.html",
+    "cerveny_a_cerny_054.html",
+    "cerveny_a_cerny_055.html",
+    "cerveny_a_cerny_056.html",
+    "cerveny_a_cerny_057.html",
+    "cerveny_a_cerny_058.html",
+    "cerveny_a_cerny_059.html",
+    "cerveny_a_cerny_060.html",
+    "cerveny_a_cerny_061.html",
+    "cerveny_a_cerny_062.html",
+    "cerveny_a_cerny_063.html",
+    "cerveny_a_cerny_064.html",
+    "cerveny_a_cerny_065.html",
+    "cerveny_a_cerny_066.html",
+    "cerveny_a_cerny_067.html",
+    "cerveny_a_cerny_068.html",
+    "cerveny_a_cerny_069.html",
+    "cerveny_a_cerny_070.html",
+    "cerveny_a_cerny_071.html",
+    "cerveny_a_cerny_072.html",
+    "cerveny_a_cerny_073.html",
+    "cerveny_a_cerny_074.html",
+    "cerveny_a_cerny_075.html",
+    "cerveny_a_cerny_076.html",
+    "cerveny_a_cerny_077.html",
+    "cerveny_a_cerny_078.html",
+    "cerveny_a_cerny_079.html",
+    "cerveny_a_cerny_080.html",
+    "cerveny_a_cerny_081.html",
+    "cerveny_a_cerny_082.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 08 2022 10:34:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649414054685
+    "date": "Thu May 12 2022 09:36:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652348216219
   },
   "documents": [
     {
-      "title": "Červený a černý",
-      "file": "cerveny_a_cerny_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +107,17 @@
       "order": 0,
       "prev": null,
       "next": "cerveny_a_cerny_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "DÍL PRVNÍ • Červený a černý",
+      "title": "DÍL PRVNÍ",
       "file": "cerveny_a_cerny_005.html",
       "words": 2,
       "chars": 9,
       "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "cerveny_a_cerny_002.html",
+      "prev": "promo.html",
       "next": "cerveny_a_cerny_006.html",
       "toc": [
         {
@@ -55,11 +130,11 @@
       ]
     },
     {
-      "title": "1.\nMěstečko • Červený a černý",
+      "title": "1. Městečko",
       "file": "cerveny_a_cerny_006.html",
       "words": 921,
-      "chars": 5843,
-      "ideas": 18,
+      "chars": 5846,
+      "ideas": 17,
       "role": "chapter",
       "order": 2,
       "prev": "cerveny_a_cerny_005.html",
@@ -68,18 +143,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Městečko",
+          "name": "1. Městečko",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "2.\nStarosta • Červený a černý",
+      "title": "2. Starosta",
       "file": "cerveny_a_cerny_007.html",
       "words": 822,
-      "chars": 5161,
-      "ideas": 20,
+      "chars": 5164,
+      "ideas": 19,
       "role": "chapter",
       "order": 3,
       "prev": "cerveny_a_cerny_006.html",
@@ -88,18 +163,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Starosta",
+          "name": "2. Starosta",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "3.\nJmění chudých • Červený a černý",
+      "title": "3. Jmění chudých",
       "file": "cerveny_a_cerny_008.html",
       "words": 1418,
-      "chars": 8713,
-      "ideas": 32,
+      "chars": 8716,
+      "ideas": 31,
       "role": "chapter",
       "order": 4,
       "prev": "cerveny_a_cerny_007.html",
@@ -108,18 +183,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jmění chudých",
+          "name": "3. Jmění chudých",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "4.\nOtec a syn • Červený a černý",
+      "title": "4. Otec a syn",
       "file": "cerveny_a_cerny_009.html",
       "words": 1091,
-      "chars": 6634,
-      "ideas": 20,
+      "chars": 6637,
+      "ideas": 19,
       "role": "chapter",
       "order": 5,
       "prev": "cerveny_a_cerny_008.html",
@@ -128,18 +203,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Otec a syn",
+          "name": "4. Otec a syn",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "5.\nVyjednávání • Červený a černý",
+      "title": "5. Vyjednávání",
       "file": "cerveny_a_cerny_010.html",
       "words": 2087,
-      "chars": 12631,
-      "ideas": 62,
+      "chars": 12634,
+      "ideas": 61,
       "role": "chapter",
       "order": 6,
       "prev": "cerveny_a_cerny_009.html",
@@ -148,18 +223,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vyjednávání",
+          "name": "5. Vyjednávání",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "6.\nNuda • Červený a černý",
+      "title": "6. Nuda",
       "file": "cerveny_a_cerny_011.html",
       "words": 2326,
-      "chars": 13914,
-      "ideas": 64,
+      "chars": 13917,
+      "ideas": 63,
       "role": "chapter",
       "order": 7,
       "prev": "cerveny_a_cerny_010.html",
@@ -168,18 +243,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nuda",
+          "name": "6. Nuda",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "7.\nSpříznění volbou • Červený a černý",
+      "title": "7. Spříznění volbou",
       "file": "cerveny_a_cerny_012.html",
       "words": 3116,
-      "chars": 19182,
-      "ideas": 62,
+      "chars": 19185,
+      "ideas": 61,
       "role": "chapter",
       "order": 8,
       "prev": "cerveny_a_cerny_011.html",
@@ -188,18 +263,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Spříznění volbou",
+          "name": "7. Spříznění volbou",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "8.\nDrobné události • Červený a černý",
+      "title": "8. Drobné události",
       "file": "cerveny_a_cerny_013.html",
       "words": 2336,
-      "chars": 14129,
-      "ideas": 51,
+      "chars": 14132,
+      "ideas": 50,
       "role": "chapter",
       "order": 9,
       "prev": "cerveny_a_cerny_012.html",
@@ -208,18 +283,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Drobné události",
+          "name": "8. Drobné události",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "9.\nVečer na venkově • Červený a černý",
+      "title": "9. Večer na venkově",
       "file": "cerveny_a_cerny_014.html",
       "words": 2292,
-      "chars": 13780,
-      "ideas": 66,
+      "chars": 13783,
+      "ideas": 65,
       "role": "chapter",
       "order": 10,
       "prev": "cerveny_a_cerny_013.html",
@@ -228,18 +303,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Večer na venkově",
+          "name": "9. Večer na venkově",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "10.\nVelká odvaha a malé štěstí • Červený a černý",
+      "title": "10. Velká odvaha a malé štěstí",
       "file": "cerveny_a_cerny_015.html",
       "words": 880,
-      "chars": 5246,
-      "ideas": 34,
+      "chars": 5250,
+      "ideas": 33,
       "role": "chapter",
       "order": 11,
       "prev": "cerveny_a_cerny_014.html",
@@ -248,18 +323,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Velká odvaha a malé štěstí",
+          "name": "10. Velká odvaha a malé štěstí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "11.\nVečer • Červený a černý",
+      "title": "11. Večer",
       "file": "cerveny_a_cerny_016.html",
       "words": 1389,
-      "chars": 8409,
-      "ideas": 30,
+      "chars": 8413,
+      "ideas": 29,
       "role": "chapter",
       "order": 12,
       "prev": "cerveny_a_cerny_015.html",
@@ -268,18 +343,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Večer",
+          "name": "11. Večer",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "12.\nCesta • Červený a černý",
+      "title": "12. Cesta",
       "file": "cerveny_a_cerny_017.html",
       "words": 1926,
-      "chars": 11716,
-      "ideas": 34,
+      "chars": 11720,
+      "ideas": 33,
       "role": "chapter",
       "order": 13,
       "prev": "cerveny_a_cerny_016.html",
@@ -288,18 +363,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Cesta",
+          "name": "12. Cesta",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "13.\nProlamované punčochy • Červený a černý",
+      "title": "13. Prolamované punčochy",
       "file": "cerveny_a_cerny_018.html",
       "words": 1485,
-      "chars": 8868,
-      "ideas": 33,
+      "chars": 8872,
+      "ideas": 32,
       "role": "chapter",
       "order": 14,
       "prev": "cerveny_a_cerny_017.html",
@@ -308,18 +383,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Prolamované punčochy",
+          "name": "13. Prolamované punčochy",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "14.\nAnglické nůžky • Červený a černý",
+      "title": "14. Anglické nůžky",
       "file": "cerveny_a_cerny_019.html",
       "words": 873,
-      "chars": 5336,
-      "ideas": 29,
+      "chars": 5340,
+      "ideas": 28,
       "role": "chapter",
       "order": 15,
       "prev": "cerveny_a_cerny_018.html",
@@ -328,18 +403,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Anglické nůžky",
+          "name": "14. Anglické nůžky",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "15.\nKuropění • Červený a černý",
+      "title": "15. Kuropění",
       "file": "cerveny_a_cerny_020.html",
       "words": 1028,
-      "chars": 6044,
-      "ideas": 28,
+      "chars": 6048,
+      "ideas": 27,
       "role": "chapter",
       "order": 16,
       "prev": "cerveny_a_cerny_019.html",
@@ -348,18 +423,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kuropění",
+          "name": "15. Kuropění",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "16.\nPříští den • Červený a černý",
+      "title": "16. Příští den",
       "file": "cerveny_a_cerny_021.html",
       "words": 1343,
-      "chars": 8187,
-      "ideas": 35,
+      "chars": 8191,
+      "ideas": 34,
       "role": "chapter",
       "order": 17,
       "prev": "cerveny_a_cerny_020.html",
@@ -368,18 +443,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Příští den",
+          "name": "16. Příští den",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "17.\nPrvní náměstek • Červený a černý",
+      "title": "17. První náměstek",
       "file": "cerveny_a_cerny_022.html",
       "words": 1363,
-      "chars": 8400,
-      "ideas": 32,
+      "chars": 8404,
+      "ideas": 31,
       "role": "chapter",
       "order": 18,
       "prev": "cerveny_a_cerny_021.html",
@@ -388,18 +463,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První náměstek",
+          "name": "17. První náměstek",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "18.\nKrál ve Verrières • Červený a černý",
+      "title": "18. Král ve Verrières",
       "file": "cerveny_a_cerny_023.html",
       "words": 3757,
-      "chars": 23381,
-      "ideas": 86,
+      "chars": 23385,
+      "ideas": 85,
       "role": "chapter",
       "order": 19,
       "prev": "cerveny_a_cerny_022.html",
@@ -408,18 +483,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Král ve Verrières",
+          "name": "18. Král ve Verrières",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "19.\nMyšlení bolí • Červený a černý",
+      "title": "19. Myšlení bolí",
       "file": "cerveny_a_cerny_024.html",
       "words": 2394,
-      "chars": 14408,
-      "ideas": 68,
+      "chars": 14412,
+      "ideas": 67,
       "role": "chapter",
       "order": 20,
       "prev": "cerveny_a_cerny_023.html",
@@ -428,18 +503,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Myšlení bolí",
+          "name": "19. Myšlení bolí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "20.\nAnonymní dopisy • Červený a černý",
+      "title": "20. Anonymní dopisy",
       "file": "cerveny_a_cerny_025.html",
       "words": 1204,
-      "chars": 7031,
-      "ideas": 30,
+      "chars": 7035,
+      "ideas": 29,
       "role": "chapter",
       "order": 21,
       "prev": "cerveny_a_cerny_024.html",
@@ -448,18 +523,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Anonymní dopisy",
+          "name": "20. Anonymní dopisy",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "21.\nRozmluva s pánem • Červený a černý",
+      "title": "21. Rozmluva s pánem",
       "file": "cerveny_a_cerny_026.html",
       "words": 3940,
-      "chars": 23469,
-      "ideas": 97,
+      "chars": 23473,
+      "ideas": 96,
       "role": "chapter",
       "order": 22,
       "prev": "cerveny_a_cerny_025.html",
@@ -468,18 +543,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Rozmluva s pánem",
+          "name": "21. Rozmluva s pánem",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "22.\nJak se jednalo roku 1830 • Červený a černý",
+      "title": "22. Jak se jednalo roku 1830",
       "file": "cerveny_a_cerny_027.html",
       "words": 3634,
-      "chars": 22620,
-      "ideas": 65,
+      "chars": 22624,
+      "ideas": 64,
       "role": "chapter",
       "order": 23,
       "prev": "cerveny_a_cerny_026.html",
@@ -488,18 +563,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak se jednalo roku 1830",
+          "name": "22. Jak se jednalo roku 1830",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "23.\nTrampoty vysokého úředníka • Červený a černý",
+      "title": "23. Trampoty vysokého úředníka",
       "file": "cerveny_a_cerny_028.html",
       "words": 4002,
-      "chars": 24306,
-      "ideas": 117,
+      "chars": 24310,
+      "ideas": 116,
       "role": "chapter",
       "order": 24,
       "prev": "cerveny_a_cerny_027.html",
@@ -508,18 +583,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Trampoty vysokého úředníka",
+          "name": "23. Trampoty vysokého úředníka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "24.\nKrajské město • Červený a černý",
+      "title": "24. Krajské město",
       "file": "cerveny_a_cerny_029.html",
       "words": 1815,
-      "chars": 11110,
-      "ideas": 63,
+      "chars": 11114,
+      "ideas": 62,
       "role": "chapter",
       "order": 25,
       "prev": "cerveny_a_cerny_028.html",
@@ -528,18 +603,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Krajské město",
+          "name": "24. Krajské město",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "25.\nSeminář • Červený a černý",
+      "title": "25. Seminář",
       "file": "cerveny_a_cerny_030.html",
       "words": 1963,
-      "chars": 12117,
-      "ideas": 69,
+      "chars": 12121,
+      "ideas": 68,
       "role": "chapter",
       "order": 26,
       "prev": "cerveny_a_cerny_029.html",
@@ -548,18 +623,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Seminář",
+          "name": "25. Seminář",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "26.\nSvět čili co chybí boháči • Červený a černý",
+      "title": "26. Svět čili co chybí boháči",
       "file": "cerveny_a_cerny_031.html",
       "words": 2883,
-      "chars": 17839,
-      "ideas": 74,
+      "chars": 17843,
+      "ideas": 73,
       "role": "chapter",
       "order": 27,
       "prev": "cerveny_a_cerny_030.html",
@@ -568,18 +643,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Svět čili co chybí boháči",
+          "name": "26. Svět čili co chybí boháči",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "27.\nPrvní životní zkušenosti • Červený a černý",
+      "title": "27. První životní zkušenosti",
       "file": "cerveny_a_cerny_032.html",
       "words": 1066,
-      "chars": 6530,
-      "ideas": 23,
+      "chars": 6534,
+      "ideas": 22,
       "role": "chapter",
       "order": 28,
       "prev": "cerveny_a_cerny_031.html",
@@ -588,18 +663,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První životní zkušenosti",
+          "name": "27. První životní zkušenosti",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "28.\nProcesí • Červený a černý",
+      "title": "28. Procesí",
       "file": "cerveny_a_cerny_033.html",
       "words": 1967,
-      "chars": 12119,
-      "ideas": 40,
+      "chars": 12123,
+      "ideas": 39,
       "role": "chapter",
       "order": 29,
       "prev": "cerveny_a_cerny_032.html",
@@ -608,18 +683,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Procesí",
+          "name": "28. Procesí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "29.\nPrvní povýšení • Červený a černý",
+      "title": "29. První povýšení",
       "file": "cerveny_a_cerny_034.html",
       "words": 4231,
-      "chars": 26291,
-      "ideas": 109,
+      "chars": 26295,
+      "ideas": 108,
       "role": "chapter",
       "order": 30,
       "prev": "cerveny_a_cerny_033.html",
@@ -628,18 +703,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První povýšení",
+          "name": "29. První povýšení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "30.\nCtižádostivec • Červený a černý",
+      "title": "30. Ctižádostivec",
       "file": "cerveny_a_cerny_035.html",
       "words": 4946,
-      "chars": 29578,
-      "ideas": 143,
+      "chars": 29582,
+      "ideas": 142,
       "role": "chapter",
       "order": 31,
       "prev": "cerveny_a_cerny_034.html",
@@ -648,14 +723,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ctižádostivec",
+          "name": "30. Ctižádostivec",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DÍL DRUHÝ • Červený a černý",
+      "title": "DÍL DRUHÝ",
       "file": "cerveny_a_cerny_036.html",
       "words": 2,
       "chars": 9,
@@ -675,11 +750,11 @@
       ]
     },
     {
-      "title": "1.\nSlasti venkova • Červený a černý",
+      "title": "1. Slasti venkova",
       "file": "cerveny_a_cerny_037.html",
       "words": 3155,
-      "chars": 19004,
-      "ideas": 81,
+      "chars": 19007,
+      "ideas": 80,
       "role": "chapter",
       "order": 33,
       "prev": "cerveny_a_cerny_036.html",
@@ -688,18 +763,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Slasti venkova",
+          "name": "1. Slasti venkova",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "2.\nVstup do světa • Červený a černý",
+      "title": "2. Vstup do světa",
       "file": "cerveny_a_cerny_038.html",
       "words": 2320,
-      "chars": 14225,
-      "ideas": 50,
+      "chars": 14228,
+      "ideas": 49,
       "role": "chapter",
       "order": 34,
       "prev": "cerveny_a_cerny_037.html",
@@ -708,18 +783,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vstup do světa",
+          "name": "2. Vstup do světa",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "3.\nPrvní kroky • Červený a černý",
+      "title": "3. První kroky",
       "file": "cerveny_a_cerny_039.html",
       "words": 956,
-      "chars": 5741,
-      "ideas": 32,
+      "chars": 5744,
+      "ideas": 31,
       "role": "chapter",
       "order": 35,
       "prev": "cerveny_a_cerny_038.html",
@@ -728,18 +803,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První kroky",
+          "name": "3. První kroky",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "4.\nPalác markýze de la Mole • Červený a černý",
+      "title": "4. Palác markýze de la Mole",
       "file": "cerveny_a_cerny_040.html",
       "words": 3647,
-      "chars": 22325,
-      "ideas": 86,
+      "chars": 22328,
+      "ideas": 85,
       "role": "chapter",
       "order": 36,
       "prev": "cerveny_a_cerny_039.html",
@@ -748,18 +823,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Palác markýze de la Mole",
+          "name": "4. Palác markýze de la Mole",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "5.\nCitlivost a vznešená zbožná dáma • Červený a černý",
+      "title": "5. Citlivost a vznešená zbožná dáma",
       "file": "cerveny_a_cerny_041.html",
       "words": 769,
-      "chars": 4949,
-      "ideas": 17,
+      "chars": 4952,
+      "ideas": 16,
       "role": "chapter",
       "order": 37,
       "prev": "cerveny_a_cerny_040.html",
@@ -768,18 +843,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Citlivost a vznešená zbožná dáma",
+          "name": "5. Citlivost a vznešená zbožná dáma",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "6.\nKonverzační umění • Červený a černý",
+      "title": "6. Konverzační umění",
       "file": "cerveny_a_cerny_042.html",
       "words": 1864,
-      "chars": 11545,
-      "ideas": 50,
+      "chars": 11548,
+      "ideas": 49,
       "role": "chapter",
       "order": 38,
       "prev": "cerveny_a_cerny_041.html",
@@ -788,18 +863,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Konverzační umění",
+          "name": "6. Konverzační umění",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "7.\nZáchvat dny • Červený a černý",
+      "title": "7. Záchvat dny",
       "file": "cerveny_a_cerny_043.html",
       "words": 2273,
-      "chars": 14101,
-      "ideas": 67,
+      "chars": 14104,
+      "ideas": 66,
       "role": "chapter",
       "order": 39,
       "prev": "cerveny_a_cerny_042.html",
@@ -808,18 +883,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Záchvat dny",
+          "name": "7. Záchvat dny",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "8.\nKteré vyznamenání vyznamenává? • Červený a černý",
+      "title": "8. Které vyznamenání vyznamenává?",
       "file": "cerveny_a_cerny_044.html",
       "words": 2830,
-      "chars": 17379,
-      "ideas": 82,
+      "chars": 17382,
+      "ideas": 81,
       "role": "chapter",
       "order": 40,
       "prev": "cerveny_a_cerny_043.html",
@@ -828,18 +903,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Které vyznamenání vyznamenává?",
+          "name": "8. Které vyznamenání vyznamenává?",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "9.\nPles • Červený a černý",
+      "title": "9. Ples",
       "file": "cerveny_a_cerny_045.html",
       "words": 2647,
-      "chars": 16209,
-      "ideas": 70,
+      "chars": 16212,
+      "ideas": 69,
       "role": "chapter",
       "order": 41,
       "prev": "cerveny_a_cerny_044.html",
@@ -848,18 +923,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ples",
+          "name": "9. Ples",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "10.\nKrálovna Markéta • Červený a černý",
+      "title": "10. Královna Markéta",
       "file": "cerveny_a_cerny_046.html",
       "words": 2381,
-      "chars": 14367,
-      "ideas": 54,
+      "chars": 14371,
+      "ideas": 53,
       "role": "chapter",
       "order": 42,
       "prev": "cerveny_a_cerny_045.html",
@@ -868,18 +943,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Královna Markéta",
+          "name": "10. Královna Markéta",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "11.\nVláda mladé dívky • Červený a černý",
+      "title": "11. Vláda mladé dívky",
       "file": "cerveny_a_cerny_047.html",
       "words": 1162,
-      "chars": 7241,
-      "ideas": 22,
+      "chars": 7245,
+      "ideas": 21,
       "role": "chapter",
       "order": 43,
       "prev": "cerveny_a_cerny_046.html",
@@ -888,18 +963,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vláda mladé dívky",
+          "name": "11. Vláda mladé dívky",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "12.\nJe to snad druhý Danton? • Červený a černý",
+      "title": "12. Je to snad druhý Danton?",
       "file": "cerveny_a_cerny_048.html",
       "words": 1714,
-      "chars": 10370,
-      "ideas": 39,
+      "chars": 10374,
+      "ideas": 38,
       "role": "chapter",
       "order": 44,
       "prev": "cerveny_a_cerny_047.html",
@@ -908,18 +983,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Je to snad druhý Danton?",
+          "name": "12. Je to snad druhý Danton?",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "13.\nSpiknutí • Červený a černý",
+      "title": "13. Spiknutí",
       "file": "cerveny_a_cerny_049.html",
       "words": 2506,
-      "chars": 15518,
-      "ideas": 66,
+      "chars": 15522,
+      "ideas": 65,
       "role": "chapter",
       "order": 45,
       "prev": "cerveny_a_cerny_048.html",
@@ -928,18 +1003,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Spiknutí",
+          "name": "13. Spiknutí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "14.\nMyšlenky mladé dívky • Červený a černý",
+      "title": "14. Myšlenky mladé dívky",
       "file": "cerveny_a_cerny_050.html",
       "words": 1758,
-      "chars": 10632,
-      "ideas": 42,
+      "chars": 10636,
+      "ideas": 41,
       "role": "chapter",
       "order": 46,
       "prev": "cerveny_a_cerny_049.html",
@@ -948,18 +1023,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Myšlenky mladé dívky",
+          "name": "14. Myšlenky mladé dívky",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "15.\nJe to spiknutí? • Červený a černý",
+      "title": "15. Je to spiknutí?",
       "file": "cerveny_a_cerny_051.html",
       "words": 1479,
-      "chars": 8911,
-      "ideas": 34,
+      "chars": 8915,
+      "ideas": 33,
       "role": "chapter",
       "order": 47,
       "prev": "cerveny_a_cerny_050.html",
@@ -968,18 +1043,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Je to spiknutí?",
+          "name": "15. Je to spiknutí?",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "16.\nJedna hodina v noci • Červený a černý",
+      "title": "16. Jedna hodina v noci",
       "file": "cerveny_a_cerny_052.html",
       "words": 1791,
-      "chars": 10918,
-      "ideas": 55,
+      "chars": 10922,
+      "ideas": 54,
       "role": "chapter",
       "order": 48,
       "prev": "cerveny_a_cerny_051.html",
@@ -988,18 +1063,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jedna hodina v noci",
+          "name": "16. Jedna hodina v noci",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "17.\nStarý meč • Červený a černý",
+      "title": "17. Starý meč",
       "file": "cerveny_a_cerny_053.html",
       "words": 1287,
-      "chars": 7682,
-      "ideas": 47,
+      "chars": 7686,
+      "ideas": 46,
       "role": "chapter",
       "order": 49,
       "prev": "cerveny_a_cerny_052.html",
@@ -1008,18 +1083,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Starý meč",
+          "name": "17. Starý meč",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "18.\nKruté chvíle • Červený a černý",
+      "title": "18. Kruté chvíle",
       "file": "cerveny_a_cerny_054.html",
       "words": 1586,
-      "chars": 9339,
-      "ideas": 40,
+      "chars": 9343,
+      "ideas": 39,
       "role": "chapter",
       "order": 50,
       "prev": "cerveny_a_cerny_053.html",
@@ -1028,18 +1103,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kruté chvíle",
+          "name": "18. Kruté chvíle",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "19.\nKomická opera • Červený a černý",
+      "title": "19. Komická opera",
       "file": "cerveny_a_cerny_055.html",
       "words": 2592,
-      "chars": 15766,
-      "ideas": 69,
+      "chars": 15770,
+      "ideas": 68,
       "role": "chapter",
       "order": 51,
       "prev": "cerveny_a_cerny_054.html",
@@ -1048,18 +1123,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Komická opera",
+          "name": "19. Komická opera",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "20.\nJaponská váza • Červený a černý",
+      "title": "20. Japonská váza",
       "file": "cerveny_a_cerny_056.html",
       "words": 1699,
-      "chars": 10152,
-      "ideas": 45,
+      "chars": 10156,
+      "ideas": 44,
       "role": "chapter",
       "order": 52,
       "prev": "cerveny_a_cerny_055.html",
@@ -1068,18 +1143,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Japonská váza",
+          "name": "20. Japonská váza",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "21.\nTajná nóta • Červený a černý",
+      "title": "21. Tajná nóta",
       "file": "cerveny_a_cerny_057.html",
       "words": 1392,
-      "chars": 8493,
-      "ideas": 45,
+      "chars": 8497,
+      "ideas": 44,
       "role": "chapter",
       "order": 53,
       "prev": "cerveny_a_cerny_056.html",
@@ -1088,18 +1163,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Tajná nóta",
+          "name": "21. Tajná nóta",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "22.\nRokování • Červený a černý",
+      "title": "22. Rokování",
       "file": "cerveny_a_cerny_058.html",
       "words": 2127,
-      "chars": 13376,
-      "ideas": 62,
+      "chars": 13380,
+      "ideas": 61,
       "role": "chapter",
       "order": 54,
       "prev": "cerveny_a_cerny_057.html",
@@ -1108,18 +1183,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Rokování",
+          "name": "22. Rokování",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "23.\nKněžstvo, lesy, svoboda • Červený a černý",
+      "title": "23. Kněžstvo, lesy, svoboda",
       "file": "cerveny_a_cerny_059.html",
       "words": 2284,
-      "chars": 13861,
-      "ideas": 75,
+      "chars": 13865,
+      "ideas": 74,
       "role": "chapter",
       "order": 55,
       "prev": "cerveny_a_cerny_058.html",
@@ -1128,18 +1203,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kněžstvo, lesy, svoboda",
+          "name": "23. Kněžstvo, lesy, svoboda",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "24.\nŠtrasburk • Červený a černý",
+      "title": "24. Štrasburk",
       "file": "cerveny_a_cerny_060.html",
       "words": 1752,
-      "chars": 10725,
-      "ideas": 55,
+      "chars": 10729,
+      "ideas": 54,
       "role": "chapter",
       "order": 56,
       "prev": "cerveny_a_cerny_059.html",
@@ -1148,18 +1223,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Štrasburk",
+          "name": "24. Štrasburk",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "25.\nMinisterstvo ctnosti • Červený a černý",
+      "title": "25. Ministerstvo ctnosti",
       "file": "cerveny_a_cerny_061.html",
       "words": 1924,
-      "chars": 11600,
-      "ideas": 55,
+      "chars": 11604,
+      "ideas": 54,
       "role": "chapter",
       "order": 57,
       "prev": "cerveny_a_cerny_060.html",
@@ -1168,18 +1243,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ministerstvo ctnosti",
+          "name": "25. Ministerstvo ctnosti",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "26.\nDuchovní láska • Červený a černý",
+      "title": "26. Duchovní láska",
       "file": "cerveny_a_cerny_062.html",
       "words": 1004,
-      "chars": 6315,
-      "ideas": 28,
+      "chars": 6319,
+      "ideas": 27,
       "role": "chapter",
       "order": 58,
       "prev": "cerveny_a_cerny_061.html",
@@ -1188,18 +1263,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Duchovní láska",
+          "name": "26. Duchovní láska",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "27.\nNejkrásnější prebendy • Červený a černý",
+      "title": "27. Nejkrásnější prebendy",
       "file": "cerveny_a_cerny_063.html",
       "words": 941,
-      "chars": 5950,
-      "ideas": 22,
+      "chars": 5954,
+      "ideas": 21,
       "role": "chapter",
       "order": 59,
       "prev": "cerveny_a_cerny_062.html",
@@ -1208,18 +1283,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nejkrásnější prebendy",
+          "name": "27. Nejkrásnější prebendy",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "28.\nManon Lescaut • Červený a černý",
+      "title": "28. Manon Lescaut",
       "file": "cerveny_a_cerny_064.html",
       "words": 1153,
-      "chars": 7168,
-      "ideas": 27,
+      "chars": 7172,
+      "ideas": 26,
       "role": "chapter",
       "order": 60,
       "prev": "cerveny_a_cerny_063.html",
@@ -1228,18 +1303,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Manon Lescaut",
+          "name": "28. Manon Lescaut",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "29.\nNuda • Červený a černý",
+      "title": "29. Nuda",
       "file": "cerveny_a_cerny_065.html",
       "words": 918,
-      "chars": 5728,
-      "ideas": 30,
+      "chars": 5732,
+      "ideas": 29,
       "role": "chapter",
       "order": 61,
       "prev": "cerveny_a_cerny_064.html",
@@ -1248,18 +1323,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nuda",
+          "name": "29. Nuda",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "30.\nLóže v komické opeře • Červený a černý",
+      "title": "30. Lóže v komické opeře",
       "file": "cerveny_a_cerny_066.html",
       "words": 1214,
-      "chars": 7363,
-      "ideas": 43,
+      "chars": 7367,
+      "ideas": 42,
       "role": "chapter",
       "order": 62,
       "prev": "cerveny_a_cerny_065.html",
@@ -1268,18 +1343,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lóže v komické opeře",
+          "name": "30. Lóže v komické opeře",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "31.\nSíla strachu • Červený a černý",
+      "title": "31. Síla strachu",
       "file": "cerveny_a_cerny_067.html",
       "words": 1329,
-      "chars": 7879,
-      "ideas": 43,
+      "chars": 7883,
+      "ideas": 42,
       "role": "chapter",
       "order": 63,
       "prev": "cerveny_a_cerny_066.html",
@@ -1288,18 +1363,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Síla strachu",
+          "name": "31. Síla strachu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "32.\nTygr • Červený a černý",
+      "title": "32. Tygr",
       "file": "cerveny_a_cerny_068.html",
       "words": 1479,
-      "chars": 8659,
-      "ideas": 47,
+      "chars": 8663,
+      "ideas": 46,
       "role": "chapter",
       "order": 64,
       "prev": "cerveny_a_cerny_067.html",
@@ -1308,18 +1383,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Tygr",
+          "name": "32. Tygr",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "33.\nPeklo nerozhodnosti • Červený a černý",
+      "title": "33. Peklo nerozhodnosti",
       "file": "cerveny_a_cerny_069.html",
       "words": 1432,
-      "chars": 8767,
-      "ideas": 52,
+      "chars": 8771,
+      "ideas": 51,
       "role": "chapter",
       "order": 65,
       "prev": "cerveny_a_cerny_068.html",
@@ -1328,18 +1403,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Peklo nerozhodnosti",
+          "name": "33. Peklo nerozhodnosti",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "34.\nMoudrý muž • Červený a černý",
+      "title": "34. Moudrý muž",
       "file": "cerveny_a_cerny_070.html",
       "words": 1799,
-      "chars": 10982,
-      "ideas": 42,
+      "chars": 10986,
+      "ideas": 41,
       "role": "chapter",
       "order": 66,
       "prev": "cerveny_a_cerny_069.html",
@@ -1348,18 +1423,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Moudrý muž",
+          "name": "34. Moudrý muž",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "35.\nBouře • Červený a černý",
+      "title": "35. Bouře",
       "file": "cerveny_a_cerny_071.html",
       "words": 1465,
-      "chars": 8944,
-      "ideas": 36,
+      "chars": 8948,
+      "ideas": 35,
       "role": "chapter",
       "order": 67,
       "prev": "cerveny_a_cerny_070.html",
@@ -1368,18 +1443,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Bouře",
+          "name": "35. Bouře",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "36.\nSmutné podrobnosti • Červený a černý",
+      "title": "36. Smutné podrobnosti",
       "file": "cerveny_a_cerny_072.html",
       "words": 1959,
-      "chars": 11737,
-      "ideas": 62,
+      "chars": 11741,
+      "ideas": 61,
       "role": "chapter",
       "order": 68,
       "prev": "cerveny_a_cerny_071.html",
@@ -1388,18 +1463,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Smutné podrobnosti",
+          "name": "36. Smutné podrobnosti",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "37.\nHradní věž • Červený a černý",
+      "title": "37. Hradní věž",
       "file": "cerveny_a_cerny_073.html",
       "words": 1319,
-      "chars": 7962,
-      "ideas": 33,
+      "chars": 7966,
+      "ideas": 32,
       "role": "chapter",
       "order": 69,
       "prev": "cerveny_a_cerny_072.html",
@@ -1408,18 +1483,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Hradní věž",
+          "name": "37. Hradní věž",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "38.\nMocný člověk • Červený a černý",
+      "title": "38. Mocný člověk",
       "file": "cerveny_a_cerny_074.html",
       "words": 1760,
-      "chars": 10896,
-      "ideas": 45,
+      "chars": 10900,
+      "ideas": 44,
       "role": "chapter",
       "order": 70,
       "prev": "cerveny_a_cerny_073.html",
@@ -1428,18 +1503,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mocný člověk",
+          "name": "38. Mocný člověk",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "39.\nPletichy • Červený a černý",
+      "title": "39. Pletichy",
       "file": "cerveny_a_cerny_075.html",
       "words": 1252,
-      "chars": 7805,
-      "ideas": 32,
+      "chars": 7809,
+      "ideas": 31,
       "role": "chapter",
       "order": 71,
       "prev": "cerveny_a_cerny_074.html",
@@ -1448,18 +1523,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pletichy",
+          "name": "39. Pletichy",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "40.\nKlid • Červený a černý",
+      "title": "40. Klid",
       "file": "cerveny_a_cerny_076.html",
       "words": 1171,
-      "chars": 7227,
-      "ideas": 28,
+      "chars": 7231,
+      "ideas": 27,
       "role": "chapter",
       "order": 72,
       "prev": "cerveny_a_cerny_075.html",
@@ -1468,18 +1543,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Klid",
+          "name": "40. Klid",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "41.\nRozsudek • Červený a černý",
+      "title": "41. Rozsudek",
       "file": "cerveny_a_cerny_077.html",
       "words": 1909,
-      "chars": 11988,
-      "ideas": 47,
+      "chars": 11992,
+      "ideas": 46,
       "role": "chapter",
       "order": 73,
       "prev": "cerveny_a_cerny_076.html",
@@ -1488,17 +1563,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Rozsudek",
+          "name": "41. Rozsudek",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "42. • Červený a černý",
+      "title": "42.",
       "file": "cerveny_a_cerny_078.html",
       "words": 1518,
-      "chars": 9116,
+      "chars": 9119,
       "ideas": 48,
       "role": "chapter",
       "order": 74,
@@ -1508,17 +1583,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "42.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "43. • Červený a černý",
+      "title": "43.",
       "file": "cerveny_a_cerny_079.html",
       "words": 1356,
-      "chars": 8101,
+      "chars": 8104,
       "ideas": 56,
       "role": "chapter",
       "order": 75,
@@ -1528,17 +1603,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "43.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "44. • Červený a černý",
+      "title": "44.",
       "file": "cerveny_a_cerny_080.html",
       "words": 2084,
-      "chars": 12814,
+      "chars": 12817,
       "ideas": 65,
       "role": "chapter",
       "order": 76,
@@ -1548,17 +1623,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "44.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "45. • Červený a černý",
+      "title": "45.",
       "file": "cerveny_a_cerny_081.html",
       "words": 1922,
-      "chars": 11912,
+      "chars": 11915,
       "ideas": 49,
       "role": "chapter",
       "order": 77,
@@ -1568,14 +1643,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "45.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poznámky pod čarou • Červený a černý",
+      "title": "Poznámky pod čarou",
       "file": "cerveny_a_cerny_082.html",
       "words": 200,
       "chars": 1253,
@@ -1595,11 +1670,11 @@
       ]
     },
     {
-      "title": "Tiráž • Červený a černý",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 132,
-      "chars": 849,
-      "ideas": 24,
+      "words": 104,
+      "chars": 671,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "cerveny_a_cerny_082.html",
@@ -1617,14 +1692,14 @@
   ],
   "totals": {
     "all": {
-      "words": 143719,
-      "chars": 876888,
-      "ideas": 3866
+      "words": 143691,
+      "chars": 876988,
+      "ideas": 3786
     },
     "chapters": {
       "words": 143581,
-      "chars": 876005,
-      "ideas": 3838
+      "chars": 876283,
+      "ideas": 3767
     }
   }
 }

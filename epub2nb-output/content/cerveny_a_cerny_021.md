@@ -1,7 +1,5 @@
 ---
-title: |-
-  16.
-  Příští den
+title: 16\. Příští den
 contentType: prose
 ---
 
