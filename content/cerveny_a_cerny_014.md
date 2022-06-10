@@ -3,6 +3,8 @@ title: 9\. Večer na venkově
 contentType: prose
 ---
 
+<section>
+
 _Dido mistra Guérina, rozkošný náčrtek!_
 
 — STROMBECK
@@ -130,3 +132,5 @@ Nestarám se o děti! Vydávám se v nebezpečí, že mě pan de Rênal opět po
 Přítulnost nejmladšího chlapce, kterého měl velmi rád, zmírnila poněkud jeho bolest.
 
 „Ten mnou ještě nepohrdá,“ pomyslil si Julián. Ale brzy si zmírnění své bolesti počal vyčítat jako novou slabost. „Ty děti se ke mně lísají, jako by se lísaly k mladému honicímu psu, kterého jim předešlého dne koupili.“
+
+</section>

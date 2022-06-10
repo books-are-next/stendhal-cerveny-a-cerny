@@ -3,6 +3,8 @@ title: 2\. Vstup do světa
 contentType: prose
 ---
 
+<section>
+
 _Směšná a dojemná vzpomínka: první salón, v němž jsem se v osmnácti letech objevil sám a bez opory! Pohled ženy stačil, aby mě postrašil. Čím více jsem se chtěl líbit, tím neobratnějším jsem se stával. Měl jsem o všem docela nesprávné představy; buď jsem byl bezdůvodně důvěřivý, anebo jsem viděl v někom nepřítele jen proto, že na mne vážně pohlédl. Ale přes mou nešťastnou nesmělost, jak krásný byl každý krásný den!_
 
 — KANT
@@ -98,3 +100,5 @@ Juliánův protivník byl členem Akademie věd a znal náhodou latinsky. Jeliko
 Julián nevěděl naprosto nic o všech těch moderních jménech jako Southey, lord Byron, Jiří IV. Slyšel je dnes poprvé. Ale nikomu neušlo, že pokaždé, když hovor zabočil na události z římských dějin, jejichž znalost možno čerpat z děl Horatiových, Martialových, Tacitových atd., prokazoval nespornou převahu. Julián použil bez okolků několika myšlenek, jež zaslechl od besançonského biskupa v památném rozhovoru, který s ním měl; právě tyto myšlenky nebyly přijaty nejhůře.
 
 Když se nabažili rozmluvy o básnících, ráčila markýza pohlédnout na Juliána, poněvadž její zásadou bylo obdivovat se všemu, co bavilo jejího muže. „Za nemotornými způsoby toho bohoslovce se možná skrývá vzdělaný člověk,“ pravil markýze akademik, který seděl vedle ní. Julián z toho něco zaslechl. Hotové úsudky vyhovovaly domácí paní, přivlastnila si tedy úsudek, který byl pronesen o Juliánovi, a byla ráda, že pozvala akademika na večeři. „Baví pana de la Mole,“ myslila si.
+
+</section>

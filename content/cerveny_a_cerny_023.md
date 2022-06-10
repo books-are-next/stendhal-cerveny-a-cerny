@@ -3,6 +3,8 @@ title: 18\. Král ve Verrières
 contentType: prose
 ---
 
+<section>
+
 _Což se hodíte jen k tomu, abyste byli odhozeni jako bezduchá mrtvola národa, v jehož žilách není již krve?_
 
 — KÁZÁNÍ BISKUPOVA  
@@ -169,3 +171,5 @@ Dokonce i král plakal. Teprve za dlouhou chvíli se Julián tak dalece vzpamato
 Jeho Veličenstvo ráčilo dovolit slečnám, které ho doprovázely do kaple, aby nosily červenou stužku s vyšitými slovy: NENÁVIDÍM BEZBOŽNOST, CTÍM BOHA NAVĚKY.
 
 Markýz de la Mole dal venkovanům rozdělit deset tisíc lahví vína. Verrièreští liberálové využili toho večera, aby osvětlili mnohem lépe své domy než roajalisté. Král před odjezdem navštívil pana de Moirod.
+
+</section>

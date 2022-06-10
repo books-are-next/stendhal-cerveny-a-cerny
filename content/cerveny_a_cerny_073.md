@@ -3,6 +3,8 @@ title: 37\. Hradní věž
 contentType: prose
 ---
 
+<section>
+
 _Hrob přítele._
 
 — STERNE
@@ -64,3 +66,5 @@ Julián čekal před smrtí už jen jedinou nepříjemnou událost, totiž náv�
 Domníval se, že teď chápe, proč tolik lidí jeho přítele vášnivě nenávidí. Ale vzhledem k jeho neštěstí nedal své pocity najevo.
 
 „I kdyby sis ten zákaz vymohl,“ odpověděl chladně, „rozhodně by se nevztahoval na tvého otce.“
+
+</section>

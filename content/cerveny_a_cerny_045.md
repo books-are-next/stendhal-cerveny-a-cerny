@@ -3,6 +3,8 @@ title: 9\. Ples
 contentType: prose
 ---
 
+<section>
+
 _Přepych toalet, záře svíc, vůně; tolik hezkých paží, krásných ramenou; kytice, unášející árie Rossiniho, Ciceriho malby! Jsem celý bez sebe!_
 
 — CESTY UZERIHO
@@ -138,3 +140,5 @@ Tato živá a indiskrétní otázka Juliána hluboce ranila a způsobila, že op
 „Činil Danton dobře, že kradl?“ zeptal se jí náhle a jeho tvář se stávala čím dále tím divočejší. „Měli piemontští a španělští revolucionáři zostudit svůj národ zločiny? Měli rozdat všechna místa ve vojsku, všechny řády lidem i bez jakékoliv zásluhy? Nebyli by se lidé, kteří by nosili ty řády, báli králova návratu? Měli vydat v plen turínský poklad? Slovem, slečno,“ pravil, přibližuje se k ní se strašlivým pohledem, „má se člověk, který chce vyhladit v zemi nevědomost a zločin, přehnat jako vichřice a páchat zlo nazdařbůh?“
 
 Matylda se polekala, nemohla snést jeho pohled a ucouvla o několik kroků. Chvíli se naň dívala; pak stydíc se za to, že měla strach, odešla lehkým krokem z knihovny.
+
+</section>

@@ -3,6 +3,8 @@ title: 25\. Seminář
 contentType: prose
 ---
 
+<section>
+
 _Tři sta třicet šest obědů po 83 centimech; tři sta třicet šest večeří po 38 centimech; čokoládu, kdo má na ni právo; kolik se tu dá vydělat na poslušnosti!_
 
 — VALENOD Z BESANÇONU
@@ -136,3 +138,5 @@ Když vstoupil do čísla 103, viděl, že je to malý pokojík o osmi čtvereč
 „Jaká krásná vyhlídka,“ zvolal Julián; přitom ani nechápal, co ta slova vyjadřují. Mocné dojmy, které za ten krátký čas, co byl v Besançonu, prožil, vyčerpaly úplně jeho síly. Usedl u okna na jedinou dřevěnou židli, která byla v cele, a brzy tvrdě usnul. Neslyšel zvon svolávající k večeři ani klekání; zapomněli na něho.
 
 Když ho druhého dne ráno probudily první sluneční paprsky, viděl, že leží na podlaze.
+
+</section>

@@ -3,6 +3,8 @@ title: 12\. Cesta
 contentType: prose
 ---
 
+<section>
+
 _V Paříži se setkáváme s lidmi uhlazenými, na venkově mohou být lidé charakterní._
 
 — SIEYÈS
@@ -66,3 +68,5 @@ Ráno Julián prohlásil velmi klidně dobrákovi Fouquému, který byl přesvě
 „Ale uvaž přece,“ opakoval mu, „že tě chci za společníka, anebo je-li ti to milejší, dám ti čtyři tisíce franků ročně; a ty se chceš vrátit k tomu svému panu de Rênal, který tebou pohrdá jako blátem na svých střevících! Co ti bude bránit, abys až si uspoříš dvě stě louisdorů, nevstoupil do semináře? Řeknu ti ještě více, zavazuji se ti, že ti pak opatřím nejlepší faru v celém kraji. Vždyť,“ dodal Fouqué tiše, „dodávám palivo panu…, panu…, panu… Dávám jim nejlepší dubové dříví za cenu měkkého dříví, ale to jsou velmi dobře uložené peníze.“
 
 Nic nemohlo zviklat Juliánovo rozhodnutí. Fouqué si nakonec pomyslil, že Julián nemá docela zdravý rozum. Třetího dne časně ráno opustil Julián svého přítele a strávil celý den v horách mezi skalami. Vyhledal zase svou jeskyňku, ale v jeho duši nebyl klid, přítelova nabídka ho o něj připravila. Stál na rozcestí, ne mezi neřestí a ctností jako Herkules, ale mezi prostředností vedoucí k zabezpečenému životu všedního člověka a hrdinstvím svých mladistvých snů. „Nemám opravdu dost pevnosti,“ řekl si; a tato pochybnost ho bolela nejvíce. „Nejsem ze dřeva, z něhož jsou velcí lidé, když se bojím, že osm let strávených sháněním chleba mě připraví o svaté nadšení, s nímž člověk vykoná neuvěřitelné činy.“
+
+</section>

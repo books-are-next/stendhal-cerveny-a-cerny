@@ -3,6 +3,8 @@ title: 19\. Komická opera
 contentType: prose
 ---
 
+<section>
+
 _Ó, jak se jaro lásky podobá  
 dne dubnového nejistotné kráse!  
 kde slunce září v plné nádheře  
@@ -132,3 +134,5 @@ Zato Julián byl vzrušený jako šestnáctileté dítě. Při obědě, který, 
 Jakmile to slušnost dovolila, vstal od stolu, spěchal, či spíše hnal se do stáje, osedlal si sám koně a tryskem odjel; bál se, aby se nedopustil nějaké nečestné slabosti. „Musím umrtvit své srdce tělesnou námahou,“ řekl si uháněje do meudonských lesů. „Co jsem udělal, co jsem řekl, abych si zasloužil takové jednání?
 
 Nesmím dnes nic dělat, nic říkat,“ pomyslil si vraceje se do paláce, „musím být i tělesně mrtev, tak jako jsem mrtev duševně.“ Julián vskutku už nežil, jenom jeho mrtvé tělo se ještě pohybovalo.
+
+</section>

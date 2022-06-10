@@ -3,6 +3,8 @@ title: 20\. Anonymní dopisy
 contentType: prose
 ---
 
+<section>
+
 _… přílišně  
 ať laškování uzdu nepouštíš;  
 neb nejmocnější přísahy jak sláma  
@@ -48,7 +50,9 @@ _Milostivá paní!_
 
 _Znám všechny Vaše pletichy; osoby, v jejichž zájmu je, abyste v nich ustala, jsou o nich již zpraveny. Pro zbytek přátelství, jež pro vás ještě cítím, vyzývám Vás, abyste zanechala úplně styků s tím selským synkem. Budete-li dosti rozumná, váš manžel bude myslet, že se zpráva, kterou obdržel, nezakládá na pravdě a necháme ho v jeho klamu. Uvažte, že znám Vaše tajemství, třeste se, nešťastnice; musíte se nyní chovat ke mně co nejlépe._
 
-  
+</section>
+
+<section>
 
 Až budeš hotov s nalepováním slov, z nichž se skládá tento dopis (poznals v něm ředitelův způsob mluvení?), vyjdi z domu, setkám se s Tebou.
 
@@ -57,3 +61,5 @@ Půjdu do vesnice a vrátím se celá rozčilená; budu opravdu velmi rozrušena
 Z vrcholku skal je vidět věž holubníku. Podaří-li se nám můj plán, pověsím tam bílý šátek, v opačném případě tam nebude nic.
 
 Nevděčníku, nenajde Tvé srdce nějakou příležitost, abys mi, než odejdeš na procházku, mohl říci, že mě miluješ? Ale ať se stane cokoliv, buď přesvědčen o jednom: nepřežila bych ani o den chvíli, kdy bychom se museli navždy rozloučit. Jsem krkavčí matka!… Jsou to prázdná slova, co jsem zde napsala, drahý Juliáne. Necítím je; v tomto okamžiku mohu myslet pouze na Tebe, napsala jsem je jen proto, abys mě nekáral. Nač se přetvařovat ve chvíli, kdy Tě snad ztrácím? Ano, ať se Ti má duše zdá krutou, ale ať aspoň nelžu před mužem, kterého zbožňuji! Už jsem příliš mnoho v životě klamala. Odpouštím Ti, nemiluješ-li mě už. Nemám čas, abych ještě jednou přečetla svůj dopis. S lehkým srdcem bych životem zaplatila ty šťastné dny, které jsem strávila v Tvém náručí. Víš, že mě budou stát ještě více.“
+
+</section>

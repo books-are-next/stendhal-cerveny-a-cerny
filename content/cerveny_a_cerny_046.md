@@ -3,6 +3,8 @@ title: 10\. Královna Markéta
 contentType: prose
 ---
 
+<section>
+
 _Lásko! V jakých ztřeštěnostech nacházíme kvůli tobě potěšení!_
 
 — LIST PORTUGALSKÉ JEPTIŠKY
@@ -106,3 +108,5 @@ Buďsi, ale je hezká!“ pokračoval Julián a jeho pohled byl dravý. „Dosta
 Tato myšlenka se Juliánovi stala jedinou věcí, která ho zajímala. Nemohl již myslit na nic jiného. Dny mu míjely jako hodiny.
 
 Když se snažil zabývat nějakou vážnou prací, myšlenky mu každou chvíli odbočovaly; za čtvrt hodiny se opět vzpamatovával s bušícím srdcem, se zmatenou hlavou a s jedinou myšlenkou: „Miluje mě?“
+
+</section>

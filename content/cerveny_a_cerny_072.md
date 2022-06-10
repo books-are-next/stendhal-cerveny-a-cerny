@@ -3,6 +3,8 @@ title: 36\. Smutné podrobnosti
 contentType: prose
 ---
 
+<section>
+
 _Nečekejte ode mne slabost. Pomstil jsem se. Zasluhuji smrt a zde mne máte. Modlete se za mou duši._
 
 — SCHILLER
@@ -35,7 +37,9 @@ Soudce užasl nad touto odpovědí. Chtěl mu klást ještě více otázek, aby 
 
 „Musím vykonat ještě jednu trapnou povinnost,“ pomyslil si Julián. „Musím napsat slečně de la Mole.“
 
-  
+</section>
+
+<section>
 
 _Pomstil jsem se, psal jí. Naneštěstí se mé jméno objeví v novinách, takže mi nebude dopřáno odejít z tohoto světa jako neznámý. Za dva měsíce budu mrtev. Pomsta byla krutá jako má bolest nad mým odloučením od Vás. Od této chvíle si zapovídám napsat nebo vyslovit Vaše jméno. Nemluvte nikdy o mně, ani se svým synem: mlčení je jedinou možností, jak mi můžete projevit úctu. Pro většinu lidí budu sprostým vrahem… Dovolte mi, abych v tomto posledním okamžiku řekl pravdu: zapomenete na mne. Tato katastrofa, o níž, radím Vám, nikdy nemluvte se žádným smrtelníkem, ukojí na několik let Vaši romantičnost a zálibu v dobrodružství. Byla byste se hodila mezi středověké hrdiny; dokažte, že máte jejich pevnou povahu. To, co se má stát, musí být provedeno tajně a tak, abyste nebyla kompromitována. Žijte nějakou dobu pod falešným jménem a nikomu se s ničím nesvěřujte. Budete-li však nutně potřebovat přátelskou pomoc, obraťte se na abbé Pirarda._
 
@@ -47,7 +51,9 @@ _S nikým už nepromluvím a nikomu už nebudu psát; Vám budou určena má pos
 
 _J. S._
 
-  
+</section>
+
+<section>
 
 Teprve když Julián dopis odeslal a trochu se vzpamatoval, poprvé si uvědomil, jak se cítí nešťasten. To velké slovo „zemřu“ mu muselo postupně vyrvat ze srdce všechny ctižádostivé naděje. Smrt sama o sobě mu nepřipadala hrozná_._ Celý jeho život byl jen dlouhou přípravou k neštěstí a nikdy nezapomínal na to, které se pokládá za největší.
 
@@ -126,3 +132,5 @@ Zabít se! Nebylo by to nejlepší?“ říkal si, „Soudci, ti lidé paragraf�
 Mohu žít ještě pět nebo šest týdnů, více nebo méně… Zabít se! Ne, rozhodně ne,“ řekl si po několika dnech. „Napoleon také žil…
 
 Ostatně můj život je docela příjemný; je zde klid; nic mě neobtěžuje,“ dodal se smíchem a začal si poznamenávat knihy, které si chtěl dát poslat z Paříže.
+
+</section>

@@ -3,6 +3,8 @@ title: 26\. Duchovní láska
 contentType: prose
 ---
 
+<section>
+
 _Též měla, rozumí se, Adelina  
 v chování patricijský hladký klid,  
 jenž nepřekročitelnou svorou spíná  
@@ -48,3 +50,5 @@ Tento neočekávaný obrat v jeho životě měl za následek, že se Julián sta
 „Slečna de la Mole má pravdu, ten mladý kněz má v sobě cosi zvláštního. Moje přítomnost ho činila první dny asi nesmělým. Všichni lidé, s nimiž se člověk v tom domě setkává, jsou ve skutečnosti velmi lehkomyslní; vidím tu jedině takové ctnosti, které jsou podporovány stářím a už velmi potřebují chladnost pokročilého věku. Ten mladý muž asi poznal, jaký je rozdíl mezi nimi a mnou; píše dobře; ale bojím se, že prosba, kterou vyslovil ve svém dopise, prosba, abych ho osvítila svými radami, je ve skutečnosti cit, který si sám neuvědomuje.
 
 Ale kolik obrácení na víru tak začínalo! Dobrým znamením je také to, že jeho sloh se tak liší od slohu ostatních mladých mužů, jejichž dopisy jsem měla příležitost číst. Není možno nevidět vroucnost, hlubokou vážnost a zanícené přesvědčení v dopisech toho mladého kněze: bude mít v sobě jemnost Massillonovu.“[\[22\]](./resources/undefined)
+
+</section>

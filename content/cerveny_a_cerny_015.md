@@ -3,6 +3,8 @@ title: 10\. Velká odvaha a malé štěstí
 contentType: prose
 ---
 
+<section>
+
 _Přetváří vášeň se, však přec ji hlásí  
           i její tma; jak nejčernější mrak  
 nejtěžší hlásí bouř…_
@@ -64,3 +66,5 @@ Julián si na chvíli ve stínu vysokých skal odpočinul a pak stoupal dále. B
 Julián stál na vrcholku vysoké skály a pohlížel k nebi, na němž plálo srpnové slunce. V poli pod skálou cvrkaly cikády; když umlkly, bylo kolkolem hluboké ticho. Pod nohama viděl kraj v okruhu dvaceti mil. Chvílemi viděl, jak z vysokých skal nad jeho hlavou vzlétá krahujec a opisuje tiše ve vzduchu široké kruhy. Julián bezděky sledoval zrakem dravého ptáka. Jeho klidné, mocné pohyby v něm vzbuzovaly obdiv; záviděl mu jeho sílu, záviděl mu jeho samotu.
 
 Takový byl osud Napoleonův. Bude to jednou též jeho osud?
+
+</section>

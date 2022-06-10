@@ -3,6 +3,8 @@ title: 5\. Citlivost a vznešená zbožná dáma
 contentType: prose
 ---
 
+<section>
+
 _Trochu odvážnější myšlenka vypadá tam jako hrubost, tak jsou zvyklí na plané řeči. Běda tomu, kdo pronáší nějaké nové myšlenky!_
 
 — FAUBLAS
@@ -32,3 +34,5 @@ Markýzi se zamlouvala jeho vytrvalost v práci, jeho mlčenlivost a inteligence
 Kupoval domy, lesy; ale snadno ho to rozladilo. Rozházel sta louisdorů a o sto franků se soudil. Boháči, kteří mají hrdou povahu, hledají v obchodních jednáních zábavu, a ne zisk. Markýz potřeboval pomocníka, který by jeho peněžní záležitosti uvedl prostě a přehledně do pořádku.
 
 Ačkoliv paní de la Mole byla tak odměřená, někdy se Juliánovi posmívala. Vše, co je neočekávané a pramení v citlivosti, nahání vznešeným dámám hrůzu; je to opak ustálených zvyklostí. Markýz se ho několikrát zastal. „Je-li směšný ve vašem salónu, ve své kanceláři triumfuje.“ Julián se zase domníval, že přišel paní markýze na tajemství. Jakmile byl ohlášen baron La Joumate, byla ihned ochotna se o všechno zajímat. Byl to chladný člověk a jeho tvář prozrazovala nepřístupnost. Byl malý, hubený, ošklivý, velmi dobře oblečený, život trávil u dvora, a když mluvil, celkem nic nepovídal. Takové bylo také jeho smýšlení. Paní de la Mole by byla bývala poprvé v životě neobyčejně šťastna, kdyby ho byla mohla oženit se svou dcerou.
+
+</section>

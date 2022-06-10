@@ -3,6 +3,8 @@ title: 27\. Nejkrásnější prebendy
 contentType: prose
 ---
 
+<section>
+
 _Zásluhy? Nadání? Vlohy? To není k ničemu! Musíte náležet k některé mocné straně._
 
 — LICHTENBERG
@@ -42,3 +44,5 @@ Večeře nebyla skvělá a hovor byl nesnesitelný. „Taková společnost je ja
 Tento človíček vzbudil poprvé v Juliánovi myšlenku, že ačkoliv paní de Fervaques na jeho listy neodpovídá, pohlíží shovívavě na cit, který je diktoval. Černá duše pana Tanbeaua trpěla nesnesitelná muka pomyšlením na Juliánovy úspěchy. „Ale žádný člověk, ať je chytrý nebo hloupý, nemůže být na dvou místech zároveň,“ řekl si budoucí profesor. „Stane-li se Julián jejím milencem, opatří mu vznešená markýza nějaké výhodné církevní místo a já se ho tak aspoň zbavím v domě markýze de la Mole.“
 
 Také abbé Pirard dělal Juliánovi dlouhá kázání o jeho úspěších v domě paní de Fervaques. Mezi přísným jansenistou a jezuitsko-monarchisticko-reakčním salónem ctnostné maršálové vládla sektářská řevnivost_._
+
+</section>

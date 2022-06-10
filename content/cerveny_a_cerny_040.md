@@ -3,6 +3,8 @@ title: 4\. Palác markýze de la Mole
 contentType: prose
 ---
 
+<section>
+
 _Co zde dělá? Snad se mu zde líbí? Či chce se sám zalíbit?_
 
 — RONSARD
@@ -170,3 +172,5 @@ Slečna de la Mole říkala, že již výraz jeho tváře by stačil, aby v ní 
 Norbertova poznámka připomněla hraběti, že člověk jeho postavení by měl být milovníkem koní a že by je neměl nechat moknout. Odešel tedy. Ostatní páni se mu smáli a brzy odešli také.
 
 „Teď jsem měl příležitost vidět pravý opak svého postavení,“ myslil si Julián, když je slyšel na schodech se smát. „Nemám ani dvacet louisdorů ročního důchodu a stál jsem vedle člověka, který má dvacet louisdorů důchodu za hodinu, a tropili si z něho smích… Taková podívaná vyléčí člověka ze závisti.“
+
+</section>

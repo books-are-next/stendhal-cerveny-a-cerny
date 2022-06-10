@@ -3,6 +3,8 @@ title: 35\. Bouře
 contentType: prose
 ---
 
+<section>
+
 _Bože, dej ať ničím nevynikám!_
 
 — MIRABEAU
@@ -70,3 +72,5 @@ Zazněly tři údery zvonu. To je ve francouzských vesnicích obvyklé znamení
 Julián vešel do nového verrièreského  kostela. Všechna vysoká kostelní okna byla zastřena rudými záclonami. Octl se několik kroků za lavicí paní de Rênal. Zdálo se mu, že se vroucně modlí. Při pohledu na ženu, která ho kdysi tolik milovala, roztřásly se mu ruce, takže nemohl svůj záměr hned provést. „Nemohu,“ řekl si, „tělo mi vypovídá službu.“
 
 V tu chvíli ministrant, jenž přisluhoval při mši, zvonil k pozdvihování_._ Paní de Rênal sklonila hlavu a záhyby šálu ji na chvíli téměř úplně zakryly. Julián ji už tak dobře nepoznával. Vystřelil po ní, ale nezasáhl ji. Vystřelil po druhé; paní de Rênal klesla na zem.
+
+</section>

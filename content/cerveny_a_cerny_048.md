@@ -3,6 +3,8 @@ title: 12\. Je to snad druhý Danton?
 contentType: prose
 ---
 
+<section>
+
 _Potřeba úzkosti, taková byla povaha krásné Markéty de Valois, mé tety, která se brzy provdala za krále navarského, jenž vládne nyní ve Francii jako Jindřich IV. Potřeba dávat něco v sázku tvořila celé tajemství povahy té roztomilé princezny; odtud její roztržky a opětná usmiřování s jejími bratry již od šestnácti let. Nuže, co může dívka dávat v sázku? Co má nejdrahocennějšího: svou pověst, vážnost celého svého života._
 
 — PAMĚTI VÉVODY ANGOULÊMSKÉHO,  
@@ -75,3 +77,5 @@ V době, kdy Matyldinou duší zmítala taková nejistota, nerozuměl Julián t�
 „Ano, nemohu si to tajit,“ řekl si Julián, „slečna de la Mole se na mne dívá podivně. Ale i když její krásné modré oči hledí na mne s největší oddaností, čtu vždy na dně něco pátravého, chladnokrevného a zlomyslného. Je možné, že by to byla láska? Jaký rozdíl proti pohledům paní de Rênal!“
 
 Jednou po večeři doprovodil Julián pana de la Mole do jeho pokoje a vrátil se pak rychle do zahrady. Když se nic netuše blížil k Matyldinu kroužku, zachytil několik velmi hlasitých slov. Matylda domlouvala něco bratrovi. Julián zaslechl dvakrát zřetelně vyslovit své jméno. Když se objevil, rozhostilo se náhle hluboké mlčení a marně se je snažili přerušit. Slečna de la Mole a její bratr byli příliš rozčileni, aby našli hned novou látku k hovoru. Juliánovi se zdálo, že se k němu páni de Caylus, de Croisenois, de Luz a jeden z jejich přátel chovají ledově. Odešel.
+
+</section>

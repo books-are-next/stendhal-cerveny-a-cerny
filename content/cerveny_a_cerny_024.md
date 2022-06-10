@@ -3,6 +3,8 @@ title: 19\. Myšlení bolí
 contentType: prose
 ---
 
+<section>
+
 _Grotesknost každodenních událostí zakrývá pravé neštěstí vášní._
 
 — BARNAVE
@@ -13,7 +15,9 @@ Když do pokoje, v němž bydlel pan de la Mole, stavěli opět dřívější n�
 
 Byla to žádost psaná hrubým písmem, jakým píší kuchařky.
 
-  
+</section>
+
+<section>
 
 _Pane markýzi,_
 
@@ -21,15 +25,21 @@ _po celý život jsem se řídil náboženskými zásadami. Roku třiadevadesát
 
 _De Cholin_
 
-  
+</section>
+
+<section>
 
 Na okraj této žádosti bylo panem de Moirod připsáno doporučení, které začínalo takto:
 
-  
+</section>
+
+<section>
 
 _Měl jsem včera čest mluvit s vámi o tom hodném člověku, který předkládá tuto žádost._
 
-  
+</section>
+
+<section>
 
 „Tedy i takový hlupák jako Cholin mi ukazuje cestu, kterou se mám dát,“ řekl si Julián.
 
@@ -142,3 +152,5 @@ Elisa nabyla jistoty až na venkově, ale domnívala se, že ten poměr trvá u�
 „Bezpochyby proto odmítl svého času mou nabídku k sňatku,“ dodala zlostně. „A já, hloupá husa, jsem chodila k paní de Rênal na radu a prosila jsem ji, aby s ním promluvila.“
 
 Ještě téhož večera dostal pan de Rênal z města současně s novinami dlouhý anonymní dopis, v němž bylo do nejmenších podrobností vylíčeno, co se děje v jeho domě. Julián viděl, že při čtení tohoto dopisu, napsaného na modrém papíře, bledne a že na něho vrhá zlostné pohledy. Celý večer se starosta nemohl ze svého rozčilení vzpamatovat. Nadarmo si ho Julián snažil udobřit otázkami o genealogii předních šlechtických rodin burgundských.
+
+</section>

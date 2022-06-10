@@ -3,6 +3,8 @@ title: 22\. Jak se jednalo roku 1830
 contentType: prose
 ---
 
+<section>
+
 _Řeč byla dána člověku na to, aby skryl svou myšlenku._
 
 — R. P. MALAGRIDA
@@ -128,3 +130,5 @@ Ješitnost zápasící se vším, co malicherná láska k penězům může mít 
 Místo odpovědi ho vzala paní de Rênal stranou a prohlásila, že Julián musí být propuštěn. Hodiny štěstí, jež právě prožila, jí vrátily nenucenost a jistotu potřebnou k uskutečnění plánu, o němž uvažovala již čtrnáct dní. Neštěstí ubohého starosty dovršilo pomyšlení na to, že se po celém městě dělají vtipy o jeho velké lásce k penězům**_._** Pan Valenod byl štědrý jako zloděj a on se při několika posledních sbírkách pro bratrstvo sv. Josefa, pro spolek P. Marie, pro kongregaci Nejsv. Svátosti atd. atd. zachoval spíše opatrně než okázale.
 
 V seznamu šlechticů z Verrières a okolí, seřazeném mnichy obratně podle výše příspěvků, stálo jméno pana de Rênal několikrát na posledním místě. Nadarmo tvrdil, že nic nevydělává**_._** Kněžstvo v takových věcech nezná žerty.
+
+</section>

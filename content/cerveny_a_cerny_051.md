@@ -3,6 +3,8 @@ title: 15\. Je to spiknutí?
 contentType: prose
 ---
 
+<section>
+
 _Ach! Jak krutá je doba mezi velikým záměrem a jeho provedením! Kolik zbytečných úzkostí! Kolik nerozhodností! Jde o život. – Jde o mnohem více: o čest._
 
 — SCHILLER
@@ -66,3 +68,5 @@ Kdybych byl býval zabit v zahradě pana de Rênal, nebylo by v tom pro mne nic 
 Totiž po dva nebo tři roky,“ pokračoval se smíchem, posmívaje se sám sobě. Ale ta myšlenka ho skličovala. „A jak budu moci být ospravedlněn? Dejme tomu, že Fouqué dá vytisknout můj posmrtný pamflet; bude to jenom další hanebnost. Vždyť jsem byl přijat v tomto domě a jako odplatu za pohostinství, jehož se mi zde dostává, za laskavosti, jimiž mě zahrnují, vytisknu pamflet o tom, co se zde děje! Napadám čest žen! Ach, bude stokrát lépe, padnu-li do léčky.“
 
 Ten večer byl hrozný.
+
+</section>

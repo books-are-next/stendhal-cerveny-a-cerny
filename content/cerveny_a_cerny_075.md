@@ -3,6 +3,8 @@ title: 39\. Pletichy
 contentType: prose
 ---
 
+<section>
+
 _Castres, 1676. – Ve vedlejším domě právě bratr zavraždil sestru. Ten šlechtic spáchal už jednu vraždu. Jeho otec dal tajně rozdat pět set tolarů členům rady a zachránil mu život._
 
 — LOCKE, CESTA PO FRANCII
@@ -62,3 +64,5 @@ Svou pevnou a podnikavou povahou budete oporou straně, do níž uvedete také s
 Dovolte, abych vám to směl říci,“ dodal po mnoha jiných přípravných frázích, „za patnáct let budete pokládat lásku, kterou jste ke mně cítila, za omluvitelnou pošetilost, ale přece jen za pouhou pošetilost.“
 
 Zarazil se náhle a zamyslil se. Znovu se octl tváří v tvář myšlence pro Matyldu tak urážlivé. „Za patnáct let bude paní de Rênal mého syna zbožňovat, a vy si na něho už ani nevzpomenete.“
+
+</section>

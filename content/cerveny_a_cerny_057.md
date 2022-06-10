@@ -3,6 +3,8 @@ title: 21\. Tajná nóta
 contentType: prose
 ---
 
+<section>
+
 _Neboť vše, co vypravuji, jsem viděl; a mohl-li jsem se snad mýlit, když jsem to viděl, rozhodně vám nelžu, když vám to vypravuji._
 
 — DOPIS SPISOVATELI
@@ -88,3 +90,5 @@ Hosté se vzdalovali od krbu a blížili se ke spodnímu konci stolu, u něhož 
 Julián ořezal co možno nejpomaleji již asi dvacet per; už tam skoro žádná nebyla. Marně hledal v očích pana de la Mole nějaký rozkaz; markýz na něj zapomněl.
 
 „Je to směšné, co dělám,“ myslil si Julián ořezávaje péra; „ale lidé, kteří vypadají tak nenápadně a jimž byly svěřeny nebo kteří si sami svěřili tak důležité zájmy, jsou jistě velmi nedůtkliví. Můj nešťastný pohled má v sobě něco tázavého a málo uctivého, co by je bezpochyby mohlo urazit. Sklopím-li docela oči, budu vypadat, jako bych lapal jejich slova.“ Byl ve velkých rozpacích, protože slyšel podivné věci.
+
+</section>

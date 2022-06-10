@@ -3,6 +3,8 @@ title: 33\. Peklo nerozhodnosti
 contentType: prose
 ---
 
+<section>
+
 _Neobratný brusič zničil při broušení tohoto diamantu část jeho nejkrásnějšího lesku. – Ve středověku, ba ještě za Richelieua, dokázali Francouzi projevit svou vůli._
 
 — MIRABEAU
@@ -102,3 +104,5 @@ Jeho paměť a obraznost byly plny nejrůznějších lstí a úskoků, jež byly
 „Kdo by to byl mohl předvídat?“ myslil si. „Dívka tak hrdá, tak bystrá, která je na své jméno pyšnější než já! Dívka, o jejíž ruku se již předem ucházeli nejvznešenější francouzští šlechtici!
 
 Člověk už nemůže počítat s rozumem. Toto století dělá ve všem zmatek. Spějeme k chaosu.“
+
+</section>

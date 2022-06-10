@@ -3,6 +3,8 @@ title: 45\.
 contentType: prose
 ---
 
+<section>
+
 „Nemohu to tomu ubohému abbé Chas-Bernardovi udělat, abych si ho dal zavolat,“ řekl Fouquému. „Nemohl by z toho tři dny jíst. Ale hleď mi najít nějakého jansenistu, přítele pana Pirarda, který se nedá získat pro nějakou intriku.“ Fouqué očekával tento návrh netrpělivě. Julián splnil všechno, čím je člověk na venkově povinen veřejnému mínění. Díky abbému de Frilair a přesto, že si špatně vyvolil svého zpovědníka, byl Julián v žaláři chráněncem jezuitů. Kdyby byl chytřejší, byl by mohl utéci. Ale špatný vzduch žaláře začal působit, rozum mu slábl. Byl zato tím šťastnější, když se paní de Rênal vrátila.
 
 „Má první povinnost je povinnost vůči tobě,“ řekla objímajíc ho. „Utekla jsem z Verrières.“
@@ -98,3 +100,5 @@ Když zůstala sama s Fouquém, chtěla vlastníma rukama pohřbít hlavu svého
 Matyldinou péčí byla ta divoká jeskyně vyzdobena drahými italskými mramorovými skulpturami.
 
 Paní de Rênal svému slibu dostála. Nepokusila se zkrátit si život, ale za tři dny po Juliánově smrti zemřela, držíc v náručí své děti.
+
+</section>

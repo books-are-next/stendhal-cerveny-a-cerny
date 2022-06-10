@@ -3,6 +3,8 @@ title: 15\. Kuropění
 contentType: prose
 ---
 
+<section>
+
 _Láska, toť latinsky je amor  
 a z lásky pochází též mor  
 a všechna starost, která moří,  
@@ -51,3 +53,5 @@ Dokonce, i když mu již neměla co odepřít, odstrkovala Juliána s opravdový
 „Pane Bože! Být šťasten, být milován je pouze toto?“ bylo první myšlenkou Juliánovou, když se vrátil do pokoje. Byl překvapen a zmaten jako člověk, který právě dosáhl toho, po čem toužil. Touha se mu stala zvyklostí, nenacházel však již, po čem by mohl toužit, a přece ještě neměl na co vzpomínat. Jako vojín při návratu ze slavnostní přehlídky probíral Julián pozorně znovu všechny podrobnosti svého chování. „Neopominul jsem nic, čím jsem sám sobě povinen? Hrál jsem dobře svou úlohu?“
 
 Ale jakou úlohu? Úlohu muže zvyklého oslňovat ženy.
+
+</section>

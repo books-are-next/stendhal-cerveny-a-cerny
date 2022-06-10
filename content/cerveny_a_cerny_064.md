@@ -3,6 +3,8 @@ title: 28\. Manon Lescaut
 contentType: prose
 ---
 
+<section>
+
 _Nuže, jakmile se přesvědčil, že převor je hlupák a osel, nazýval černým, co bylo bílé, a bílým, co bylo černé, a míval často úspěch._
 
 — LICHTENBERG
@@ -52,3 +54,5 @@ Pokud jde o Matyldu, buď ta šest týdnů trvající trapná komedie nezmění 
 Když byl po dlouhém snění opět schopen klidně uvažovat, řekl si: „Budu snad jeden den šťasten, ale pak bude opět stejně krutá, neboť nemohu, bohužel, dosáhnout toho, abych se jí stále líbil. Pak již nebudu moci nic proti tomu dělat, budu zničen, navždy ztracen…
 
 Jakou záruku mi může dát při své povaze? Bohužel vina je v mých nedostatcích. Nebudu mít pro ni dosti vybrané chování, můj hovor jí bude připadat těžkopádný a jednotvárný. Pane Bože, proč nejsem jiný?“
+
+</section>

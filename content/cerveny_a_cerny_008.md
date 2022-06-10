@@ -3,6 +3,8 @@ title: 3\. Jmění chudých
 contentType: prose
 ---
 
+<section>
+
 _Ctnostný farář, jenž neintrikuje, je pro vesnici prozřetelností._
 
 — FLEURY
@@ -62,3 +64,5 @@ Paní de Rênal byla velmi ostýchavá a zdánlivě nevyrovnaná a urážel ji o
 Byla to naivní duše, která nikdy nešla tak daleko, aby dokonce posuzovala svého muže nebo si přiznala, že ji nudí. Předpokládala, aniž si to doznala, že mezi mužem a ženou není něžnějších vztahů. Měla svého muže nejraději, když s ní mluvil o svých plánech s dětmi; jeden hoch se měl stát vojákem, druhý úředníkem, třetí knězem. Celkem se jí zdál pan de Rênal mnohem méně nudným než všichni ostatní mužové, jež poznala.
 
 Tento úsudek paní de Rênal o jejím muži byl správný. Verrièreský starosta vděčil za pověst vtipného a dobře vychovaného člověka asi půl tuctu vtipů, jež zdědil po kterémsi strýci. Starý setník de Rênal sloužil před revolucí v pěším pluku vévody Orleánského a měl v Paříži přístup do knížecích salónů. Tam se stýkal s paní de Montesson, s proslulou paní de Genlis a s panem Ducrestem, navrhovatelem Palais-Royal. Tyto postavy se vyskytovaly až příliš často v anekdotách pana de Rênal. Ale ponenáhlu ho vyprávění choulostivých vzpomínek omrzelo a od určité doby opakoval anekdoty týkající se rodu orleánského jenom při zvláštních příležitostech. Protože byl, pokud nemluvil o penězích, také velmi zdvořilý, byl pokládán právem za nejaristokratičtější osobnost ve Verrières.
+
+</section>

@@ -3,6 +3,8 @@ title: 7\. Záchvat dny
 contentType: prose
 ---
 
+<section>
+
 _A byl jsem povýšen, ne pro svou zásluhu, ale proto, že můj pán měl dnu._
 
 — BERTOLOTTI
@@ -132,3 +134,5 @@ Pan de Valenod pověděl Juliánovi, že nájemce verrièreské loterní prodejn
 Sotvaže byl pan de Cholin jmenován, dověděl se Julián, že deputace departementu žádala o to místo pro pana Grose, proslulého geometra: ten šlechetný muž měl pouze čtrnáct set franků ročního důchodu a každý rok půjčoval šest set franků právě zemřelému nájemci loterie, aby mu pomohl vychovat jeho děti.
 
 Julián se zhrozil toho, co provedl. „To nic není,“ řekl si, „budu se muset dopustit mnohých jiných nespravedlivostí, budu-li to chtít někam přivést, a k tomu umět je zakrývat pláštíkem krásných sentimentálních slov: ubohý pan Gros! Kříž zasluhoval on, a zatím jsem jej dostal já a musím jednat v intencích vlády, která mi jej dala.“
+
+</section>

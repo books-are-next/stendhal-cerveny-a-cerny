@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) V mincích po 6 francích.
 
 [\[2\]](./resources/undefined) Citáty z Byrona jsou v překladu Pavla Eisnera.
@@ -54,3 +56,5 @@ contentType: prose
 [\[25\]](./resources/undefined) Zde mluví z něho jakobín (_Pozn. aut.)._
 
 [\[26\]](./resources/undefined) Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.
+
+</section>

@@ -3,6 +3,8 @@ title: 5\. Vyjednávání
 contentType: prose
 ---
 
+<section>
+
 _Váháním zachránil stát._
 
 — ENNIUS
@@ -122,3 +124,5 @@ Přes všechna dobrá předsevzetí se ho zmocnila při pohledu na dům nepřeko
 Julián nebyl jediný, koho zneklidňoval jeho příchod do domu. Velmi jemná a plachá paní de Rênal byla znepokojena pomyšlením na toho cizího člověka, kterého jeho povolání mělo nyní stavět mezi ni a děti. Byla zvyklá spát se svými hochy v jednom pokoji. Plakala, když ráno viděla, jak přenášejí jejich postýlky do pokoje určeného pro vychovatele. Marně žádala muže, aby jí alespoň postel nejmladšího, Stanislava Xavera, nechali v její ložnici.
 
 Ženská citlivost byla u paní de Rênal příliš vyvinuta. Vytvořila si o příštím vychovateli nepříjemnou představu hrubého a neupraveného tvora, který má plísnit děti jenom proto, že zná latinu, barbarský jazyk, pro nějž její synové budou biti.
+
+</section>

@@ -3,6 +3,8 @@ title: 22\. Rokování
 contentType: prose
 ---
 
+<section>
+
 _Republika! Na jednoho člověka, který by všechno obětoval obecnému dobru, jsou dnes tisíce a milióny těch, kdo znají pouze své požitky, svou marnivost. V Paříži si člověka váží pro jeho kočár, a ne pro jeho dobré vlastnosti._
 
 — NAPOLEON: PAMĚTI
@@ -122,3 +124,5 @@ Dvě stě tisíc mladíků drobné buržoazie touží po válce…“
 „Už dosti těch nepříjemných pravd, mluvme stručně, pánové: člověk, jemuž musí být odňata nemocná noha, by nadarmo ujišťoval lékaře, že ta nemocná noha je úplně zdravá. Promiňte mi to přirovnání, pánové, naším chirurgem je vznešený vévoda…“
 
 „Nyní konečně bylo vysloveno to velké slovo,“ pomyslil si Julián; „tedy k vévodovi… pojedu dnes v noci.“
+
+</section>

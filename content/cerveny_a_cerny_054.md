@@ -3,6 +3,8 @@ title: 18\. Kruté chvíle
 contentType: prose
 ---
 
+<section>
+
 _A ona se mi přiznává! Líčí všechno do nejmenších podrobností! Její krásné oči, jež upírá na mne, vyjadřují lásku, kterou cítila k jinému._
 
 — SCHILLER
@@ -78,3 +80,5 @@ Julián se bál, aby ho neprohlédl, a proto říkal, že se cítí nemocen; mar
 „Obyčejná dívka,“ myslila si, „by si vybrala jednoho z těch mladíků, kteří k sobě ve společnosti poutají všechny zraky; ale jedním z rysů geniálnosti je, nevláčet své myšlenky brázdou vyjetou obyčejnými lidmi.
 
 Kdybych byla družkou muže, jako je Julián, jemuž chybí jmění, které mám zase já, budila bych stále pozornost, nešla bych životem nepovšimnuta. Místo abych se neustále bála revoluce jako mé sestřenice, které se ze strachu před luzou neodvažují vyhubovat ani poštovskému, když je špatně veze, byla bych jista, že budu hrát ve světě úlohu, a to velkou úlohu, neboť muž, kterého jsem si zvolila, má pevnou povahu a bezmeznou ctižádost. Co mu chybí? Přátelé, peníze? Dám mu je.“ Ale v myšlenkách zacházela s Juliánem trochu jako s podřadným člověkem, od něhož se může dát milovat, kdy se jí to hodí.
+
+</section>

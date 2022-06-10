@@ -3,6 +3,8 @@ title: 44\.
 contentType: prose
 ---
 
+<section>
+
 Po jeho odchodu Julián dlouho plakal. Plakal, že musí zemřít. Posléze si řekl, že kdyby byla paní de Rênal v Besançonu, svěřil by se jí se svou slabostí…
 
 Právě když nejvíce litoval nepřítomnosti té zbožňované ženy, zaslechl kroky Matyldiny.
@@ -130,3 +132,5 @@ Ach! Kdyby byl takový Bůh!… padl bych mu k nohám. Zasloužil jsem smrt, ře
 Bylo už pozdě v noci. Po jedné anebo dvou hodinách klidného spánku přišel Fouqué.
 
 Julián se cítil silný a odhodlaný jako člověk, který vidí jasně do své duše.
+
+</section>

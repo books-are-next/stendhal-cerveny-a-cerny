@@ -3,6 +3,8 @@ title: 29\. Nuda
 contentType: prose
 ---
 
+<section>
+
 _Obětovat se svým vášním, budiž; ale obětovat se vášním, jež člověk necítí? Ó smutné devatenácté století!_
 
 — GIRODET
@@ -58,3 +60,5 @@ Prudce vstala a otevřela zásuvku Juliánova stolu stojícího na dva kroky př
 Ach ne, odpusť, příteli,“ dodala náhle a vrhla se mu k nohám; „pohrdej mnou, chceš-li, ale miluj mě, nemohu již žít bez tvé lásky.“ A omdlela.
 
 „Konečně mi ta pyšná dívka leží u nohou,“ řekl si Julián.
+
+</section>

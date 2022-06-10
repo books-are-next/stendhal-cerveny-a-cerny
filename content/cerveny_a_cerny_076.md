@@ -3,6 +3,8 @@ title: 40\. Klid
 contentType: prose
 ---
 
+<section>
+
 _Tehdy jsem byl blázen, ale dnes jsem již moudřejší. Ó filosofe, jenž vidíš jen okamžité jevy, jak jsi krátkozraký! Tvůj zrak nedovede sledovat podzemní práci vášní._
 
 — GOETHE
@@ -54,3 +56,5 @@ _Nedostavím se k hlavnímu přelíčení, poněvadž by má přítomnost mohla 
 _Co mohou jeho nepřátelé proti tomu uvést? Zranění, které zavinila jedna z těch chvil nepříčetnosti, jež mé děti samy u svého vychovatele pozorovaly, je tak málo nebezpečné, že ani ne po dvou měsících mi dovolilo přijet poštou z Verrières do Besançonu. Dovím-li se, že jen sebeméně váháte zachránit člověka tak nevinného před nelidskostí zákonů, vstanu z lůžka, na němž mě zdržuje jedině příkaz mého muže, a přijdu se Vám vrhnout k nohám._
 
 _Prohlaste, prosím, že nejednal s rozvahou, a nebude si muset vyčítat krev nevinného atd. atd._
+
+</section>
