@@ -3,6 +3,8 @@ title: 30\. Ctižádostivec
 contentType: prose
 ---
 
+<section>
+
 _Je pouze jediný vznešený titul: titul vévodský; markýz je směšný; při slově vévoda se lidé ještě ohlížejí._
 
 —EDINBURGH REVIEW
@@ -284,3 +286,5 @@ Doprovodila ho až k oknu pokojíku; pak ukryla jeho šaty. Konečně otevřela 
 „To není pan de Rênal,“ pomyslil si, „ten střílí hůř.“ Psi běželi tiše vedle něho; druhá rána přerazila patrně jednomu z nich nohu, neboť začal žalostně výt. Julián přeskočil zeď jedné terasy, skrývaje se běžel asi padesát kroků a pak se dal jiným směrem. Slyšel hlasy, které na sebe volaly, a uviděl zřetelně svého nepřítele, sluhu, střílet z pušky; také z druhé strany nájemce dvora začal střílet, ale Julián už doběhl k břehu Doubsu a oblekl se.
 
 Za hodinu byl na míli od Verrières na ženevské silnici. ,,Budou-li mít podezření,“ pomyslil si, „budou mě hledat na silnici vedoucí do Paříže.“
+
+</section>

@@ -3,6 +3,8 @@ title: 8\. Drobné události
 contentType: prose
 ---
 
+<section>
+
 _Pak vzdechy hlubší jen, že potlačené,  
           pohledy loupené, a tím jen dražší,  
 a nach, jenž bez příčiny v tvář se žene…_
@@ -98,3 +100,5 @@ Některé Napoleonovy výroky o ženách a jeho úvahy o románech, jež za jeho
 Nastala velká vedra. Večery trávili obyčejně pod ohromnou lipou, několik kroků od domu. Byla tam hluboká tma. Jednoho večera mluvil Julián s velkým zápalem a oddával se radosti z toho, že dovede tak dobře mluvit ve společnosti mladých žen; při pohybu rukou se dotkl ruky paní de Rênal jíž se opírala o lenoch dřevěné zahradní židle.
 
 Paní de Rênal rychle ruku odtáhla, ale Juliánovi probleskla hlavou myšlenka, že je jeho povinností dosíci toho, aby neodtahovala ruku, když se jí dotkne. Myšlenka, že musí splnit povinnost, a pocit, že by se zesměšnil nebo že by ho to ponížilo, kdyby nedosáhl toho, co si umínil, udusila ihned v jeho srdci všechno štěstí.
+
+</section>

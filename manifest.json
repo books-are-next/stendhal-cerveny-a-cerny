@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stendhal-cerveny-a-cerny-918f16d",
-  "revision": "918f16d",
+  "identifier": "stendhal-cerveny-a-cerny-49ee5ee",
+  "revision": "49ee5ee",
   "readingOrder": [
     "promo.html",
     "cerveny_a_cerny_005.html",
@@ -93,8 +93,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 09:39:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652348379781
+    "date": "Fri Jun 10 2022 17:57:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883839402
   },
   "documents": [
     {
@@ -112,9 +112,9 @@
     {
       "title": "DÍL PRVNÍ",
       "file": "cerveny_a_cerny_005.html",
-      "words": 2,
-      "chars": 9,
-      "ideas": 1,
+      "words": 7,
+      "chars": 37,
+      "ideas": 3,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -732,9 +732,9 @@
     {
       "title": "DÍL DRUHÝ",
       "file": "cerveny_a_cerny_036.html",
-      "words": 2,
-      "chars": 9,
-      "ideas": 1,
+      "words": 8,
+      "chars": 55,
+      "ideas": 3,
       "role": "chapter",
       "order": 32,
       "prev": "cerveny_a_cerny_035.html",
@@ -1672,9 +1672,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 104,
-      "chars": 671,
-      "ideas": 15,
+      "words": 44,
+      "chars": 322,
+      "ideas": 6,
       "role": "colophon",
       "order": null,
       "prev": "cerveny_a_cerny_082.html",
@@ -1692,14 +1692,14 @@
   ],
   "totals": {
     "all": {
-      "words": 143691,
-      "chars": 876988,
-      "ideas": 3786
+      "words": 143642,
+      "chars": 876713,
+      "ideas": 3781
     },
     "chapters": {
-      "words": 143581,
-      "chars": 876283,
-      "ideas": 3767
+      "words": 143592,
+      "chars": 876357,
+      "ideas": 3771
     }
   }
 }

@@ -3,6 +3,8 @@ title: 24\. Štrasburk
 contentType: prose
 ---
 
+<section>
+
 _Okouzlení! Máš všechnu sílu lásky, všechnu její schopnost zakoušet neštěstí. Jedině její kouzelné rozkoše, její sladké požitky jsou mimo tvou oblast. Nemohl jsem říci, když jsem ji viděl spát: je celá moje se svou andělskou krásou i se svými sladkými slabostmi! Hle, je v mé moci tak, jak ji nebe ve svém milosrdenství stvořilo, aby okouzlovala lidské srdce._
 
 — ÓDA SCHILLEROVA
@@ -108,3 +110,5 @@ Nedá se nic dělat, budu se muset dvořit paní de Fervaques. Bude to snad troc
 Je to cizinka; mohu tedy studovat novou povahu.
 
 Jsem blázen, topím se; mám se řídit radami přítele a nespoléhat se sám na sebe.“
+
+</section>

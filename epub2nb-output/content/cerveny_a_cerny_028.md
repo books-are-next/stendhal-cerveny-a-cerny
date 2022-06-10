@@ -3,6 +3,8 @@ title: 23\. Trampoty vysokého úředníka
 contentType: prose
 ---
 
+<section>
+
 _Potěšení chodit s hlavou vzhůru po celý rok je draze vykoupeno několika čtvrthodinkami, které je třeba přečkat._
 
 — CASTI
@@ -231,3 +233,5 @@ Když se rozednívalo a museli se rozloučit, paní de Rênal neměla už ani sl
 „Mrzí mě, že se nemůžete rozloučit se Stanislavem,“ řekla chladně.
 
 Studená objetí té živoucí mrtvoly ho nakonec hluboce dojala; několik mil cesty nemohl myslit na nic jiného. Byl nevýslovně smuten, a než přešel hory, dokud mohl vidět věž verrièreského kostela, stále se ohlížel.
+
+</section>

@@ -3,6 +3,8 @@ title: 38\. Mocný člověk
 contentType: prose
 ---
 
+<section>
+
 _Ale v jejím chování je tolik tajuplného, její postava je tak elegantní! Kdo to asi je?_
 
 — SCHILLER
@@ -88,3 +90,5 @@ Abbé de Frilair si byl nyní jist svou mocí. Dal Matyldě na srozuměnou (bezp
 Až bude vylosováno šestatřicet porotců, zakročí prý přímo a osobně alespoň u třiceti z nich.
 
 Kdyby se Matylda nebyla panu de Frilair tak líbila, byl by s ní mluvil tak otevřeně až při pátém nebo šestém setkání.
+
+</section>

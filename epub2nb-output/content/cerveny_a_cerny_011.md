@@ -3,6 +3,8 @@ title: 6\. Nuda
 contentType: prose
 ---
 
+<section>
+
 _Nevím již ani, co jsem a co dělám._
 
 — MOZART (FIGARO)
@@ -126,3 +128,5 @@ Večer se přihrnuli všichni známí pana de Rênal, aby se podívali na ten z�
 „Ne, pane starosto,“ odpověděl Julián chladně, „budete-li mě chtít propustit, budu muset odejít. Smlouva, která mne váže, kdežto vás nezavazuje k ničemu, není rovnoprávná, nepřistupuji na ni…“
 
 Julián se uměl tak dobře chovat, že ani ne za měsíc po jeho příchodu do domu si ho vážil už i pan de Rênal. Protože farář se hněval s panem de Rênal i s panem Valenodem, nemohl nikdo prozradit dřívější Juliánův vášnivý obdiv pro Napoleona; nyní o něm mluvil jenom s hrůzou.
+
+</section>

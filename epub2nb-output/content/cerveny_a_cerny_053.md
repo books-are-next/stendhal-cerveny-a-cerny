@@ -3,6 +3,8 @@ title: 17\. Starý meč
 contentType: prose
 ---
 
+<section>
+
 _Budu teď vážný; – už je věru čas,  
 vždyť smích dnes mají za věc  
                                           povážlivou –  
@@ -89,3 +91,5 @@ Julián se uklonil a odešel beze slova. Markýz se udiveně díval za ním. Jul
 „Nesmím se tedy ani vzdálit,“ pomyslil si, „Bůh ví, jak dlouho mě markýz zdrží v Paříži; Bože, co se se mnou stane? A nemám jediného přítele, s nímž bych se mohl poradit; abbé Pirard by mě nenechal domluvit ani první větu, hrabě Altamira by mi navrhl, abych se připojil k nějakému spiknutí. Vždyť šílím, cítím, že šílím!
 
 Kdo mi poradí? Co se se mnou stane?“
+
+</section>

@@ -3,6 +3,8 @@ title: 7\. Spříznění volbou
 contentType: prose
 ---
 
+<section>
+
 _Umějí se dotknout srdce jen urážkou._
 
 — JEDEN Z MODERNÍCH
@@ -122,3 +124,5 @@ Z vyprávění starého štábního lékaře o dobré společnosti, jak se jemu 
 Od Napoleonova pádu je jakákoliv galantnost na venkově přísně zapovězena. Každý se bojí, že by tím přišel o místo. Darebáci hledají oporu v kněžstvu a pokrytectví učinilo nejkrásnější pokroky i v liberálních kruzích. Nudy přibývá. Nezbývá jiná zábava než četba a zemědělství.
 
 Paní de Rênal, bohatá dědička zbožné tety, provdaná v šestnácti letech za solidního šlechtice, nezakusila ani neviděla dosud nic, co by se jen podobalo lásce. O lásce s ní mluvil jenom její zpovědník, dobrý farář Chélan, když se jí počal pan Valenod dvořit, a učinil jí o ní obraz tak ohavný, že si pod tím slovem představovala nejhnusnější prostopášnost. Četla-li v několika románech, které jí přišly náhodou do rukou, o lásce, pokládala ji za výjimku, nebo dokonce za něco nepřirozeného. Díky této nevědomosti byla paní de Rênal dokonale šťastna, mohla-li se neustále zabývat Juliánem, a ani jí nenapadlo, aby si dělala sebemenší výčitky.
+
+</section>

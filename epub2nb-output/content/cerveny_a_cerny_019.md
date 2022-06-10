@@ -3,6 +3,8 @@ title: 14\. Anglické nůžky
 contentType: prose
 ---
 
+<section>
+
 _Šestnáctiletá dívka měla pleť jako růže a červenila si tváře._
 
 — POLIDORI
@@ -56,3 +58,5 @@ Julián si vzal do hlavy, že bude hrát úlohu Dona Juana; a protože nikdy nem
 Ve Verrières našel Julián pana Chélana zaměstnaného stěhováním; byl konečně opravdu sesazen; vikář Maslon přišel na jeho místo. Julián pomohl dobrému faráři a přitom mu napadlo napsat Fouquému, že neodolatelná náklonnost, kterou cítí pro svatý úřad, mu zpočátku bránila přijmout jeho laskavou nabídku, ale že byl právě svědkem takové nespravedlivosti, že by bylo pro něho asi prospěšnější, kdyby se nevěnoval kněžskému povolání.
 
 Julián pokládal za velké chytráctví, použije-li sesazení verrièreského  faráře k tomu, aby si nechal zadní dvířka a mohl se vrátit k obchodu, kdyby v něm nízké opatrnictví zvítězilo nad sklonem k hrdinství.
+
+</section>

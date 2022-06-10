@@ -3,6 +3,8 @@ title: 14\. Myšlenky mladé dívky
 contentType: prose
 ---
 
+<section>
+
 _Co zmatku! Kolik bezesných nocí! Pane Bože! Sama si zaviním, že mnou budou pohrdat? Dokonce i on mnou bude pohrdat. Ale on odjíždí, odchází ode mne._
 
 — ALFRED DE MUSSET
@@ -82,3 +84,5 @@ Julián dělal vtipy a nepřiznával si ještě všechno, co si myslil; paní de
 V pět hodin dostal Julián třetí dopis; byl hozen ze dveří knihovny. Slečna de la Mole opět utekla. „Je posedlá psaním!“ řekl si se smíchem, „vždyť přece můžeme tak pohodlně spolu mluvit! Nepřítel chce mít ode mne dopisy, a dokonce několik, to je jasné.“ Nespěchal s otvíráním dopisu. „Opět uhlazené fráze,“ myslil si; ale když jej četl, zbledl. List obsahoval jen osm řádků:
 
 „Musím s Vámi mluvit; musím s Vámi mluvit dnes v noci; v okamžiku, kdy bude odbíjet jedna hodina po půlnoci, buďte v zahradě. Vezměte velký zahradníkův žebřík, který je u studny; přistavte jej k mému oknu a vystupte ke mně. Svítí sice měsíc, ale na tom nesejde.“
+
+</section>

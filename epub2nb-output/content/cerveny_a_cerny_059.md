@@ -3,6 +3,8 @@ title: 23\. Kněžstvo, lesy, svoboda
 contentType: prose
 ---
 
+<section>
+
 _Prvním zákonem všeho tvorstva je: zachovat se, žít. Sejete bolehlav a žádáte, aby vám uzrály klasy!_
 
 — MACHIAVELLI
@@ -148,3 +150,5 @@ To byla jediná slova, která od něho Julián uslyšel. Stačila však, aby v n
 Julián jel do Štrasburku dva dny. Zdálo se mu, že tam stejně nemá co dělat. Udělal velkou okliku. „Jestliže mě ten zpropadený abbé Castanède poznal, neztratí tak snadno mou stopu… A jakou radost by měl, kdyby se mi mohl vysmát a mé poslání zmařit!“
 
 Abbé Castanède, představený kněžské policie na celé severní hranici, ho naštěstí nepoznal. A štrasburští jezuité přes svou velkou horlivost nepomyslili na to, aby Juliána pozorovali. V modrém kabátě s řádem na prsou vypadal jako mladý důstojník, velmi dbalý o svůj zevnějšek.
+
+</section>

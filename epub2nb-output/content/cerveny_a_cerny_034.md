@@ -3,6 +3,8 @@ title: 29\. První povýšení
 contentType: prose
 ---
 
+<section>
+
 _Poznal své století, poznal svůj departement, a proto je bohatý._
 
 — LE PRÉCURSEUR
@@ -105,13 +107,17 @@ Jednoho dne dostal abbé Pirard lístek, aby se v nutné věci dostavil bez odkl
 
 Dopis byl krátký:
 
-  
+</section>
+
+<section>
 
 _Vyprosťte se, drahý abbé, ze všech venkovských mrzutostí a přijeďte si oddechnout do Paříže. Posílám Vám svůj vůz, který má nařízeno čekat čtyři dny na Vaše rozhodnutí. Budu Vás sám až do úterka v Paříži očekávat. Stačí mi jen vaše svolení, abych přijal Vaším jménem jednu z nejbohatších far v okolí Paříže. Nejbohatší z Vašich budoucích farníků Vás sice ještě nikdy neviděl, ale je Vám oddán více, než si můžete pomyslit; je to Váš_
 
 _markýz de la Mole._
 
-  
+</section>
+
+<section>
 
 Přísný abbé Pirard, aniž si to uvědomoval, miloval svůj seminář, v němž měl tolik nepřátel a jemuž po patnáct let věnoval všechny své myšlenky. Dopis pana de la Mole působil na něho, jako by se mu zjevil lékař mající provést krutou a nezbytnou operaci. Jeho sesazení bylo jisté. Smluvil si s intendantem schůzku za tři dny.
 
@@ -220,3 +226,5 @@ Biskup ho pozval k obědu; aby trochu pozlobil generálního vikáře de Frilair
 Večer zanesla Jeho Milost svůj obdiv pro abbé Pirarda k markýze de Rubempré. Byla to pro vznešenou besançonskou společnost velká novina; kolovalo mnoho dohadů o té neobyčejné přízni. Viděli už abbé Pirarda biskupem. Ti největší chytráci myslili, že se pan de la Mole stane ministrem, a proto si toho dne dovolili usmívat se pánovitosti, s jakou abbé de Frilair ve společnosti vystupoval.
 
 Druhého dne ráno lidé skoro běhali na ulicích za abbé Pirardem a kupci se stavěli do dveří krámů, když Pirard šel vyjednávat s markýzovými soudci. Tentokrát ho poprvé přijali vlídně. Přísný jansenista byl rozhořčen vším, co viděl; jednal dlouho s advokáty, jež vybral pro markýze de la Mole, a pak se vydal na cestu do Paříže. Při loučení s několika přáteli z koleje, kteří ho doprovodili až ke kočáru a obdivovali erb na něm, řekl v slabé chvilce, že po patnáctiletém spravování semináře odchází z Besançonu s úsporou pěti set dvaceti franků. Přátelé ho s pláčem objali a řekli si mezi sebou: „Tu lež si mohl dobrý abbé ušetřit, je přece příliš směšná.“ Všední lidé, zaslepení láskou k penězům, nedovedli pochopit, že právě jeho přímá povaha poskytovala abbé Pirardovi dosti síly, aby dovedl šest let bojovat sám proti Marii Alacoquové,[\[12\]](./resources/undefined) Srdci Ježíšovu, jezuitům a proti svému biskupovi.
+
+</section>

@@ -3,6 +3,8 @@ title: 11\. Večer
 contentType: prose
 ---
 
+<section>
+
 _Leč vlídný přec ten Juliin byl chlad  
      a s lehkým chvěním ruka její štíhlá  
 vyklouzla z jeho, ale byl ten chvat  
@@ -53,3 +55,5 @@ Když se chvílemi zbavila hrozné myšlenky na cizoložství a na veřejnou han
 Najednou se u její postele objevilo světlo; byla to Elisa.„Má snad rád vás?“ zvolala paní de Rênal ve svém blouznění.
 
 Komorná byla tak udivena rozčilením, v němž viděla svou paní, že si naštěstí toho podivného výkřiku vůbec nepovšimla. Paní de Rênal si uvědomila svou neopatrnost. „Mám horečku,“ pravila, „myslím, že trochu blouzním, zůstaňte u mne.“ Poněvadž byla nucena se ovládat, vzpamatovala se úplně a necítila se už tak nešťastná; nabyla zase duševní rovnováhy, jíž v polospánku pozbyla. Aby se zbavila upřeného pohledu komorné, nařídila jí, aby jí předčítala noviny, a zatímco děvče jednotvárným hlasem četlo dlouhý článek z Quotidienne**_,_** předsevzala si paní de Rênal, že se k Juliánovi, až se s ním opět setká, bude chovat naprosto chladně.
+
+</section>

@@ -3,6 +3,8 @@ title: 41\. Rozsudek
 contentType: prose
 ---
 
+<section>
+
 _Na ten slavný proces bude dlouho celý kraj vzpomínat. Zájem o obžalovaného hraničil s rozčilením; to proto, že jeho zločin budil úžas, ale nebudil hrůzu. I kdyby byl jeho zločin býval hrozný, ten mladý muž byl přece tak krásný! Jeho šťastná, tak brzy ukončená životní dráha zvyšovala pohnutí. Bude odsouzen? ptaly se ženy svých známých a bylo vidět, s jakou úzkostí čekají odpověď._
 
 — SAINTE-BEUVE
@@ -92,3 +94,5 @@ V tu chvíli zaslechl výkřik, který ho opět navrátil do přítomné skuteč
 „Nesmím tomu lotru Valenodovi poskytnout důvod k posměchu,“ pomyslil si Julián. „S jakou nasládlou a zarmoucenou tváří pronesl prohlášení, po němž následuje rozsudek smrti! Naproti tomu chudák předseda poroty, ačkoliv je již řadu let soudcem, měl slzy v očích, když vynášel rozsudek. Jakou má Valenod radost, že se pomstil za naše bývalé soupeřství u paní de Rênal!… Už ji ani neuvidím! Je po všem. Vím, že poslední rozloučení mezi námi není možné… Jak bych byl šťasten, kdybych jí mohl říci, jakou hrůzu mám ze svého zločinu!
 
 Řekl bych jí jenom: Byl jsem spravedlivě odsouzen.“
+
+</section>

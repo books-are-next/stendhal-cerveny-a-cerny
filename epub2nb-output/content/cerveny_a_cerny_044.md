@@ -3,6 +3,8 @@ title: 8\. Které vyznamenání vyznamenává?
 contentType: prose
 ---
 
+<section>
+
 _„Tvá voda mne neobčerstvuje,“ řekl žíznící génius. A přece je to nejchladnější studna z celého Diar-Bekru._
 
 — PELLICO
@@ -162,3 +164,5 @@ Ale ani tanec, ani přání líbit se jednomu z nejhezčích kavalírů nemohlo 
 Nejpochybnější z mých předností jsou ty, pro které mi všichni celý večer lichotí. Duchaplná myslím jsem, neboť naháním zřejmě všem strach. Odváží-li se mluvit o nějakém vážném předmětu, po pěti minutách jsou celí udýchaní a tváří se, že udělali nějaký objev, ačkoliv jsem o tom celou hodinu mluvila. Jsem krásná, mám přednost, pro kterou by byla paní de Staël vše obětovala, a přece je jisto, že umírám nudou. Je nějaký důvod, proč bych se měla méně nudit, zaměním-li své jméno za jméno markýze Croisenoise?“
 
 „Ale proboha!“ dodala, majíc skoro chuť plakat, „což není markýz dokonalý muž? Je to mistrovské dílo výchovy našeho století. Sotva se na něho podíváte, a již vám řekne něco milého, a dokonce i duchaplného; je statečný… Ale ten Sorel je zvláštní člověk,“ řekla si a její oči pozbyly svého zasmušilého výrazu a vzplály hněvem. „Řekla jsem mu, že s ním chci mluvit, a on se neuráčil opět ukázat.“
+
+</section>

@@ -3,6 +3,8 @@ title: 11\. Vláda mladé dívky
 contentType: prose
 ---
 
+<section>
+
 _Obdivuji se její kráse, ale bojím se jejího ducha._
 
 — MÉRIMÉE
@@ -42,3 +44,5 @@ Croisenoisovi nechybí nic a bude po celý život pouhým zpola ultramontánním
 Který velký čin není ve chvíli, kdy jej podnikáme, výstředností? Obyčejným lidem se zdá uskutečnitelným, teprve když je vykonán. Ano, v mém srdci bude kralovat láska se všemi svými zázraky; cítím to podle vzrušení, které se mne zmocňuje. Nebesa mi byla dlužna tuto přízeň. Nezahrnula nadarmo jedinou bytost všemi přednostmi. Mé štěstí bude mne hodno. Žádný z mých dnů se nebude strnule podobat předešlému dni. Již v tom je velikost a odvaha, že se osměluji milovat muže, který společensky stojí tak hluboko pode mnou. Ale jde o to: bude mne i nadále hoden? Při první slabosti, kterou u něho zpozoruji, ho opustím. Dívka mého rodu, s rytířskou povahou, kterou mi všichni přiznávají (byl to výrok jejího otce), nesmí se chovat hloupě.
 
 A nehrála bych takovou hloupou úlohu, kdybych milovala markýze Croisenoise? Měla bych v novém vydání štěstí svých sestřenic, jimiž tak dokonale pohrdám. Vím předem všechno, co by mi ubohý markýz říkal, všechno, co bych mu odpovídala. Jakápak láska, při níž je člověku do zívání? To bych se už stejně mohla stát pobožnůstkářkou. Podepsala bych smlouvu, jako tomu bylo při sňatku mé nejmladší sestřenice, a dědeček a babička by byli dojati, pokud by nebyli rozmrzelí pro poslední podmínku, kterou den předtím vpravil do smlouvy notář druhé strany.“
+
+</section>

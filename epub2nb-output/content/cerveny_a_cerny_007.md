@@ -3,6 +3,8 @@ title: 2\. Starosta
 contentType: prose
 ---
 
+<section>
+
 _Důležitost! Pane, to není nic? Úcta hlupáků, podiv dětí, závist boháčů, opovržení moudrého člověka._
 
 — BARNAVE
@@ -38,3 +40,5 @@ Ten milý Pařížan, který se verrièreskému starostovi tak protivil, nebyl n
 „Ale vždyť vy je, příteli, nikdy nečtete.“
 
 „Ale člověk přece jen uslyší o těch jakobínských článcích; to vás rozladí a překáží to v práci pro obecné dobro. Já to faráři nikdy neodpustím.“
+
+</section>

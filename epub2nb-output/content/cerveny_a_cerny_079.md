@@ -3,6 +3,8 @@ title: 43\.
 contentType: prose
 ---
 
+<section>
+
 Za hodinu, když opět pevně spal, byl probuzen slzami, jež mu kanuly na ruku.
 
 „Ach, to je zase Matylda,“ pomyslil si ještě napolo ve spánku. „Umínila si, že mě něžností přiměje k tomu, abych změnil své rozhodnutí.“ Byl mrzutý vyhlídkou na nový patetický výstup a neotevřel oči. Vzpomněl si na verše Belfagora[\[26\]](./resources/undefined) prchajícího před svou ženou.
@@ -112,3 +114,5 @@ Za čtvrt hodiny po příchodu kněze Julián cítil, že se stal úplným zbab�
 Byl by se již skoro prozradil nějakou známkou slabosti anebo by se byl vrhl na kněze a zardousil ho svým řetězem, když tu připadl na myšlenku poprosit toho svatého muže, aby ještě téhož dne šel za něho odsloužit mši za čtyřicet franků.
 
 Bylo již poledne a kněz se tedy vytratil.
+
+</section>

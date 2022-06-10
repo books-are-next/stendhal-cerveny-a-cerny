@@ -3,6 +3,8 @@ title: 6\. Konverzační umění
 contentType: prose
 ---
 
+<section>
+
 _Jejich velkým posláním je klidně posuzovat drobné denní příhody v životě národů. Svou rozvahou mají zabránit velkému hněvu nad malými příčinami nebo nad událostmi, které ústní podání překroutilo._
 
 — GRATIUS
@@ -98,3 +100,5 @@ Markýz mu nedal ani domluvit, když se chtěl Julián ohradit, že nijak nepři
 „Pan de Beauvoisis nechtěl, aby se o něm vykládalo, že se bil se synem tesaře.“
 
 „Vím, vím,“ řekl pan de la Mole, „a já nyní musím tu pověst potvrdit, neboť se mi hodí. Ale mám k vám prosbu, která vás bude stát jenom malou půlhodinku. Choďte každý den v půl dvanácté do vestibulu Opery a pozorujte vznešenou společnost vycházející z divadla. Máte někdy ještě venkovské způsoby, musíte se jich zbavit. Ostatně nemůže škodit, budete-li znát aspoň od vidění vysoké osobnosti, k nimž vás mohu jednoho dne poslat za nějakou záležitostí. Zajděte si do divadelní kanceláře a představte se; mají tam pro vás vstupenku.“
+
+</section>

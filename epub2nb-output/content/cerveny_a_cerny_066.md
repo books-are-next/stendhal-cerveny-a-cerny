@@ -3,6 +3,8 @@ title: 30\. Lóže v komické opeře
 contentType: prose
 ---
 
+<section>
+
 _… jak nejčernější mrak  
 nejtěžší hlásí bouř…_
 
@@ -83,3 +85,5 @@ Maršálčina lóže byla naštěstí plná dam. Musel zůstat u dveří a byl �
 „Dnes není jejich operní den,“ myslil si Julián; „jaká horlivost!“
 
 Matylda přiměla matku, aby s ní šla do Opery, ačkoliv lóže ve třetím pořadí, kterou jim jedna domácí pochlebnice velmi ochotně nabídla, neodpovídala jejich postavení. Chtěla vidět, bude-li Julián večer s maršálovou.
+
+</section>

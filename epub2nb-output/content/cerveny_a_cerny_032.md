@@ -3,6 +3,8 @@ title: 27\. První životní zkušenosti
 contentType: prose
 ---
 
+<section>
+
 _Nynější doba, můj Bože, toť archa Páně. Běda tomu, kdo se jí dotkne._
 
 —DIDEROT
@@ -44,3 +46,5 @@ Julián to tehdy pokládal za dobrou příležitost, aby se vytasil s de Maistro
 Juliánovy rozumné úsudky byly tedy novým zločinem. Jeho spolužáci o něm přemýšleli a všechnu hrůzu, kterou v nich budil, vložili nakonec do jediného slova: říkali mu MARTIN LUTHER**_;_** „obzvláště pro tu ďábelskou logiku, na níž si tolik zakládá,“ říkali mezi sebou.
 
 Někteří mladí seminaristé měli svěžejší pleť a mohli být pokládáni za hezčí, než byl Julián, ale on měl bílé ruce a nemohl zatajit, že si zvykl na úzkostlivou čistotu. Ve smutném domě, do něhož ho osud uvrhl, se to nepokládalo za žádnou přednost. Špinaví venkované, mezi nimiž žil, prohlásili, že má volné mravy. Bojíme se, že bychom čtenáře unavili vypravováním nesčíslných nehod Juliánových. Nejsilnější z jeho spolužáků byli by ho například rádi zbili; byl nucen ozbrojit se železným kružítkem a posunky jim dát najevo, že se bude bránit. Posunky není možno v udání některého donašeče zaznamenat tak snadno jako slova.
+
+</section>

@@ -3,6 +3,8 @@ title: 1\. Městečko
 contentType: prose
 ---
 
+<section>
+
 _Shromáždi tisíce lepších v méně pestré kleci._
 
 — HOBBES
@@ -34,3 +36,5 @@ Místní moudré hlavy ovšem tuto úmluvu odsuzovaly. Jednou v neděli před č
 Chce-li si někdo ve Verrières získat veřejnou vážnost, nechť si staví sebevíce zdí, nesmí použít plánů, jež přinášejí z Itálie zedníci, kteří cestou do Paříže přecházejí na jaře jurské průsmyky. Taková novota by připravila nerozumnému budovateli navždy pověst ztřeštěnce a navždy by pozbyl úcty u moudrých a umírněných lidí, kteří rozhodují o vážnosti ve Franche–Comté.
 
 Ti moudří lidé tam skutečně provádějí nejnudnější despotismus**_,_** pro toto ošklivé slovo je život v malých městech nesnesitelný pro každého, kdo žil ve velké republice, která se jmenuje Paříž. Tyranie veřejného mínění – a jakého mínění! – je právě tak hloupá v malých městech francouzských jako ve Spojených státech amerických.
+
+</section>

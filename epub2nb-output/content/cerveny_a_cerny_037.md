@@ -3,6 +3,8 @@ title: 1\. Slasti venkova
 contentType: prose
 ---
 
+<section>
+
 _O rus quando ego te aspiciam![**\[13\]**](./resources/undefined)_
 
 — VERGILIUS
@@ -160,3 +162,5 @@ Vážnost vrátného a zejména čistota dvora v něm vzbudily obdiv. Slunce kr�
 „Jaká krásná stavba!“ řekl svému příteli.
 
 Palác byl jednou z těch bezvýrazných budov předměstí saintgermainského, jaké se stavěly v době Voltairovy smrti. Nikdy nebyla móda tak daleko od krásy jako tehdy.
+
+</section>

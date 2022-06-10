@@ -3,6 +3,8 @@ title: 42\.
 contentType: prose
 ---
 
+<section>
+
 Když Juliána odvedli zpět do vězení, zavřeli ho do místnosti určené pro vězně odsouzené k smrti. On, jenž si obyčejně všímal i nejnepatrnějších okolností, si nevšiml, že ho nevedou zpět do jeho věže. Myslil na to, co by řekl paní de Rênal, kdyby před svou poslední hodinkou měl to štěstí, že by ji ještě uviděl. Představoval si, že by ho nenechala mluvit, a proto jí chtěl hned prvními slovy vylíčit, jak svého zločinu lituje. „Ale jak bych ji po tom, co jsem udělal, mohl přesvědčit, že miluji jedině ji? Vždyť jsem ji chtěl zabít ze ctižádosti nebo z lásky k Matyldě.“
 
 Když si lehl do lůžka, ucítil, že má prostěradlo z hrubého plátna. Konečně pochopil. „Ach! Vždyť jsem ve vězení!“ řekl si. „Jsem odsouzen k smrti. A to právem…
@@ -25,7 +27,9 @@ Tedy budiž, příteli, ano, za tři dny budu sťat,“ odpověděl hlasu, kter�
 
 Vzpomněl si na toto místo z Rotrouova Václava**_:_**
 
-  
+</section>
+
+<section>
 
 LADISLAV:
 
@@ -98,3 +102,5 @@ Z formálních důvodů se snažil odsouzeného přimět, aby své rozhodnutí o
 Julián mu stiskl ruku. – „Děkuji vám, jste dobrý člověk. Budu o tom uvažovat.“
 
 A když Matylda s advokátem odešla, cítil mnohem větší přátelství k advokátovi než k ní.
+
+</section>

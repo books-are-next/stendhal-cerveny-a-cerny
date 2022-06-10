@@ -3,6 +3,8 @@ title: 13\. Prolamované punčochy
 contentType: prose
 ---
 
+<section>
+
 _Román: toť zrcadlo, jež neseme po cestě._  
 
 — SAINT-RÉAL
@@ -64,3 +66,5 @@ Julián odpověděl s povzdechem:
 Paní de Rênal se opřela o jeho rámě; přitiskla se k němu tak těsně, že ucítila na obličeji teplo jeho tváře.
 
 Noc strávili rozdílně. Paní de Rênal vášnivě prožívala největší duševní štěstí. Mladá koketní dívka, která záhy miluje, zvykne zmatkům lásky a ve věku, kdy je schopna skutečné lásky, chybí jí již kouzlo novosti. Paní de Rênal nikdy nečetla romány, a proto byl pro ni i nejmenší odstín štěstí něčím novým. Neodstrašovala ji žádná smutná pravda, ba ani přízrak budoucnosti. Viděla se za deset let stejně šťastnou jako nyní. I pomyšlení na ctnost a věrnost, kterou přísahala panu de Rênal, pomyšlení, které ji ještě před několika dny znepokojovalo, varovalo ji nadarmo. Zapudila je jako vetřelce. „Nikdy nic Juliánovi nedovolím,“ slíbila si, „budeme dále spolu žít jako dosud. Bude mi přítelem.“
+
+</section>

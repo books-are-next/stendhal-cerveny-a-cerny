@@ -3,6 +3,8 @@ title: 17\. První náměstek
 contentType: prose
 ---
 
+<section>
+
 _Ó, jak se jaro lásky podobá  
 dne dubnového nejistotné kráse!  
 kde slunce září v plné nádheře  
@@ -59,3 +61,5 @@ Ve chvílích, kdy je přítomnost příliš rozumných dětí nutila mluvit o v
 Často uprostřed vyprávění o nějakém důmyslném darebáctví, které bylo provedeno při stavbě cesty anebo při nějaké dodávce, nechávala se paní de Rênal unést svým temperamentem, a když se k němu chovala stejně důvěrně jako k dětem, musel ji Julián napomínat. Byly dny, kdy se jí skutečně zdálo, že ho má ráda jako své dítě. Což nemusela bez ustání odpovídat na jeho naivní otázky o tisícerých prostých věcech, jež každé dítě z dobré rodiny zná v patnácti letech? Ale za chvíli se mu obdivovala jako svému učiteli. Někdy ji jeho duševní převaha přímo lekala; viděla v duchu stále jasněji velkou budoucnost toho mladého kněze; viděla ho papežem, viděla ho ministerským předsedou, jako byl Richelieu.
 
 „Dožiji se tvé slávy?“ říkala Juliánovi. „Místo pro velkého muže je připraveno: monarchie, církev ho potřebují.“
+
+</section>

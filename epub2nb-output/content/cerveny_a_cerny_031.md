@@ -3,6 +3,8 @@ title: 26\. Svět čili co chybí boháči
 contentType: prose
 ---
 
+<section>
+
 _Jsem samoten na zemi, nikomu nestojím za vzpomínku. Všichni, jimž se dobře daří, mají nestoudné a zatvrzelé srdce a to já nemám. Nenávidí mne pro mou dobrotu. Ach, zemřu brzy buď hladem, nebo žalem z toho, že lidé jsou tak bezcitní._
 
 — YOUNG
@@ -146,3 +148,5 @@ Abbé šel za Juliánem a zamkl ho. Julián začal ihned prohlížet svůj kufr,
 Za dvě hodiny si ho dal ředitel zavolat.
 
 „Nelhal jste,“ řekl mu s méně přísným pohledem; „ale uschovat si takovou adresu je neopatrnost, jejíž dosah si nemůžete ani představit. Nešťastné dítě! Ještě za deset let vám to může škodit!“
+
+</section>

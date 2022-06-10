@@ -3,6 +3,8 @@ title: 24\. Krajské město
 contentType: prose
 ---
 
+<section>
+
 _Kolik hluku, kolik uspěchaných lidí! Kolik plánů do budoucnosti v hlavě dvacetiletého mladíka! Jaké rozptýlení pro lásku!_
 
 — BARNAVE
@@ -124,3 +126,5 @@ Pamatujte si, že tu najdete vždy přítelkyni a dostanete dobrý oběd za dvac
 „Nebudu moci mnoho jíst,“ řekl jí Julián, „jsem příliš rozčilen, až odejdu od vás, vstoupím do semináře.“
 
 Dobrá žena ho nenechala odejít, dokud mu nenaplnila kapsy zásobami. Konečně se Julián vydal na cestu k tomu strašnému místu. Hostinská mu přede dveřmi ukázala, kudy má jít.
+
+</section>

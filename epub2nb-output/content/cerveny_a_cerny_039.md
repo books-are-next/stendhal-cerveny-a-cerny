@@ -3,6 +3,8 @@ title: 3\. První kroky
 contentType: prose
 ---
 
+<section>
+
 _To nesmírné údolí, plné skvoucích světel a tolika tisíc lidí, mě oslňuje. Nikdo mě nezná a všichni mě předčí. Ztrácím hlavu._
 
 — REINA: BÁSNĚ
@@ -62,3 +64,5 @@ Při večeři vypravoval otci přes celý stůl o Juliánově smělosti; to bylo
 Přestože mu bylo prokazováno tolik laskavosti, cítil se Julián brzy v rodině de la Mole osamocen. Všechny jejich zvyky se mu zdály podivné a žádnému se nemohl přizpůsobit. Jeho přehmaty budily u služebnictva veselost.
 
 Abbé Pirard odjel na svou faru. „Je-li Julián slabá třtina, ať se zlomí; je-li odvážný, pomůže si sám,“ myslil si.
+
+</section>

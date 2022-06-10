@@ -3,6 +3,8 @@ title: 21\. Rozmluva s pánem
 contentType: prose
 ---
 
+<section>
+
 _Ach, naše křehkost vinna tím, ne my; jsme takovými, jak jsme stvořeny._
 
 — VEČER TŘÍKRÁLOVÝ
@@ -192,3 +194,5 @@ Paní de Rênal mu rychle vypravovala vše, co od rána udělala.
 „Tedy ani odvahu nemáte,“ řekla paní de Rênal s hrdostí urozené ženy.
 
 „Nesnížím se nikdy k tomu, abych o své odvaze mluvil,“ pravil Julián chladně, „to by bylo nízké. Podle skutků se musí soudit! Ale,“ dodal a uchopil ji za ruku, „netušíte ani, jak jsem vám oddán a jak jsem rád, že se mohu před tou krutou rozlukou s vámi rozloučit.“
+
+</section>

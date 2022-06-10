@@ -3,6 +3,8 @@ title: 13\. Spiknutí
 contentType: prose
 ---
 
+<section>
+
 _Úryvky řečí, náhodná setkání se mění v nejzřejmější důkazy v očích člověka nadaného obrazností, má-li vznětlivé srdce._
 
 — SCHILLER
@@ -126,3 +128,5 @@ Pak se vrátil veselý a čilý do domu markýze de la Mole. „A teď jsme na �
 „Jakže, slečno,“ psal Matyldě, „slečna de la Mole posílá po Arsènovi, lokaji svého otce, tak svádivý dopis ubohému tesařskému synkovi z Jury? Činí to bezpochyby proto, aby si pohrála s jeho prostoduchostí…“ A opsal nejvýmluvnější věty z dopisu, který právě dostal.
 
 Jeho dopis by byl dělal čest diplomatické rozvážnosti pana rytíře Beauvoisise. Bylo teprve deset hodin. Julián zpitý štěstím a pocitem své moci, tak novým pro takového ubožáka, šel do Italské opery. Slyšel zpívat svého přítele Geronima. Dosud nikdy ho hudba tak nenadchla. Cítil se jako bůh.
+
+</section>

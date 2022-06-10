@@ -3,6 +3,8 @@ title: 25\. Ministerstvo ctnosti
 contentType: prose
 ---
 
+<section>
+
 _Ale budu-li té rozkoše užívat tak rozumně a opatrně, nebude to pro mne už rozkoš._
 
 — LOPE DE VEGA
@@ -107,3 +109,5 @@ V chování zůstával věren plánu, který mu předepsal kníže Korazov. Kaž
 Úsilí, které vynakládal na to, aby Matylda myslela, že je z lásky vyléčen, stravovalo všechny jeho duševní síly. Seděl vedle maršálové jako neživý. Jeho oči pozbyly lesku, jako by trpěl velkou fyzickou bolestí.
 
 Jelikož názory paní de la Mole byly vždy pouze ohlasem názorů jejího mocného manžela, který ji mohl udělat vévodkyní, vychvalovala již několik dní Juliánovy zásluhy až do nebe.
+
+</section>

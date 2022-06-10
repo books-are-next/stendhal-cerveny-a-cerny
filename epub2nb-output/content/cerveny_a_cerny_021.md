@@ -3,6 +3,8 @@ title: 16\. Příští den
 contentType: prose
 ---
 
+<section>
+
 _Rty zvrátil k jejím rtům a ruka vrací v čelo jí příval vlasů poletavý…_
 
 — DON JUAN, zpěv I, strofa 170
@@ -68,3 +70,5 @@ Ve chvílích, kdy Julián zapomínal na svou ctižádost, obdivoval se nadšen�
 Julián nikdy předtím neviděl z takové blízkosti arzenál ženského válečného umění. „Není možné,“ říkal si, „aby v Paříži bylo něco krásnějšího!“ V těch chvílích proti svému štěstí nic nenamítal. Často mu upřímný obdiv a smyslové vzněty jeho milenky dovolovaly zapomenout na pošetilou teorii, která ho na počátku jeho milostného poměru činívala odměřeným a skoro směšným. Míval okamžiky, kdy přes sklon k pokrytectví nacházel zvláštní požitek v tom, mohl-li se vznešené dámě, která ho zbožňovala, přiznat, že nezná spoustu běžných maličkostí. Zdálo se mu, že společenské postavení jeho milenky ho povznáší. Pro paní de Rênal bylo zase nejsladší duchovní rozkoší, mohla-li toho geniálního mladého muže, kterému všichni prorokovali skvělou budoucnost, zasvěcovat do spousty drobných tajemství. Dokonce i podprefekt a pan Valenod se mu museli obdivovat; od té doby se jí nezdáli tak hloupí. Jenom paní Dervillové ani nenapadlo vyjadřovat tytéž city. Byla zoufalá nad tím, co, jak se aspoň domnívala, správně uhodla, a když viděla, že její rozumné rady jsou ženě, která v pravém slova smyslu ztratila hlavu, jenom nepříjemné, odjela z Vergy bez udání důvodu a paní de Rênal se jí raději ani neptala. Prolila pro ni několik slz a brzy se jí zdálo, že se její štěstí ještě zvětšilo. Po jejím odjezdu bývala skoro celý den s milencem sama.
 
 Julián se oddával tím více sladké společnosti své milenky, že pokaždé, kdykoli byl příliš dlouho ponechán sám sobě, znepokojoval ho ještě osudný návrh Fouquéův. V prvních dnech toho nového života míval okamžiky, kdy on, jenž nikdy nemiloval a nikdy dosud milován nebyl, nacházel takové štěstí v tom, že mohl být upřímný, až by se byl málem paní de Rênal vyznal ze ctižádosti, která až dosud byla přímo podstatou jeho života. Byl by se jí rád zeptal na radu v podivném pokušení, které v něm vzbuzovala Fouquéova nabídka, ale malá příhoda mu zabránila být upřímným.
+
+</section>

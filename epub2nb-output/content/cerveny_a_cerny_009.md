@@ -3,6 +3,8 @@ title: 4\. Otec a syn
 contentType: prose
 ---
 
+<section>
+
 _A bude to má vina, bude-li tomu tak?_
 
 — MACHIAVELLI
@@ -38,3 +40,5 @@ Lékař vykoupil někdy syna na celý den u otce Sorela a vyučoval ho latině a
 Sotva vešel Julián do domu, ucítil na rameně pádnou ruku otcovu; zachvěl se, protože čekal, že bude bit.
 
 „Řekni mi pravdu,“ křičel mu do uší tvrdý hlas starého sedláka. Otec jím točil jako dětská ruka olověným vojáčkem. Juliánovy velké černé oči, plné slz, se octly proti malým, šedým a zlým očím starého tesaře, který vypadal, jako by chtěl číst až na dně synovy duše.
+
+</section>

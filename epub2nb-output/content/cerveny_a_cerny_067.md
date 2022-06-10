@@ -3,6 +3,8 @@ title: 31\. Síla strachu
 contentType: prose
 ---
 
+<section>
+
 _To je tedy ten zázrak vaší civilizace! Z lásky jste učinili obyčejnou obchodní záležitost._
 
 — BARNAVE
@@ -84,3 +86,5 @@ Večer mu se smíchem vyčítala jeho náklonnost k paní de Fervaques: „Měš
 V době, kdy se domníval, že jím Matylda pohrdá, stal se Julián vskutku jedním z nejlépe se oblékajících pařížských mužů. Ale měl před lidmi toho druhu ještě tu výhodu, že když svou toaletu ukončil, již na ni nemyslil.
 
 Matyldu mrzelo, že Julián nepřestává opisovat Rusovy dopisy a posílat je maršálové.
+
+</section>

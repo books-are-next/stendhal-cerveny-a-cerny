@@ -3,6 +3,8 @@ title: 28\. Procesí
 contentType: prose
 ---
 
+<section>
+
 _Srdce všech byla dojata. Zdálo se, že Bůh sestoupil do těch úzkých gotických ulic, jež věřící celé vyzdobili a vysypali pískem._
 
 — YOUNG
@@ -78,3 +80,5 @@ Ale když biskup kráčel mimo ně, chvěl se Julián tak, že se abbé Chas vzd
 „Nermuťte se proto,“ řekl mu, „já už najdu nějakou příležitost.“
 
 Večer poslal pro seminární kapli deset liber svíček, které, jak vzkázal, mu Julián ušetřil svou pečlivostí a hbitostí při zhasínání. Nic nebylo méně pravda. Ubohý hoch byl sám jako na zhasnutí; byl skoro bez ducha. Od té chvíle, co spatřil paní de Rênal, nebyl schopen jediné myšlenky.
+
+</section>

@@ -3,6 +3,8 @@ title: 16\. Jedna hodina v noci
 contentType: prose
 ---
 
+<section>
+
 _Zahrada byla velmi rozsáhlá, upravená před několika lety s dokonalým vkusem. Ale stromy byly přes sto let staré. Bylo v tom něco venkovského._
 
 — MASSINGER
@@ -108,3 +110,5 @@ Vsedl na koně a vyhledával nejopuštěnější lesní kouty poblíž Paříže
 Necítila-li Matylda ani trochu něžnosti, bylo to proto, že celým svým chováním vůči němu, třebaže se ta slova zdají velmi podivná, jen plnila svou povinnost. Ve všech událostech dnešní noci nebylo pro ni nic nepředvídaného mimo bolest a hanbu, jež našla místo té úplné blaženosti, o níž mluví romány.
 
 „Zmýlila jsem se snad?“ řekla si. „Miluji ho vůbec?“
+
+</section>
