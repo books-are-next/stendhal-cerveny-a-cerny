@@ -7,7 +7,7 @@ contentType: prose
 
 _Budu teď vážný; – už je věru čas,  
 vždyť smích dnes mají za věc  
-                                          povážlivou –  
+             povážlivou –  
 zlu směj se – ‚Lotře!‘ řekne ctnosti hlas._
 
 — DON JUAN, zpěv XIII
