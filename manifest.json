@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stendhal-cerveny-a-cerny-a112bf0",
-  "revision": "a112bf0",
+  "identifier": "stendhal-cerveny-a-cerny-823de1c",
+  "revision": "823de1c",
   "readingOrder": [
     "promo.html",
     "cerveny_a_cerny_005.html",
@@ -93,8 +93,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:57:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272624951
+    "date": "Thu Jun 23 2022 10:28:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655980123955
   },
   "documents": [
     {
