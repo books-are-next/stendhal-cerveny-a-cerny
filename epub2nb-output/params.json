@@ -64,7 +64,7 @@
             "filename": "cerveny_a_cerny_003.md",
             "xhtml": "cerveny_a_cerny_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "cerveny_a_cerny_004.md",
             "xhtml": "cerveny_a_cerny_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -1104,7 +1104,7 @@
             "filename": "cerveny_a_cerny_083.md",
             "xhtml": "cerveny_a_cerny_083.html",
             "id": 82,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -1749,6 +1749,6 @@
       "user": "books-are-next",
       "repo": "stendhal-cerveny-a-cerny"
     },
-    "generatedAt": 1655979778601
+    "generatedAt": 1657182528439
   }
 }

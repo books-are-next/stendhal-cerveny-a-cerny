@@ -93,7 +93,7 @@ readingOrder:
   - cerveny_a_cerny_080.html
   - cerveny_a_cerny_081.html
   - cerveny_a_cerny_082.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

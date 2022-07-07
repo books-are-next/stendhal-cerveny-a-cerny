@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stendhal-cerveny-a-cerny-823de1c",
-  "revision": "823de1c",
+  "identifier": "stendhal-cerveny-a-cerny-2e22d9f",
+  "revision": "2e22d9f",
   "readingOrder": [
     "promo.html",
     "cerveny_a_cerny_005.html",
@@ -90,11 +90,11 @@
     "cerveny_a_cerny_080.html",
     "cerveny_a_cerny_081.html",
     "cerveny_a_cerny_082.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:28:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980123955
+    "date": "Thu Jul 07 2022 08:39:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183185326
   },
   "documents": [
     {
@@ -203,7 +203,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "4. Otec a syn",
+          "name": "4. Otec a syn",
           "id": null,
           "children": []
         }
@@ -303,7 +303,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "9. Večer na venkově",
+          "name": "9. Večer na venkově",
           "id": null,
           "children": []
         }
@@ -323,7 +323,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "10. Velká odvaha a malé štěstí",
+          "name": "10. Velká odvaha a malé štěstí",
           "id": null,
           "children": []
         }
@@ -483,7 +483,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "18. Král ve Verrières",
+          "name": "18. Král ve Verrières",
           "id": null,
           "children": []
         }
@@ -543,7 +543,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "21. Rozmluva s pánem",
+          "name": "21. Rozmluva s pánem",
           "id": null,
           "children": []
         }
@@ -563,7 +563,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "22. Jak se jednalo roku 1830",
+          "name": "22. Jak se jednalo roku 1830",
           "id": null,
           "children": []
         }
@@ -643,7 +643,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "26. Svět čili co chybí boháči",
+          "name": "26. Svět čili co chybí boháči",
           "id": null,
           "children": []
         }
@@ -783,7 +783,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "2. Vstup do světa",
+          "name": "2. Vstup do světa",
           "id": null,
           "children": []
         }
@@ -823,7 +823,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "4. Palác markýze de la Mole",
+          "name": "4. Palác markýze de la Mole",
           "id": null,
           "children": []
         }
@@ -843,7 +843,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "5. Citlivost a vznešená zbožná dáma",
+          "name": "5. Citlivost a vznešená zbožná dáma",
           "id": null,
           "children": []
         }
@@ -983,7 +983,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "12. Je to snad druhý Danton?",
+          "name": "12. Je to snad druhý Danton?",
           "id": null,
           "children": []
         }
@@ -1043,7 +1043,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "15. Je to spiknutí?",
+          "name": "15. Je to spiknutí?",
           "id": null,
           "children": []
         }
@@ -1063,7 +1063,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "16. Jedna hodina v noci",
+          "name": "16. Jedna hodina v noci",
           "id": null,
           "children": []
         }
@@ -1343,7 +1343,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "30. Lóže v komické opeře",
+          "name": "30. Lóže v komické opeře",
           "id": null,
           "children": []
         }
@@ -1658,7 +1658,7 @@
       "role": "chapter",
       "order": 78,
       "prev": "cerveny_a_cerny_081.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1671,11 +1671,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 123,
-      "chars": 806,
+      "chars": 805,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "cerveny_a_cerny_082.html",
       "next": null,
@@ -1692,8 +1692,8 @@
   ],
   "totals": {
     "all": {
-      "words": 143721,
-      "chars": 877197,
+      "words": 143720,
+      "chars": 877201,
       "ideas": 3791
     },
     "chapters": {
