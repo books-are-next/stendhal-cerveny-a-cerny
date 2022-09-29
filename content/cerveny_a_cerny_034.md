@@ -225,6 +225,58 @@ Biskup ho pozval k obědu; aby trochu pozlobil generálního vikáře de Frilair
 
 Večer zanesla Jeho Milost svůj obdiv pro abbé Pirarda k markýze de Rubempré. Byla to pro vznešenou besançonskou společnost velká novina; kolovalo mnoho dohadů o té neobyčejné přízni. Viděli už abbé Pirarda biskupem. Ti největší chytráci myslili, že se pan de la Mole stane ministrem, a proto si toho dne dovolili usmívat se pánovitosti, s jakou abbé de Frilair ve společnosti vystupoval.
 
-Druhého dne ráno lidé skoro běhali na ulicích za abbé Pirardem a kupci se stavěli do dveří krámů, když Pirard šel vyjednávat s markýzovými soudci. Tentokrát ho poprvé přijali vlídně. Přísný jansenista byl rozhořčen vším, co viděl; jednal dlouho s advokáty, jež vybral pro markýze de la Mole, a pak se vydal na cestu do Paříže. Při loučení s několika přáteli z koleje, kteří ho doprovodili až ke kočáru a obdivovali erb na něm, řekl v slabé chvilce, že po patnáctiletém spravování semináře odchází z Besançonu s úsporou pěti set dvaceti franků. Přátelé ho s pláčem objali a řekli si mezi sebou: „Tu lež si mohl dobrý abbé ušetřit, je přece příliš směšná.“ Všední lidé, zaslepení láskou k penězům, nedovedli pochopit, že právě jeho přímá povaha poskytovala abbé Pirardovi dosti síly, aby dovedl šest let bojovat sám proti Marii Alacoquové,[\[12\]](./resources/undefined) Srdci Ježíšovu, jezuitům a proti svému biskupovi.
+Druhého dne ráno lidé skoro běhali na ulicích za abbé Pirardem a kupci se stavěli do dveří krámů, když Pirard šel vyjednávat s markýzovými soudci. Tentokrát ho poprvé přijali vlídně. Přísný jansenista byl rozhořčen vším, co viděl; jednal dlouho s advokáty, jež vybral pro markýze de la Mole, a pak se vydal na cestu do Paříže. Při loučení s několika přáteli z koleje, kteří ho doprovodili až ke kočáru a obdivovali erb na něm, řekl v slabé chvilce, že po patnáctiletém spravování semináře odchází z Besançonu s úsporou pěti set dvaceti franků. Přátelé ho s pláčem objali a řekli si mezi sebou: „Tu lež si mohl dobrý abbé ušetřit, je přece příliš směšná.“ Všední lidé, zaslepení láskou k penězům, nedovedli pochopit, že právě jeho přímá povaha poskytovala abbé Pirardovi dosti síly, aby dovedl šest let bojovat sám proti Marii Alacoquové,[^12] Srdci Ježíšovu, jezuitům a proti svému biskupovi.
 
 </section>
+
+[^1]: V mincích po 6 francích.
+
+[^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.
+
+[^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.
+
+[^4]: Překlad J. V. Sládka.
+
+[^5]: Náboženské spolky služebnictva, jejichž prostřednictvím církev získávala spojence v šlechtických domech.
+
+[^6]: Podívejte se na stranu 130.
+
+[^7]: Věřte mi.
+
+[^8]: Co je psáno, to je dáno.
+
+[^9]: Chytrému napověz.
+
+[^10]: Buď zdráv a miluj mě.
+
+[^11]: Viz v Louvru vévodu Františka Aquitánského, odkládajícího přilbu a beroucího na sebe mnišský hábit, č. 1130 (_pozn. aut._).
+
+[^12]: Francouzská mystička.
+
+[^13]: Venkove, kdy tě spatřím (citát je však z Horatia).
+
+[^14]: Jsem při tobě, je to moje dílo.
+
+[^15]: Proslulý kejklíř (pozn. autora).
+
+[^16]: Rossiniho opera.
+
+[^17]: To mluví nespokojenec (poznámka Molièrova k Tartuffovi). _Pozn. autora._
+
+[^18]: Biskup a ministr narozený v Besançonu.
+
+[^19]: Redaktoři satirického časopisu, uvěznění pro urážku vlády.
+
+[^20]: Musím se potrestat, jestliže jsem příliš milovala.
+
+[^21]: Syn zedníka, který velel části roajalistické armády při vendéském povstání.
+
+[^22]: Slavný kazatel.
+
+[^23]: Jestliže dovolí osud.
+
+[^24]: Od této chvíle již neřeknu ani slovo.
+
+[^25]: Zde mluví z něho jakobín (_Pozn. aut.)._
+
+[^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.

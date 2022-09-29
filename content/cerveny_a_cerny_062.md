@@ -49,6 +49,58 @@ Tento neočekávaný obrat v jeho životě měl za následek, že se Julián sta
 
 „Slečna de la Mole má pravdu, ten mladý kněz má v sobě cosi zvláštního. Moje přítomnost ho činila první dny asi nesmělým. Všichni lidé, s nimiž se člověk v tom domě setkává, jsou ve skutečnosti velmi lehkomyslní; vidím tu jedině takové ctnosti, které jsou podporovány stářím a už velmi potřebují chladnost pokročilého věku. Ten mladý muž asi poznal, jaký je rozdíl mezi nimi a mnou; píše dobře; ale bojím se, že prosba, kterou vyslovil ve svém dopise, prosba, abych ho osvítila svými radami, je ve skutečnosti cit, který si sám neuvědomuje.
 
-Ale kolik obrácení na víru tak začínalo! Dobrým znamením je také to, že jeho sloh se tak liší od slohu ostatních mladých mužů, jejichž dopisy jsem měla příležitost číst. Není možno nevidět vroucnost, hlubokou vážnost a zanícené přesvědčení v dopisech toho mladého kněze: bude mít v sobě jemnost Massillonovu.“[\[22\]](./resources/undefined)
+Ale kolik obrácení na víru tak začínalo! Dobrým znamením je také to, že jeho sloh se tak liší od slohu ostatních mladých mužů, jejichž dopisy jsem měla příležitost číst. Není možno nevidět vroucnost, hlubokou vážnost a zanícené přesvědčení v dopisech toho mladého kněze: bude mít v sobě jemnost Massillonovu.“[^22]
 
 </section>
+
+[^1]: V mincích po 6 francích.
+
+[^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.
+
+[^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.
+
+[^4]: Překlad J. V. Sládka.
+
+[^5]: Náboženské spolky služebnictva, jejichž prostřednictvím církev získávala spojence v šlechtických domech.
+
+[^6]: Podívejte se na stranu 130.
+
+[^7]: Věřte mi.
+
+[^8]: Co je psáno, to je dáno.
+
+[^9]: Chytrému napověz.
+
+[^10]: Buď zdráv a miluj mě.
+
+[^11]: Viz v Louvru vévodu Františka Aquitánského, odkládajícího přilbu a beroucího na sebe mnišský hábit, č. 1130 (_pozn. aut._).
+
+[^12]: Francouzská mystička.
+
+[^13]: Venkove, kdy tě spatřím (citát je však z Horatia).
+
+[^14]: Jsem při tobě, je to moje dílo.
+
+[^15]: Proslulý kejklíř (pozn. autora).
+
+[^16]: Rossiniho opera.
+
+[^17]: To mluví nespokojenec (poznámka Molièrova k Tartuffovi). _Pozn. autora._
+
+[^18]: Biskup a ministr narozený v Besançonu.
+
+[^19]: Redaktoři satirického časopisu, uvěznění pro urážku vlády.
+
+[^20]: Musím se potrestat, jestliže jsem příliš milovala.
+
+[^21]: Syn zedníka, který velel části roajalistické armády při vendéském povstání.
+
+[^22]: Slavný kazatel.
+
+[^23]: Jestliže dovolí osud.
+
+[^24]: Od této chvíle již neřeknu ani slovo.
+
+[^25]: Zde mluví z něho jakobín (_Pozn. aut.)._
+
+[^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.

@@ -95,7 +95,7 @@ Julián nemohl svou radost ovládnout. Musel sejít do zahrady. Jeho pokoj, v n�
 
 „Já, ubohý selský synek z Jury,“ opakoval si bez ustání, „já, který jsem odsouzen nosit věčně ty smutné černé šaty! Škoda, před dvaceti lety bych byl nosil uniformu jako oni! Tehdy takový člověk jako já by byl buď zabit, anebo by se stal generálem v šestatřiceti letech.“ Dopis, který svíral v ruce, ho povzbuzoval k hrdinské póze. „Je pravda, že dnes může mít člověk v tom černém obleku ve čtyřiceti letech sto tisíc franků příjmů a modrou stuhu jako pan biskup beauvaiský.
 
-Nuže!“ řekl si s mefistovským smíchem, „jsem chytřejší než oni! Dovedl jsem si zvolit stejnokroj svého století.“ A cítil, jak jeho ctižádost a láska k duchovnímu stavu vzrůstá. „Kolik kardinálů bylo ještě z nižšího rodu než já, a přece se dostali k moci! Například můj krajan Granvelle.“[\[18\]](./resources/undefined)
+Nuže!“ řekl si s mefistovským smíchem, „jsem chytřejší než oni! Dovedl jsem si zvolit stejnokroj svého století.“ A cítil, jak jeho ctižádost a láska k duchovnímu stavu vzrůstá. „Kolik kardinálů bylo ještě z nižšího rodu než já, a přece se dostali k moci! Například můj krajan Granvelle.“[^18]
 
 Ponenáhlu se Juliánovo vzrušení uklidnilo; zvítězila opět rozvaha. Řekl si jako jeho učitel Tartuffe, jehož úlohu znal nazpaměť:
 
@@ -111,7 +111,7 @@ Ano, ale čtyři lokajové pana de Croisenois se na mne vrhnou a vyrvou mi origi
 
 Nikoliv, jsem dobře ozbrojen, a jak je známo, mám ve zvyku střílet na lokaje.
 
-Nuže, jeden z nich bude odvážný a vrhne se na mne. Slíbili mu sto napoleondorů. Zabiji ho anebo ho poraním, výborně – ale to právě chtějí. Uvrhnou mě docela právem do vězení; octnu se ve vyšetřovací vazbě a soudcové mě naprosto spravedlivě a nestranně pošlou do Poissy, abych tam dělal společnost panu Fontanovi a Magalonovi.[\[19\]](./resources/undefined) Tam budu ležet dohromady se čtyřmi sty žebráky všeho druhu… A já bych měl mít soucit s těmi lidmi!“ zvolal a prudce vyskočil. „Mají oni soucit s lidmi třetího stavu, dostanou-li je do své moci?“ Ten výkřik byl posledním vzdechem vděčnosti k panu de la Mole, která ho proti jeho vůli stále ještě znepokojovala.
+Nuže, jeden z nich bude odvážný a vrhne se na mne. Slíbili mu sto napoleondorů. Zabiji ho anebo ho poraním, výborně – ale to právě chtějí. Uvrhnou mě docela právem do vězení; octnu se ve vyšetřovací vazbě a soudcové mě naprosto spravedlivě a nestranně pošlou do Poissy, abych tam dělal společnost panu Fontanovi a Magalonovi.[^19] Tam budu ležet dohromady se čtyřmi sty žebráky všeho druhu… A já bych měl mít soucit s těmi lidmi!“ zvolal a prudce vyskočil. „Mají oni soucit s lidmi třetího stavu, dostanou-li je do své moci?“ Ten výkřik byl posledním vzdechem vděčnosti k panu de la Mole, která ho proti jeho vůli stále ještě znepokojovala.
 
 „Pomalu, páni šlechtici, prohlédl jsem váš machiavelský úskok; abbé Maslon nebo pan Castenède ze semináře nebyli by to provedli lépe. Vy mi odejmete kompromitující dopis a já budu druhým plukovníkem Caronem z Kolmaru.
 
@@ -130,3 +130,55 @@ Pak se vrátil veselý a čilý do domu markýze de la Mole. „A teď jsme na �
 Jeho dopis by byl dělal čest diplomatické rozvážnosti pana rytíře Beauvoisise. Bylo teprve deset hodin. Julián zpitý štěstím a pocitem své moci, tak novým pro takového ubožáka, šel do Italské opery. Slyšel zpívat svého přítele Geronima. Dosud nikdy ho hudba tak nenadchla. Cítil se jako bůh.
 
 </section>
+
+[^1]: V mincích po 6 francích.
+
+[^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.
+
+[^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.
+
+[^4]: Překlad J. V. Sládka.
+
+[^5]: Náboženské spolky služebnictva, jejichž prostřednictvím církev získávala spojence v šlechtických domech.
+
+[^6]: Podívejte se na stranu 130.
+
+[^7]: Věřte mi.
+
+[^8]: Co je psáno, to je dáno.
+
+[^9]: Chytrému napověz.
+
+[^10]: Buď zdráv a miluj mě.
+
+[^11]: Viz v Louvru vévodu Františka Aquitánského, odkládajícího přilbu a beroucího na sebe mnišský hábit, č. 1130 (_pozn. aut._).
+
+[^12]: Francouzská mystička.
+
+[^13]: Venkove, kdy tě spatřím (citát je však z Horatia).
+
+[^14]: Jsem při tobě, je to moje dílo.
+
+[^15]: Proslulý kejklíř (pozn. autora).
+
+[^16]: Rossiniho opera.
+
+[^17]: To mluví nespokojenec (poznámka Molièrova k Tartuffovi). _Pozn. autora._
+
+[^18]: Biskup a ministr narozený v Besançonu.
+
+[^19]: Redaktoři satirického časopisu, uvěznění pro urážku vlády.
+
+[^20]: Musím se potrestat, jestliže jsem příliš milovala.
+
+[^21]: Syn zedníka, který velel části roajalistické armády při vendéském povstání.
+
+[^22]: Slavný kazatel.
+
+[^23]: Jestliže dovolí osud.
+
+[^24]: Od této chvíle již neřeknu ani slovo.
+
+[^25]: Zde mluví z něho jakobín (_Pozn. aut.)._
+
+[^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.

@@ -7,7 +7,7 @@ contentType: prose
 
 Za hodinu, když opět pevně spal, byl probuzen slzami, jež mu kanuly na ruku.
 
-„Ach, to je zase Matylda,“ pomyslil si ještě napolo ve spánku. „Umínila si, že mě něžností přiměje k tomu, abych změnil své rozhodnutí.“ Byl mrzutý vyhlídkou na nový patetický výstup a neotevřel oči. Vzpomněl si na verše Belfagora[\[26\]](./resources/undefined) prchajícího před svou ženou.
+„Ach, to je zase Matylda,“ pomyslil si ještě napolo ve spánku. „Umínila si, že mě něžností přiměje k tomu, abych změnil své rozhodnutí.“ Byl mrzutý vyhlídkou na nový patetický výstup a neotevřel oči. Vzpomněl si na verše Belfagora[^26] prchajícího před svou ženou.
 
 Tu uslyšel podivný vzdech. Otevřel oči, byla to paní de Rênal. „Ach! Přece tě ještě jednou před smrtí vidím! Či je to jen přelud?“ zvolal a vrhl se jí k nohám.
 
@@ -116,3 +116,55 @@ Byl by se již skoro prozradil nějakou známkou slabosti anebo by se byl vrhl n
 Bylo již poledne a kněz se tedy vytratil.
 
 </section>
+
+[^1]: V mincích po 6 francích.
+
+[^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.
+
+[^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.
+
+[^4]: Překlad J. V. Sládka.
+
+[^5]: Náboženské spolky služebnictva, jejichž prostřednictvím církev získávala spojence v šlechtických domech.
+
+[^6]: Podívejte se na stranu 130.
+
+[^7]: Věřte mi.
+
+[^8]: Co je psáno, to je dáno.
+
+[^9]: Chytrému napověz.
+
+[^10]: Buď zdráv a miluj mě.
+
+[^11]: Viz v Louvru vévodu Františka Aquitánského, odkládajícího přilbu a beroucího na sebe mnišský hábit, č. 1130 (_pozn. aut._).
+
+[^12]: Francouzská mystička.
+
+[^13]: Venkove, kdy tě spatřím (citát je však z Horatia).
+
+[^14]: Jsem při tobě, je to moje dílo.
+
+[^15]: Proslulý kejklíř (pozn. autora).
+
+[^16]: Rossiniho opera.
+
+[^17]: To mluví nespokojenec (poznámka Molièrova k Tartuffovi). _Pozn. autora._
+
+[^18]: Biskup a ministr narozený v Besançonu.
+
+[^19]: Redaktoři satirického časopisu, uvěznění pro urážku vlády.
+
+[^20]: Musím se potrestat, jestliže jsem příliš milovala.
+
+[^21]: Syn zedníka, který velel části roajalistické armády při vendéském povstání.
+
+[^22]: Slavný kazatel.
+
+[^23]: Jestliže dovolí osud.
+
+[^24]: Od této chvíle již neřeknu ani slovo.
+
+[^25]: Zde mluví z něho jakobín (_Pozn. aut.)._
+
+[^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.

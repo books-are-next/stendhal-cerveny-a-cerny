@@ -57,13 +57,13 @@ Když Julián mohl zase otevřít oči, člověk s červeným obličejem již op
 
 „Patrně,“ odvětil ředitel semináře a zlostně na něho pohlédl. Lesk jeho drobných očí se zdvojnásobil a zároveň bezděky škubl svaly kolem ústních koutků. Podobal se tygrovi, který se již těší, že pohltí svou kořist.
 
-„Chélanův dopis je krátký,“ pravil, jako by mluvil sám k sobě. **_„_**Intelligenti pauca**_;_**[**_**\[9\]**_**](./resources/undefined) v dnešní době nelze ani příliš málo napsat.“ Četl nahlas:
+„Chélanův dopis je krátký,“ pravil, jako by mluvil sám k sobě. **_„_**Intelligenti pauca**_;_**[**_**\[9\]**_**](../Text/cerveny_a_cerny_082.html#_ftn9) v dnešní době nelze ani příliš málo napsat.“ Četl nahlas:
 
 „Posílám vám Juliána Sorela ze zdejší farnosti, kterého jsem křtil asi před dvaceti lety. Je synem bohatého tesaře, ale otec mu nic nedává. Julián bude zdatným dělníkem na vinici Páně. Nechybí mu paměť a chápavost, je hloubavý. Bude jeho náklonnost k duchovnímu stavu trvalá? Je upřímná?“
 
 „Upřímná!“ opakoval abbé Pirard udiveně a pohlédl na Juliána; ale jeho pohled byl již přívětivější; ,,upřímná!“ opakoval tišším hlasem a četl dále.
 
-„Prosím Vás o stipendium pro Juliána Sorela; zaslouží si je, udělá-li předepsané zkoušky. Vpravil jsem do něho trochu teologie, té staré, dobré teologie Bossuetovy, Arnaultovy a Fleuryho. Nebude-li se Vám líbit, pošlete mi ho zpět; ředitel chudobince, kterého dobře znáte, mu nabízí místo vychovatele za osm set franků ročně. – Má duše je bohudíky klidná. Zvykám pomalu té strašné ráně. Vale et me ama**_.“_**[**_**\[10\]**_**](./resources/undefined)
+„Prosím Vás o stipendium pro Juliána Sorela; zaslouží si je, udělá-li předepsané zkoušky. Vpravil jsem do něho trochu teologie, té staré, dobré teologie Bossuetovy, Arnaultovy a Fleuryho. Nebude-li se Vám líbit, pošlete mi ho zpět; ředitel chudobince, kterého dobře znáte, mu nabízí místo vychovatele za osm set franků ročně. – Má duše je bohudíky klidná. Zvykám pomalu té strašné ráně. Vale et me ama**_.“_**[**_**\[10\]**_**](../Text/cerveny_a_cerny_082.html#_ftn10)
 
 Když abbé Pirard četl podpis, zvolnil hlas a pronesl s povzdechem jméno Chélan**_._**
 
@@ -140,3 +140,55 @@ Když vstoupil do čísla 103, viděl, že je to malý pokojík o osmi čtvereč
 Když ho druhého dne ráno probudily první sluneční paprsky, viděl, že leží na podlaze.
 
 </section>
+
+[^1]: V mincích po 6 francích.
+
+[^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.
+
+[^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.
+
+[^4]: Překlad J. V. Sládka.
+
+[^5]: Náboženské spolky služebnictva, jejichž prostřednictvím církev získávala spojence v šlechtických domech.
+
+[^6]: Podívejte se na stranu 130.
+
+[^7]: Věřte mi.
+
+[^8]: Co je psáno, to je dáno.
+
+[^9]: Chytrému napověz.
+
+[^10]: Buď zdráv a miluj mě.
+
+[^11]: Viz v Louvru vévodu Františka Aquitánského, odkládajícího přilbu a beroucího na sebe mnišský hábit, č. 1130 (_pozn. aut._).
+
+[^12]: Francouzská mystička.
+
+[^13]: Venkove, kdy tě spatřím (citát je však z Horatia).
+
+[^14]: Jsem při tobě, je to moje dílo.
+
+[^15]: Proslulý kejklíř (pozn. autora).
+
+[^16]: Rossiniho opera.
+
+[^17]: To mluví nespokojenec (poznámka Molièrova k Tartuffovi). _Pozn. autora._
+
+[^18]: Biskup a ministr narozený v Besançonu.
+
+[^19]: Redaktoři satirického časopisu, uvěznění pro urážku vlády.
+
+[^20]: Musím se potrestat, jestliže jsem příliš milovala.
+
+[^21]: Syn zedníka, který velel části roajalistické armády při vendéském povstání.
+
+[^22]: Slavný kazatel.
+
+[^23]: Jestliže dovolí osud.
+
+[^24]: Od této chvíle již neřeknu ani slovo.
+
+[^25]: Zde mluví z něho jakobín (_Pozn. aut.)._
+
+[^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.
