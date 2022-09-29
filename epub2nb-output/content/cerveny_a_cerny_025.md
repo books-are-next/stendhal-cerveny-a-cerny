@@ -18,7 +18,7 @@ Když o půlnoci odcházeli ze salónu, podařilo se Juliánovi pošeptat své m
 
 Naštěstí se Julián ve svém pokoji zamykal. Paní de Rênal měla nesmyslný nápad, že ta výstraha je pouze záminkou, aby se vyhnul její návštěvě. Úplně ztratila rozvahu a přikradla se v obvyklou hodinu k jeho dveřím. Když Julián zaslechl na chodbě šramot, zhasil okamžitě lampu. Někdo zkoušel otevřít dveře; byla to paní de Rênal, nebo žárlivý manžel?
 
-Druhého dne časně zrána přinesla Juliánovi kuchařka, která mu byla nakloněna, knihu, na jejímž obalu bylo napsáno několik italských slov: Guardate alla pagina 130**_._**[**_**\[6\]**_**](./resources/undefined)
+Druhého dne časně zrána přinesla Juliánovi kuchařka, která mu byla nakloněna, knihu, na jejímž obalu bylo napsáno několik italských slov: Guardate alla pagina 130**_._**[**_**\[6\]**_**](../Text/cerveny_a_cerny_082.html#_ftn6)
 
 Julián se polekal této neopatrnosti. Vyhledal stranu 130 a nalezl tam přišpendlený, ve spěchu napsaný dopis, kropený slzami a plný pravopisných chyb. Obyčejně psala paní de Rênal správně. Byl tím dojat a zapomněl poněkud na její strašnou neopatrnost.
 
@@ -63,3 +63,55 @@ Z vrcholku skal je vidět věž holubníku. Podaří-li se nám můj plán, pov�
 Nevděčníku, nenajde Tvé srdce nějakou příležitost, abys mi, než odejdeš na procházku, mohl říci, že mě miluješ? Ale ať se stane cokoliv, buď přesvědčen o jednom: nepřežila bych ani o den chvíli, kdy bychom se museli navždy rozloučit. Jsem krkavčí matka!… Jsou to prázdná slova, co jsem zde napsala, drahý Juliáne. Necítím je; v tomto okamžiku mohu myslet pouze na Tebe, napsala jsem je jen proto, abys mě nekáral. Nač se přetvařovat ve chvíli, kdy Tě snad ztrácím? Ano, ať se Ti má duše zdá krutou, ale ať aspoň nelžu před mužem, kterého zbožňuji! Už jsem příliš mnoho v životě klamala. Odpouštím Ti, nemiluješ-li mě už. Nemám čas, abych ještě jednou přečetla svůj dopis. S lehkým srdcem bych životem zaplatila ty šťastné dny, které jsem strávila v Tvém náručí. Víš, že mě budou stát ještě více.“
 
 </section>
+
+[^1]: V mincích po 6 francích.
+
+[^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.
+
+[^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.
+
+[^4]: Překlad J. V. Sládka.
+
+[^5]: Náboženské spolky služebnictva, jejichž prostřednictvím církev získávala spojence v šlechtických domech.
+
+[^6]: Podívejte se na stranu 130.
+
+[^7]: Věřte mi.
+
+[^8]: Co je psáno, to je dáno.
+
+[^9]: Chytrému napověz.
+
+[^10]: Buď zdráv a miluj mě.
+
+[^11]: Viz v Louvru vévodu Františka Aquitánského, odkládajícího přilbu a beroucího na sebe mnišský hábit, č. 1130 (_pozn. aut._).
+
+[^12]: Francouzská mystička.
+
+[^13]: Venkove, kdy tě spatřím (citát je však z Horatia).
+
+[^14]: Jsem při tobě, je to moje dílo.
+
+[^15]: Proslulý kejklíř (pozn. autora).
+
+[^16]: Rossiniho opera.
+
+[^17]: To mluví nespokojenec (poznámka Molièrova k Tartuffovi). _Pozn. autora._
+
+[^18]: Biskup a ministr narozený v Besançonu.
+
+[^19]: Redaktoři satirického časopisu, uvěznění pro urážku vlády.
+
+[^20]: Musím se potrestat, jestliže jsem příliš milovala.
+
+[^21]: Syn zedníka, který velel části roajalistické armády při vendéském povstání.
+
+[^22]: Slavný kazatel.
+
+[^23]: Jestliže dovolí osud.
+
+[^24]: Od této chvíle již neřeknu ani slovo.
+
+[^25]: Zde mluví z něho jakobín (_Pozn. aut.)._
+
+[^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.

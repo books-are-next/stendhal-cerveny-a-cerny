@@ -39,7 +39,7 @@ Od chvíle, kdy slyšela tu nádhernou árii, zmizel pro Matyldu celý svět. Kd
 Po návratu domů, ať si paní de la Mole říkala co chtěla, tvrdila Matylda, že má horečku, a strávila část noci tím, že stále přehrávala na pianě a zpívala proslulou árii, která ji tak okouzlila:
 
 _Devo punirmi, devo punirmi,  
-Se troppo amai atd.[**\[20\]**](./resources/undefined)_
+Se troppo amai atd.[**\[20\]**](../Text/cerveny_a_cerny_082.html#_ftn20)_
 
 Ta bláznivá noc měla za následek, že si Matylda namluvila, že se jí konečně podařilo zvítězit nad svou láskou. (Tato stránka nešťastnému spisovateli v mnohém uškodí. Lidé s chladným rozumem ho budou vinit z neslušnosti. Nechce ukřivdit mladým ženám, které oslňují pařížské salóny, tím, že by tvrdil, že třeba jen jediná z nich je schopna pošetilostí, jež snižují Matyldinu povahu. Ta postava je jen výplod obraznosti, a dokonce je smyšlena tak, že se úplně vymyká společenským obyčejům, jež civilizaci XIX. století zajistí tak významné místo mezi všemi věky.
 
@@ -136,3 +136,55 @@ Jakmile to slušnost dovolila, vstal od stolu, spěchal, či spíše hnal se do 
 Nesmím dnes nic dělat, nic říkat,“ pomyslil si vraceje se do paláce, „musím být i tělesně mrtev, tak jako jsem mrtev duševně.“ Julián vskutku už nežil, jenom jeho mrtvé tělo se ještě pohybovalo.
 
 </section>
+
+[^1]: V mincích po 6 francích.
+
+[^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.
+
+[^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.
+
+[^4]: Překlad J. V. Sládka.
+
+[^5]: Náboženské spolky služebnictva, jejichž prostřednictvím církev získávala spojence v šlechtických domech.
+
+[^6]: Podívejte se na stranu 130.
+
+[^7]: Věřte mi.
+
+[^8]: Co je psáno, to je dáno.
+
+[^9]: Chytrému napověz.
+
+[^10]: Buď zdráv a miluj mě.
+
+[^11]: Viz v Louvru vévodu Františka Aquitánského, odkládajícího přilbu a beroucího na sebe mnišský hábit, č. 1130 (_pozn. aut._).
+
+[^12]: Francouzská mystička.
+
+[^13]: Venkove, kdy tě spatřím (citát je však z Horatia).
+
+[^14]: Jsem při tobě, je to moje dílo.
+
+[^15]: Proslulý kejklíř (pozn. autora).
+
+[^16]: Rossiniho opera.
+
+[^17]: To mluví nespokojenec (poznámka Molièrova k Tartuffovi). _Pozn. autora._
+
+[^18]: Biskup a ministr narozený v Besançonu.
+
+[^19]: Redaktoři satirického časopisu, uvěznění pro urážku vlády.
+
+[^20]: Musím se potrestat, jestliže jsem příliš milovala.
+
+[^21]: Syn zedníka, který velel části roajalistické armády při vendéském povstání.
+
+[^22]: Slavný kazatel.
+
+[^23]: Jestliže dovolí osud.
+
+[^24]: Od této chvíle již neřeknu ani slovo.
+
+[^25]: Zde mluví z něho jakobín (_Pozn. aut.)._
+
+[^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.

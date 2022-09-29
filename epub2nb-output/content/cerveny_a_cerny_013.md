@@ -9,7 +9,7 @@ _Pak vzdechy hlubší jen, že potlačené,
           pohledy loupené, a tím jen dražší,  
 a nach, jenž bez příčiny v tvář se žene…_
 
-— DON JUAN, zpěv I, strofa 74[\[2\]](./resources/undefined)
+— DON JUAN, zpěv I, strofa 74[^2]
 
 Andělská dobrota paní de Rênal, která měla původ v její povaze i v jejím nynějším štěstí, byla poněkud zkalena jenom tehdy, když pomyslila na komornou Elisu. Komorné bylo vyplaceno nějaké dědictví; šla k faráři Chélanovi ke zpovědi a svěřila se mu, že by si ráda vzala Juliána. Farář měl opravdu radost ze štěstí svého přítele; ale byl neobyčejně překvapen, když mu Julián řekl, že nabídku slečny Elisy nemůže přijmout.
 
@@ -61,7 +61,7 @@ Zvonilo k obědu; paní de Rênal se začervenala, když poznala podle hlasu, ž
 
 Ačkoliv paní de Rênal byla takovým vtipům zvyklá, přece jen ji urazil jeho tón. Aby přišla na jiné myšlenky, pohlédla na Juliána; kdyby byl býval nejohyzdnějším člověkem, byl by se jí v té chvíli líbil.
 
-Pan de Rênal se snažil napodobovat dvorské zvyky, a proto se hned v prvních krásných jarních dnech usadil ve Vergy, je to vesnice proslulá tragickým osudem Gabrieliným.[\[3\]](./resources/undefined) Několik set kroků od velmi malebných zřícenin starobylého gotického chrámu měl pan de Rênal starý zámek se čtyřmi věžemi a zahradou, která byla napodobením zahrady v Tuileriích; byly v ní řady zimostrázových keřů a kaštanové aleje, které dával dvakrát do roka ořezávat. Přilehlé pole osázené jabloněmi sloužilo k procházkám. Na konci sadu bylo osm nebo devět nádherných ořechů; jejich ohromné koruny se zvedaly do výšky snad osmdesáti stop.
+Pan de Rênal se snažil napodobovat dvorské zvyky, a proto se hned v prvních krásných jarních dnech usadil ve Vergy, je to vesnice proslulá tragickým osudem Gabrieliným.[^3] Několik set kroků od velmi malebných zřícenin starobylého gotického chrámu měl pan de Rênal starý zámek se čtyřmi věžemi a zahradou, která byla napodobením zahrady v Tuileriích; byly v ní řady zimostrázových keřů a kaštanové aleje, které dával dvakrát do roka ořezávat. Přilehlé pole osázené jabloněmi sloužilo k procházkám. Na konci sadu bylo osm nebo devět nádherných ořechů; jejich ohromné koruny se zvedaly do výšky snad osmdesáti stop.
 
 „Každý z těch prokletých ořechů,“ říkal pan de Rênal, když se jim žena obdivovala, „mě stojí úrodu z půl jitra pole; v takovém stínu se nemůže dařit obilí.“
 
@@ -102,3 +102,55 @@ Nastala velká vedra. Večery trávili obyčejně pod ohromnou lipou, několik k
 Paní de Rênal rychle ruku odtáhla, ale Juliánovi probleskla hlavou myšlenka, že je jeho povinností dosíci toho, aby neodtahovala ruku, když se jí dotkne. Myšlenka, že musí splnit povinnost, a pocit, že by se zesměšnil nebo že by ho to ponížilo, kdyby nedosáhl toho, co si umínil, udusila ihned v jeho srdci všechno štěstí.
 
 </section>
+
+[^1]: V mincích po 6 francích.
+
+[^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.
+
+[^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.
+
+[^4]: Překlad J. V. Sládka.
+
+[^5]: Náboženské spolky služebnictva, jejichž prostřednictvím církev získávala spojence v šlechtických domech.
+
+[^6]: Podívejte se na stranu 130.
+
+[^7]: Věřte mi.
+
+[^8]: Co je psáno, to je dáno.
+
+[^9]: Chytrému napověz.
+
+[^10]: Buď zdráv a miluj mě.
+
+[^11]: Viz v Louvru vévodu Františka Aquitánského, odkládajícího přilbu a beroucího na sebe mnišský hábit, č. 1130 (_pozn. aut._).
+
+[^12]: Francouzská mystička.
+
+[^13]: Venkove, kdy tě spatřím (citát je však z Horatia).
+
+[^14]: Jsem při tobě, je to moje dílo.
+
+[^15]: Proslulý kejklíř (pozn. autora).
+
+[^16]: Rossiniho opera.
+
+[^17]: To mluví nespokojenec (poznámka Molièrova k Tartuffovi). _Pozn. autora._
+
+[^18]: Biskup a ministr narozený v Besançonu.
+
+[^19]: Redaktoři satirického časopisu, uvěznění pro urážku vlády.
+
+[^20]: Musím se potrestat, jestliže jsem příliš milovala.
+
+[^21]: Syn zedníka, který velel části roajalistické armády při vendéském povstání.
+
+[^22]: Slavný kazatel.
+
+[^23]: Jestliže dovolí osud.
+
+[^24]: Od této chvíle již neřeknu ani slovo.
+
+[^25]: Zde mluví z něho jakobín (_Pozn. aut.)._
+
+[^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.

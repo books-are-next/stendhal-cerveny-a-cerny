@@ -129,7 +129,7 @@ Juliána to popudilo, a přece měla pravdu. Pirard byl rozhodně nejpoctivějš
 
 Julián zpozoroval, že se v salónu děje něco zvláštního: všichni upřeli zrak na dveře a náhle se rozhostilo téměř úplné mlčení. Lokaj ohlašoval pověstného barona Tollyho, na něhož volby obracely pozornost všech přítomných. Julián přistoupil blíže a viděl ho velmi dobře. Jako předseda jedné volební komise připadl baron na výtečnou myšlenku, aby dal zmizet volebním lístkům jedné strany a nahradil je jinými lístky se jménem, které se mu hodilo. Několik voličů tento vyložený podvod zpozorovalo a hned si pospíšili, aby baronu Tollymu blahopřáli. Ten dobrák byl z té události ještě celý bledý. Zlomyslní lidé mluvili o galejích. Pan de la Mole ho přijal chladně. Ubohý baron se brzy vytratil.
 
-„To nás tak brzy opouští proto, že spěchá ještě k panu Comtovi[\[15\]](./resources/undefined),“ řekl hrabě Chalvet a všichni se smáli.
+„To nás tak brzy opouští proto, že spěchá ještě k panu Comtovi[^15],“ řekl hrabě Chalvet a všichni se smáli.
 
 Mezi několika zamlklými hodnostáři a pověstnými, ale duchaplnými intrikány, kteří toho večera postupně navštívili salón markýze de la Mole (proslýchalo se, že dostane nějaké ministerstvo), dělal mladý Tanbeau první pokusy o štěstí. Jeho postřehům se sice ještě nedostávalo duchaplnosti, ale dovedl se odškodňovat, jak uvidíme, rázností slov.
 
@@ -174,3 +174,55 @@ Norbertova poznámka připomněla hraběti, že člověk jeho postavení by měl
 „Teď jsem měl příležitost vidět pravý opak svého postavení,“ myslil si Julián, když je slyšel na schodech se smát. „Nemám ani dvacet louisdorů ročního důchodu a stál jsem vedle člověka, který má dvacet louisdorů důchodu za hodinu, a tropili si z něho smích… Taková podívaná vyléčí člověka ze závisti.“
 
 </section>
+
+[^1]: V mincích po 6 francích.
+
+[^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.
+
+[^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.
+
+[^4]: Překlad J. V. Sládka.
+
+[^5]: Náboženské spolky služebnictva, jejichž prostřednictvím církev získávala spojence v šlechtických domech.
+
+[^6]: Podívejte se na stranu 130.
+
+[^7]: Věřte mi.
+
+[^8]: Co je psáno, to je dáno.
+
+[^9]: Chytrému napověz.
+
+[^10]: Buď zdráv a miluj mě.
+
+[^11]: Viz v Louvru vévodu Františka Aquitánského, odkládajícího přilbu a beroucího na sebe mnišský hábit, č. 1130 (_pozn. aut._).
+
+[^12]: Francouzská mystička.
+
+[^13]: Venkove, kdy tě spatřím (citát je však z Horatia).
+
+[^14]: Jsem při tobě, je to moje dílo.
+
+[^15]: Proslulý kejklíř (pozn. autora).
+
+[^16]: Rossiniho opera.
+
+[^17]: To mluví nespokojenec (poznámka Molièrova k Tartuffovi). _Pozn. autora._
+
+[^18]: Biskup a ministr narozený v Besançonu.
+
+[^19]: Redaktoři satirického časopisu, uvěznění pro urážku vlády.
+
+[^20]: Musím se potrestat, jestliže jsem příliš milovala.
+
+[^21]: Syn zedníka, který velel části roajalistické armády při vendéském povstání.
+
+[^22]: Slavný kazatel.
+
+[^23]: Jestliže dovolí osud.
+
+[^24]: Od této chvíle již neřeknu ani slovo.
+
+[^25]: Zde mluví z něho jakobín (_Pozn. aut.)._
+
+[^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.

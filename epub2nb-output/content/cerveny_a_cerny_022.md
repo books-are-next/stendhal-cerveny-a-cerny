@@ -8,7 +8,7 @@ contentType: prose
 _Ó, jak se jaro lásky podobá  
 dne dubnového nejistotné kráse!  
 kde slunce září v plné nádheře  
-a náhle pod oblaky zatmívá se.[**\[4\]**](./resources/undefined)_
+a náhle pod oblaky zatmívá se.[**\[4\]**](../Text/cerveny_a_cerny_082.html#_ftn4)_
 
 — DVA ŠLECHTICI VERONŠTÍ
 
@@ -52,7 +52,7 @@ Jednoho dne nařizovala paní de Rênal něco komorníkovi svého muže, který 
 
 „Tak,“ pravil Julián, „a teď půjde do té stodoly, která byla kdysi kostelem a kterou nedávno vrátili zase bohoslužbě; ale nač? To je jedno z tajemství, jež jsem nikdy nemohl pochopit.“
 
-„Je to zařízení velmi prospěšné[\[5\]](./resources/undefined), ale velmi podivné,“ odpověděla paní de Rênal; „ženám není přístup dovolen, vím jen, že si tam všichni tykají. Náš sluha se tam například setká s panem Valenodem a ten pyšný a hloupý člověk se nebude hněvat, že mu Saint-Jean tyká, a odpoví mu stejně. Chcete-li vědět, co se tam děje, vyptám se pana de Maugiron a pana Valenoda na podrobnosti. Platíme dvacet franků za každého sluhu, aby nás jednoho dne nezardousili.“
+„Je to zařízení velmi prospěšné[^5], ale velmi podivné,“ odpověděla paní de Rênal; „ženám není přístup dovolen, vím jen, že si tam všichni tykají. Náš sluha se tam například setká s panem Valenodem a ten pyšný a hloupý člověk se nebude hněvat, že mu Saint-Jean tyká, a odpoví mu stejně. Chcete-li vědět, co se tam děje, vyptám se pana de Maugiron a pana Valenoda na podrobnosti. Platíme dvacet franků za každého sluhu, aby nás jednoho dne nezardousili.“
 
 Čas rychle míjel. Zaujat půvaby své milenky, zapomínal Julián na svou neblahou ctižádost. To, že s ní nesměl mluvit o smutných a užitečných věcech, protože byli opačného přesvědčení, zvyšovalo bezděky ještě štěstí, za něž jí děkoval, a moc, jíž nad ním nabývala.
 
@@ -63,3 +63,55 @@ Ve chvílích, kdy je přítomnost příliš rozumných dětí nutila mluvit o v
 „Dožiji se tvé slávy?“ říkala Juliánovi. „Místo pro velkého muže je připraveno: monarchie, církev ho potřebují.“
 
 </section>
+
+[^1]: V mincích po 6 francích.
+
+[^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.
+
+[^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.
+
+[^4]: Překlad J. V. Sládka.
+
+[^5]: Náboženské spolky služebnictva, jejichž prostřednictvím církev získávala spojence v šlechtických domech.
+
+[^6]: Podívejte se na stranu 130.
+
+[^7]: Věřte mi.
+
+[^8]: Co je psáno, to je dáno.
+
+[^9]: Chytrému napověz.
+
+[^10]: Buď zdráv a miluj mě.
+
+[^11]: Viz v Louvru vévodu Františka Aquitánského, odkládajícího přilbu a beroucího na sebe mnišský hábit, č. 1130 (_pozn. aut._).
+
+[^12]: Francouzská mystička.
+
+[^13]: Venkove, kdy tě spatřím (citát je však z Horatia).
+
+[^14]: Jsem při tobě, je to moje dílo.
+
+[^15]: Proslulý kejklíř (pozn. autora).
+
+[^16]: Rossiniho opera.
+
+[^17]: To mluví nespokojenec (poznámka Molièrova k Tartuffovi). _Pozn. autora._
+
+[^18]: Biskup a ministr narozený v Besançonu.
+
+[^19]: Redaktoři satirického časopisu, uvěznění pro urážku vlády.
+
+[^20]: Musím se potrestat, jestliže jsem příliš milovala.
+
+[^21]: Syn zedníka, který velel části roajalistické armády při vendéském povstání.
+
+[^22]: Slavný kazatel.
+
+[^23]: Jestliže dovolí osud.
+
+[^24]: Od této chvíle již neřeknu ani slovo.
+
+[^25]: Zde mluví z něho jakobín (_Pozn. aut.)._
+
+[^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.

@@ -95,7 +95,7 @@ Nacházel stále na chodbách uhlem napsané průpovědi, jako například: „C
 
 Po několika měsících vytrvalého cvičení bylo na Juliánovi ještě znát, že myslí**_._** Pohyby jeho očí a úst nesvědčily ještě o slepé víře, která je hotova všemu věřit a třeba i mučednictvím vše hájit. Julián s rozhořčením pozoroval, že nejhrubší venkovani nad ním v tomto umění vynikají. Nebylo ovšem divu, že nevypadali jako myslící lidé.
 
-Kolik práce si dával Julián, aby si osvojil zdání té slepé a horoucí víry, hotové všemu věřit a vše podstoupit, víry, s níž se tak často setkáváme v italských klášterech a jejíž vzory nám tak dokonale zobrazil Guercino na svých kostelních obrazech.[\[11\]](./resources/undefined)
+Kolik práce si dával Julián, aby si osvojil zdání té slepé a horoucí víry, hotové všemu věřit a vše podstoupit, víry, s níž se tak často setkáváme v italských klášterech a jejíž vzory nám tak dokonale zobrazil Guercino na svých kostelních obrazech.[^11]
 
 Ve dny velkých svátků dostávali seminaristé klobásy s nakládaným zelím. Juliánovi sousedé u stolu pozorovali, že nemá smysl pro takový požitek; to byl jeden z jeho prvních zločinů. Jeho druhové v tom viděli protivný příznak hloupého pokrytectví; nic mu nepřipravilo více nepřátel. „Podívejte se na toho měšťáka, na toho nafoukance,“ říkali, „dělá, jako by pohrdal největší pochoutkou**_,_** klobásami s nakládaným zelím! Fuj, to je sprosťák, nadutec, zatracenec!“
 
@@ -150,3 +150,55 @@ Za dvě hodiny si ho dal ředitel zavolat.
 „Nelhal jste,“ řekl mu s méně přísným pohledem; „ale uschovat si takovou adresu je neopatrnost, jejíž dosah si nemůžete ani představit. Nešťastné dítě! Ještě za deset let vám to může škodit!“
 
 </section>
+
+[^1]: V mincích po 6 francích.
+
+[^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.
+
+[^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.
+
+[^4]: Překlad J. V. Sládka.
+
+[^5]: Náboženské spolky služebnictva, jejichž prostřednictvím církev získávala spojence v šlechtických domech.
+
+[^6]: Podívejte se na stranu 130.
+
+[^7]: Věřte mi.
+
+[^8]: Co je psáno, to je dáno.
+
+[^9]: Chytrému napověz.
+
+[^10]: Buď zdráv a miluj mě.
+
+[^11]: Viz v Louvru vévodu Františka Aquitánského, odkládajícího přilbu a beroucího na sebe mnišský hábit, č. 1130 (_pozn. aut._).
+
+[^12]: Francouzská mystička.
+
+[^13]: Venkove, kdy tě spatřím (citát je však z Horatia).
+
+[^14]: Jsem při tobě, je to moje dílo.
+
+[^15]: Proslulý kejklíř (pozn. autora).
+
+[^16]: Rossiniho opera.
+
+[^17]: To mluví nespokojenec (poznámka Molièrova k Tartuffovi). _Pozn. autora._
+
+[^18]: Biskup a ministr narozený v Besançonu.
+
+[^19]: Redaktoři satirického časopisu, uvěznění pro urážku vlády.
+
+[^20]: Musím se potrestat, jestliže jsem příliš milovala.
+
+[^21]: Syn zedníka, který velel části roajalistické armády při vendéském povstání.
+
+[^22]: Slavný kazatel.
+
+[^23]: Jestliže dovolí osud.
+
+[^24]: Od této chvíle již neřeknu ani slovo.
+
+[^25]: Zde mluví z něho jakobín (_Pozn. aut.)._
+
+[^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.

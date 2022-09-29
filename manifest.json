@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stendhal-cerveny-a-cerny-a85a6b1",
-  "revision": "a85a6b1",
+  "identifier": "stendhal-cerveny-a-cerny-21057a5",
+  "revision": "21057a5",
   "readingOrder": [
     "promo.html",
     "cerveny_a_cerny_005.html",
@@ -93,8 +93,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:34:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414060159
+    "date": "Thu Sep 29 2022 21:35:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487356478
   },
   "documents": [
     {
@@ -212,9 +212,9 @@
     {
       "title": "5. Vyjednávání",
       "file": "cerveny_a_cerny_010.html",
-      "words": 2087,
-      "chars": 12634,
-      "ideas": 61,
+      "words": 2093,
+      "chars": 12659,
+      "ideas": 62,
       "role": "chapter",
       "order": 6,
       "prev": "cerveny_a_cerny_009.html",
@@ -272,9 +272,9 @@
     {
       "title": "8. Drobné události",
       "file": "cerveny_a_cerny_013.html",
-      "words": 2336,
-      "chars": 14132,
-      "ideas": 50,
+      "words": 2359,
+      "chars": 14262,
+      "ideas": 52,
       "role": "chapter",
       "order": 9,
       "prev": "cerveny_a_cerny_012.html",
@@ -452,9 +452,9 @@
     {
       "title": "17. První náměstek",
       "file": "cerveny_a_cerny_022.html",
-      "words": 1363,
-      "chars": 8404,
-      "ideas": 31,
+      "words": 1375,
+      "chars": 8509,
+      "ideas": 32,
       "role": "chapter",
       "order": 18,
       "prev": "cerveny_a_cerny_021.html",
@@ -632,9 +632,9 @@
     {
       "title": "26. Svět čili co chybí boháči",
       "file": "cerveny_a_cerny_031.html",
-      "words": 2883,
-      "chars": 17843,
-      "ideas": 73,
+      "words": 2902,
+      "chars": 17964,
+      "ideas": 74,
       "role": "chapter",
       "order": 27,
       "prev": "cerveny_a_cerny_030.html",
@@ -692,9 +692,9 @@
     {
       "title": "29. První povýšení",
       "file": "cerveny_a_cerny_034.html",
-      "words": 4231,
-      "chars": 26295,
-      "ideas": 108,
+      "words": 4234,
+      "chars": 26316,
+      "ideas": 109,
       "role": "chapter",
       "order": 30,
       "prev": "cerveny_a_cerny_033.html",
@@ -812,9 +812,9 @@
     {
       "title": "4. Palác markýze de la Mole",
       "file": "cerveny_a_cerny_040.html",
-      "words": 3647,
-      "chars": 22328,
-      "ideas": 85,
+      "words": 3652,
+      "chars": 22360,
+      "ideas": 86,
       "role": "chapter",
       "order": 36,
       "prev": "cerveny_a_cerny_039.html",
@@ -912,9 +912,9 @@
     {
       "title": "9. Ples",
       "file": "cerveny_a_cerny_045.html",
-      "words": 2647,
-      "chars": 16212,
-      "ideas": 69,
+      "words": 2657,
+      "chars": 16282,
+      "ideas": 70,
       "role": "chapter",
       "order": 41,
       "prev": "cerveny_a_cerny_044.html",
@@ -992,9 +992,9 @@
     {
       "title": "13. Spiknutí",
       "file": "cerveny_a_cerny_049.html",
-      "words": 2506,
-      "chars": 15522,
-      "ideas": 65,
+      "words": 2521,
+      "chars": 15618,
+      "ideas": 67,
       "role": "chapter",
       "order": 45,
       "prev": "cerveny_a_cerny_048.html",
@@ -1172,9 +1172,9 @@
     {
       "title": "22. Rokování",
       "file": "cerveny_a_cerny_058.html",
-      "words": 2127,
-      "chars": 13380,
-      "ideas": 61,
+      "words": 2138,
+      "chars": 13455,
+      "ideas": 62,
       "role": "chapter",
       "order": 54,
       "prev": "cerveny_a_cerny_057.html",
@@ -1252,9 +1252,9 @@
     {
       "title": "26. Duchovní láska",
       "file": "cerveny_a_cerny_062.html",
-      "words": 1004,
-      "chars": 6319,
-      "ideas": 27,
+      "words": 1007,
+      "chars": 6334,
+      "ideas": 28,
       "role": "chapter",
       "order": 58,
       "prev": "cerveny_a_cerny_061.html",
@@ -1572,9 +1572,9 @@
     {
       "title": "42.",
       "file": "cerveny_a_cerny_078.html",
-      "words": 1518,
-      "chars": 9119,
-      "ideas": 48,
+      "words": 1526,
+      "chars": 9157,
+      "ideas": 49,
       "role": "chapter",
       "order": 74,
       "prev": "cerveny_a_cerny_077.html",
@@ -1592,9 +1592,9 @@
     {
       "title": "43.",
       "file": "cerveny_a_cerny_079.html",
-      "words": 1356,
-      "chars": 8104,
-      "ideas": 56,
+      "words": 1367,
+      "chars": 8170,
+      "ideas": 57,
       "role": "chapter",
       "order": 75,
       "prev": "cerveny_a_cerny_078.html",
@@ -1652,9 +1652,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "cerveny_a_cerny_082.html",
-      "words": 200,
-      "chars": 1253,
-      "ideas": 27,
+      "words": 397,
+      "chars": 2393,
+      "ideas": 53,
       "role": "chapter",
       "order": 78,
       "prev": "cerveny_a_cerny_081.html",
@@ -1672,9 +1672,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 123,
-      "chars": 806,
-      "ideas": 16,
+      "words": 119,
+      "chars": 786,
+      "ideas": 18,
       "role": "about",
       "order": null,
       "prev": "cerveny_a_cerny_082.html",
@@ -1692,14 +1692,14 @@
   ],
   "totals": {
     "all": {
-      "words": 143721,
-      "chars": 877197,
-      "ideas": 3791
+      "words": 144040,
+      "chars": 879111,
+      "ideas": 3833
     },
     "chapters": {
-      "words": 143592,
-      "chars": 876357,
-      "ideas": 3771
+      "words": 143915,
+      "chars": 878291,
+      "ideas": 3811
     }
   }
 }
