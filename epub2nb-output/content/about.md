@@ -30,7 +30,7 @@ Stendhal
 [^24]: Od této chvíle již neřeknu ani slovo.  
 [^25]: Zde mluví z něho jakobín (_Pozn. aut.)._  
 [^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.  
-V MKP 1. elektronické vydání z 29. 9. 2022.
+V MKP 1. elektronické vydání z 1. 10. 2022.
 
 ![](../Images/image003.jpg)  
 [^1]: V mincích po 6 francích.  
@@ -59,7 +59,7 @@ V MKP 1. elektronické vydání z 29. 9. 2022.
 [^24]: Od této chvíle již neřeknu ani slovo.  
 [^25]: Zde mluví z něho jakobín (_Pozn. aut.)._  
 [^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.  
-V MKP 1. elektronické vydání z 29. 9. 2022.
+V MKP 1. elektronické vydání z 1. 10. 2022.
 
 Stendhal  
 Červený a černý  
@@ -94,7 +94,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^24]: Od této chvíle již neřeknu ani slovo.  
 [^25]: Zde mluví z něho jakobín (_Pozn. aut.)._  
 [^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.  
-V MKP 2. elektronické vydání z 29. 9. 2022.
+V MKP 2. elektronické vydání z 1. 10. 2022.
 
 ***
 
