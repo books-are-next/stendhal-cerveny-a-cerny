@@ -30,9 +30,9 @@ Stendhal
 [^24]: Od této chvíle již neřeknu ani slovo.  
 [^25]: Zde mluví z něho jakobín (_Pozn. aut.)._  
 [^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.  
-V MKP 1. elektronické vydání z 1. 10. 2022.
+V MKP 1. elektronické vydání z 4. 10. 2022.
 
-![](../Images/image003.jpg)  
+  
 [^1]: V mincích po 6 francích.  
 [^2]: Citáty z Byrona jsou v překladu Pavla Eisnera.  
 [^3]: Hrdinka veršované povídky ,,Paní z Vergy“ hynoucí v domnění, že ji zradil milenec.  
@@ -59,7 +59,7 @@ V MKP 1. elektronické vydání z 1. 10. 2022.
 [^24]: Od této chvíle již neřeknu ani slovo.  
 [^25]: Zde mluví z něho jakobín (_Pozn. aut.)._  
 [^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.  
-V MKP 1. elektronické vydání z 1. 10. 2022.
+V MKP 1. elektronické vydání z 4. 10. 2022.
 
 Stendhal  
 Červený a černý  
@@ -94,7 +94,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^24]: Od této chvíle již neřeknu ani slovo.  
 [^25]: Zde mluví z něho jakobín (_Pozn. aut.)._  
 [^26]: Od La Fontaina; podle nich je „manželský svazek tísnivým ortelem“.  
-V MKP 2. elektronické vydání z 1. 10. 2022.
+V MKP 2. elektronické vydání z 4. 10. 2022.
 
 ***
 
@@ -102,11 +102,11 @@ Znění tohoto textu vychází z díla [Červený a černý](https://search.mlp.
 
 ***
 
-[![](./resources/image001.jpg)](http://creativecommons.org/publicdomain/mark/1.0/deed.cs)
+
 Text díla (Stendhal: Červený a černý), publikovaného  
 [Městskou knihovnou v Praze](http://www.mlp.cz/), není vázán autorskými právy.
 
-[![](./resources/image002.jpg)](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
+
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 ***
