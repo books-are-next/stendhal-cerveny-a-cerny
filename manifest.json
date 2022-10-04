@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stendhal-cerveny-a-cerny-e604951",
-  "revision": "e604951",
+  "identifier": "stendhal-cerveny-a-cerny-fd519fc",
+  "revision": "fd519fc",
   "readingOrder": [
     "promo.html",
     "cerveny_a_cerny_005.html",
@@ -93,8 +93,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:05:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640319307
+    "date": "Tue Oct 04 2022 16:54:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902455744
   },
   "documents": [
     {
@@ -1672,9 +1672,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 119,
+      "words": 116,
       "chars": 786,
-      "ideas": 18,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "cerveny_a_cerny_082.html",
@@ -1692,9 +1692,9 @@
   ],
   "totals": {
     "all": {
-      "words": 144040,
+      "words": 144037,
       "chars": 879111,
-      "ideas": 3833
+      "ideas": 3830
     },
     "chapters": {
       "words": 143915,
